@@ -1,0 +1,31 @@
+---
+import Sidebar from '../components/Sidebar.astro';
+import Analytics from '../components/Analytics.astro';
+import '../styles/global.css';
+const { title, description, current } = Astro.props;
+const full = title ? `${title} — The Gridiron Court` : 'The Gridiron Court';
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{full}</title>
+    <meta name="description" content={description ?? 'A high-fantasy chronicle of the football season, for the people who love someone who watches it.'} />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👑</text></svg>" />
+    <Analytics />
+  </head>
+  <body>
+    <header class="masthead">
+      <div class="masthead-inner">
+        <a href="/" class="wordmark"><span class="the">The</span> Gridiron Court</a>
+        <p class="tagline">A chronicle of the season · Anno 2026</p>
+      </div>
+    </header>
+    <div class="shell">
+      <Sidebar current={current} />
+      <main>
+        <slot />
+      </main>
+    </div>
+  </body>
+</html>

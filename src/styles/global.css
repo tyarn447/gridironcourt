@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&display=swap');
+
+:root {
+  color-scheme: light dark;
+  --paper: #f7f2e8;
+  --paper-2: #efe7d8;
+  --ink: #1e1a24;
+  --ink-soft: #5a5163;
+  --gold: #9a7b3f;
+  --gold-bright: #b8933f;
+  --rule: #d9cdb6;
+  --plum: #3d2340;
+  --serif: 'EB Garamond', Georgia, 'Times New Roman', serif;
+  --display: 'Cormorant Garamond', Georgia, serif;
+  --sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --measure: 34rem;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper: #14111a;
+    --paper-2: #1c1824;
+    --ink: #ece5dc;
+    --ink-soft: #a79fb0;
+    --gold: #c9a24a;
+    --gold-bright: #e0b95c;
+    --rule: #322b3c;
+    --plum: #e3cfe6;
+  }
+}
+:root[data-theme='dark'] {
+  --paper: #14111a; --paper-2: #1c1824; --ink: #ece5dc; --ink-soft: #a79fb0;
+  --gold: #c9a24a; --gold-bright: #e0b95c; --rule: #322b3c; --plum: #e3cfe6;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--serif); font-size: 1.15rem; line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: inherit; text-decoration-color: var(--gold); text-underline-offset: 3px; }
+a:hover { color: var(--gold-bright); }
+img { max-width: 100%; }
+
+/* ---------- shell ---------- */
+.shell { display: grid; grid-template-columns: 17rem minmax(0, 1fr); gap: 3.5rem;
+  max-width: 78rem; margin: 0 auto; padding: 0 1.5rem 6rem; }
+@media (max-width: 900px) { .shell { grid-template-columns: 1fr; gap: 1rem; } }
+
+.masthead { border-bottom: 1px solid var(--rule); margin-bottom: 2.5rem; }
+.masthead-inner { max-width: 78rem; margin: 0 auto; padding: 2rem 1.5rem 1.5rem;
+  display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+.wordmark { font-family: var(--display); font-size: clamp(1.9rem, 5vw, 2.9rem);
+  font-weight: 600; letter-spacing: .02em; margin: 0; text-decoration: none; }
+.wordmark .the { font-style: italic; color: var(--gold); }
+.tagline { font-family: var(--sans); font-size: .74rem; letter-spacing: .16em;
+  text-transform: uppercase; color: var(--ink-soft); margin: 0; }
+
+/* ---------- sidebar ---------- */
+.sidebar { font-family: var(--sans); font-size: .84rem; align-self: start;
+  position: sticky; top: 1.5rem; max-height: calc(100vh - 3rem); overflow-y: auto; }
+@media (max-width: 900px) { .sidebar { position: static; max-height: none; } }
+.sidebar h2 { font-family: var(--display); font-size: 1.35rem; font-weight: 600;
+  margin: 0 0 .25rem; letter-spacing: .01em; }
+.sidebar-note { color: var(--ink-soft); font-size: .74rem; margin: 0 0 1.25rem;
+  font-family: var(--sans); line-height: 1.5; }
+.conf { font-family: var(--sans); font-size: .68rem; letter-spacing: .18em;
+  text-transform: uppercase; color: var(--gold); margin: 1.4rem 0 .3rem;
+  border-bottom: 1px solid var(--rule); padding-bottom: .3rem; }
+.div-label { font-size: .66rem; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--ink-soft); margin: .8rem 0 .2rem; }
+.house-list { list-style: none; margin: 0; padding: 0; }
+.house-list a { display: flex; align-items: center; gap: .5rem; padding: .2rem 0;
+  text-decoration: none; color: var(--ink); }
+.house-list a:hover { color: var(--gold-bright); }
+.house-list a[aria-current='page'] { color: var(--gold-bright); font-weight: 600; }
+.swatch { width: .6rem; height: .6rem; border-radius: 50%; flex: none;
+  box-shadow: 0 0 0 1px var(--rule); }
+.unchronicled { color: var(--ink-soft); font-style: italic; }
+.drawer > summary { cursor: pointer; font-family: var(--sans); font-size: .78rem;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--gold);
+  padding: .75rem 0; border-block: 1px solid var(--rule); list-style: none; }
+.drawer > summary::after { content: ' ▾'; }
+.drawer[open] > summary::after { content: ' ▴'; }
+@media (min-width: 901px) { .drawer > summary { display: none; } .drawer[open] { } }
+
+/* ---------- posts ---------- */
+.section-head { font-family: var(--sans); font-size: .7rem; letter-spacing: .2em;
+  text-transform: uppercase; color: var(--gold); margin: 0 0 1.5rem;
+  border-bottom: 1px solid var(--rule); padding-bottom: .5rem; }
+.card { border-bottom: 1px solid var(--rule); padding-bottom: 2.25rem; margin-bottom: 2.25rem; }
+.card:last-child { border-bottom: 0; }
+.card-meta { font-family: var(--sans); font-size: .7rem; letter-spacing: .14em;
+  text-transform: uppercase; color: var(--ink-soft); margin-bottom: .5rem;
+  display: flex; gap: .6rem; flex-wrap: wrap; align-items: center; }
+.card-meta .chapter { color: var(--gold); }
+.card h3 { font-family: var(--display); font-size: clamp(1.7rem, 4vw, 2.3rem);
+  font-weight: 600; line-height: 1.15; margin: 0 0 .6rem; }
+.card h3 a { text-decoration: none; }
+.card p { margin: 0 0 1rem; color: var(--ink-soft); max-width: var(--measure); }
+.houses-tag { font-family: var(--sans); font-size: .72rem; color: var(--ink-soft); }
+.houses-tag a { text-decoration: none; border-bottom: 1px solid var(--rule); }
+
+.pull { border-left: 2px solid var(--gold); padding: .3rem 0 .3rem 1.1rem;
+  margin: 1.25rem 0 0; font-family: var(--display); font-size: 1.3rem;
+  font-style: italic; color: var(--ink); max-width: var(--measure); }
+.pull .label { display: block; font-family: var(--sans); font-style: normal;
+  font-size: .62rem; letter-spacing: .18em; text-transform: uppercase;
+  color: var(--gold); margin-bottom: .35rem; }
+
+/* ---------- article ---------- */
+.article { max-width: var(--measure); }
+.article-head { margin-bottom: 2.5rem; }
+.article-head h1 { font-family: var(--display); font-weight: 600;
+  font-size: clamp(2.2rem, 6vw, 3.4rem); line-height: 1.08; margin: .3rem 0 .75rem; }
+.prose > :first-child { margin-top: 0; }
+.prose p { max-width: var(--measure); }
+.prose blockquote { border-left: 2px solid var(--gold); margin: 2rem 0;
+  padding-left: 1.1rem; font-style: italic; color: var(--ink-soft); }
+.prose hr { border: 0; height: 1px; background: var(--rule); margin: 2.5rem 0; }
+.prose h2 { font-family: var(--display); font-size: 1.75rem; font-weight: 600;
+  margin: 2.5rem 0 .5rem; }
+.prose strong { font-weight: 600; }
+.prose em { font-style: italic; }
+
+/* ---------- house page ---------- */
+.crest { border: 1px solid var(--rule); border-top: 3px solid var(--house-ink, var(--gold));
+  background: var(--paper-2); padding: 1.75rem; margin-bottom: 2.5rem; }
+.crest h1 { font-family: var(--display); font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 600; margin: 0 0 .35rem; line-height: 1.1; }
+.crest .words { font-family: var(--display); font-style: italic; font-size: 1.35rem;
+  color: var(--gold); margin: 0 0 1rem; }
+.crest dl { display: grid; grid-template-columns: auto 1fr; gap: .3rem 1rem;
+  font-family: var(--sans); font-size: .82rem; margin: 0; }
+.crest dt { color: var(--ink-soft); letter-spacing: .1em; text-transform: uppercase;
+  font-size: .66rem; padding-top: .25rem; }
+.crest dd { margin: 0; }
+.banner { display: flex; gap: .35rem; margin-bottom: 1rem; }
+.banner span { height: .4rem; flex: 1; border-radius: 2px; }
+.notice { border: 1px dashed var(--gold); background: color-mix(in srgb, var(--gold) 7%, transparent);
+  padding: 1rem 1.25rem; font-family: var(--sans); font-size: .85rem;
+  color: var(--ink-soft); margin: 2rem 0; }
+.notice strong { color: var(--ink); }
+.empty { color: var(--ink-soft); font-style: italic; }

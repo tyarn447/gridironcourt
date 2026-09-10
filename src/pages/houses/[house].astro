@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const houses = await getCollection('houses');
+  return houses.map((house) => ({ params: { house: house.id }, props: { house } }));
+}
+
+const { house } = Astro.props;
+const { Content } = await render(house);
+const d = house.data;
+const posts = (await getCollection('posts', ({ data }) => !data.draft && data.houses.includes(house.id)))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+<Base title={`House ${d.team}`} description={`The chronicle of House ${d.team} — ${d.words}`} current={house.id}>
+  <div class="crest" style={`--house-ink:${d.ink}`}>
+    <div class="banner" aria-hidden="true">
+      <span style={`background:${d.ink}`}></span>
+      <span style={`background:${d.gold}`}></span>
+      <span style={`background:${d.ink}`}></span>
+    </div>
+    <h1>House {d.team}</h1>
+    <p class="words">“{d.words}”</p>
+    <dl>
+      <dt>Lands</dt><dd>{d.city}</dd>
+      <dt>Seat</dt><dd>{d.seat}</dd>
+      <dt>Sigil</dt><dd>{d.sigil}</dd>
+      <dt>Allegiance</dt><dd>{d.conference} {d.division}</dd>
+    </dl>
+  </div>
+
+  <div class="prose"><Content /></div>
+
+  {!d.chronicled && (
+    <div class="notice">
+      <strong>This house has not been chronicled yet.</strong> Its wound, its court,
+      its grudges and its spring are still unwritten — as are the real offseason
+      moves this section needs.
+    </div>
+  )}
+
+  <h2 class="section-head" style="margin-top:3.5rem">Dispatches — House {d.team}</h2>
+  {posts.length === 0
+    ? <p class="empty">No dispatches yet for this house.</p>
+    : posts.map((post) => <PostCard post={post} />)}
+</Base>
