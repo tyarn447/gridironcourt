@@ -3,7 +3,7 @@ team: "Seahawks"
 city: "Seattle"
 conference: "NFC"
 division: "West"
-seat: "The Drowned Hall"
+seat: "Lumen Field"
 words: "We Are Twelve"
 sigil: "A seahawk in navy, storm, and green"
 ink: "#002244"
@@ -15,48 +15,62 @@ chronicled: true
 
 One yard.
 
-Eleven winters ago House Seahawks stood one yard from holding the throne a
-second year running. One yard, and the largest man in the realm standing in
-the backfield waiting for a ball that never came. They threw it instead. A
-boy nobody had heard of stepped in front of it in House Patriots' colors, and
-the north went silent for a decade.
+In February of 2015 this house stood one yard from a second consecutive
+throne, with the largest man in the realm standing in the backfield waiting
+for a handoff that never came. They threw it instead. A rookie nobody had
+heard of stepped in front of it in New England's colors, and the north went
+quiet for a decade.
 
-Every house has a wound. Most are slow — a drought, a decline, a lord who
-aged badly. Seattle's took one second and has never closed. Ask anyone in the
-Drowned Hall where they were. They will tell you exactly. They will tell you
-what they were holding.
+Most wounds are slow — a drought, a decline, a lord who ages badly. Seattle's
+took one second. Ask anyone here where they were and they will tell you the
+room, the chair, and what they were holding.
 
-Last winter, against that same house, on that same stage, they finally took
-the throne back.
+Last February they beat that same house 29–13 and took the throne.
 
-It did not undo it. It is not supposed to. That is what makes it romantic.
+It did not undo it. Nothing undoes it. That is rather the point.
 
-## The Current Lord
+## The Lord
 
-The golden one, and the rainy north has organized itself entirely around him.
-He is not a careful man. He plays the way this city drives in the first snow —
-committed, slightly too fast, and beloved for it.
+**Sam Darnold.** A man written off by two houses before this one, who arrived
+in Seattle carrying a reputation he had not been able to outrun since he was
+twenty-one, and who last winter won the whole thing.
 
-*Went down injured in the first hour of this season. His return is the only
-thing anyone here is thinking about.*
+*Injured — hip, on the opening drive of the season. Out indefinitely.*
 
-## The Court
+## The Understudy
 
-- **The Understudy** — a decade in the league, a placeholder in six houses,
-  and now the man who won the opener. His chapter is below.
-- **The Twelfth Man** — not a player. A house of seventy thousand, loud enough
-  to be counted as one, and they will tell you so before you finish the question.
+**Drew Lock**, twenty-nine. Missouri, second round, 2019. Denver looked at
+him and thought *maybe*, then spent eighteen months deciding otherwise. He came
+to Seattle in 2022 as a line item in the Russell Wilson trade and did not take
+a snap that season. A year in New York. Back here last spring, two years and
+five million — insurance money.
+
+Week one: eighteen of twenty-two, 187 yards, and a forty-five-yard touchdown
+that won a Super Bowl rematch.
+
+## The Knights
+
+- **Jaxon Smith-Njigba** — the best of them, and the house's answer to every
+  question a defense asks. Caught the throw that turned week one.
+- **Jadarian Price** — new to the court. Thirty-second overall out of Notre
+  Dame, where he ran for 1,420 yards and eighteen scores. First professional
+  carry went thirteen yards. Ten for fifty-two on the night.
+
+## The Reckoner
+
+**Jason Myers.** Twenty-six yards, 5:50 left, 13–10. No ceremony. That's the job.
 
 ## Ancient Grudges
 
-- **House Patriots.** One yard. Two Super Bowls. Nothing else needs saying.
-- **House 49ers.** The border war. Older, pettier, and conducted almost
-  entirely in the second half of December.
+- **House Patriots.** One yard in 2015. A throne in 2026. The ledger is level
+  now, which both houses find unbearable in different directions.
+- **House 49ers.** The border war — older, pettier, and conducted almost
+  entirely in December.
 
 ## What Changed This Spring
 
-> **⚠ Needs the real offseason moves.** See the note at the bottom of this page.
+> **⚠ Needs the real offseason moves.**
 
 ## Prophecy
 
-That the throne was not a fluke, and that the golden one gets up.
+That the throne wasn't luck, and that Darnold's hip is a delay rather than an ending.

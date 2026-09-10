@@ -24,6 +24,7 @@ const posts = defineCollection({
     chapter: z.string(),       // "Chapter One"
     title: z.string(),         // trope title: "The Understudy"
     trope: z.string(),
+    frame: z.enum(['war', 'intrigue']),   // see VOICE.md — decide before writing
     season: z.number(),
     week: z.number(),
     date: z.coerce.date(),

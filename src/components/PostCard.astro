@@ -9,6 +9,7 @@ const named = houses.filter(Boolean);
   <div class="card-meta">
     <span class="chapter">{post.data.chapter}</span>
     <span>Week {post.data.week}</span>
+    <span>{post.data.frame === 'war' ? 'A war' : 'A court intrigue'}</span>
     <span>{post.data.trope}</span>
   </div>
   <h3><a href={withBase(`/posts/${post.id}/`)}>{post.data.title}</a></h3>

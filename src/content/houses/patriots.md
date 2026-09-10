@@ -3,7 +3,7 @@ team: "Patriots"
 city: "New England"
 conference: "AFC"
 division: "East"
-seat: "The Fold"
+seat: "Gillette Stadium"
 words: "Dynasty Is A Memory"
 sigil: "A minuteman in profile, navy and silver"
 ink: "#002244"
@@ -13,47 +13,47 @@ chronicled: true
 
 ## The Wound
 
-For twenty years House Patriots simply *had* it. Six rings. An empire so total
-that the rest of the realm organized itself around resenting them, and they
-enjoyed that too.
+For two decades this house simply *had* it. Six titles. An empire complete
+enough that the rest of the realm organized itself around resenting them, and
+they enjoyed that part too.
 
-Then the great lord left for the sun, the grey architect left for nothing at
-all, and House Patriots discovered something the other thirty-one houses had
-always known: that most seasons end badly, and that this is normal, and that
-nobody was going to be gentle with them about it.
+Then the great lord left for the sun, the grey steward left for nothing at
+all, and House Patriots learned what the other thirty-one houses had always
+known: that most seasons end badly, that this is ordinary, and that no one
+was going to be kind to them about it.
 
-The wound is not losing. The wound is that they remember being untouchable,
-and everyone else remembers it too, and neither side can let it go.
+The wound isn't losing. It's that they remember being untouchable, everyone
+else remembers it too, and neither side can put it down.
 
-## The Current Lord
+## The Lord
 
-**Drake Maye.** Young, gifted, and carrying an entire region's memory of
-perfection on a back that has not earned any of it yet.
+**Drake Maye**, twenty-three. Gifted, composed, and carrying a region's memory
+of perfection on a back that hasn't earned any of it yet.
 
-Last winter he took them to the final field and lost it. This is the part of
-the story where the young lord either becomes what they need or becomes a
-cautionary tale, and nobody — including him — knows which yet.
+Last February he took them to the final field and lost, 29–13. In week one he
+got the rematch, led at the half, and threw three interceptions — the last
+into the end zone from the sixteen with twenty-six seconds left, with the game
+still entirely available to him.
 
-## The Court
+He is going to be great. That is a separate matter from tonight.
 
-- **The Prize** — the best receiver this house has ever paid for, brought in
-  this spring specifically to give the young lord someone to grow old with.
-  *Injured in his first night in the colors.*
-- **The Fold** — the crowd, the cold, and the deep regional conviction that
-  the rest of the realm is cheating somehow.
+## The Knights
+
+- **A.J. Brown** — the most expensive promise this house has made in years,
+  bought to give the young lord someone to grow old with. *Ankle. Third
+  quarter of his first night in the colors.*
 
 ## Ancient Grudges
 
-- **House Seahawks.** One yard eleven winters ago; the throne last winter. The
-  ledger is level now, which is somehow worse.
-- **House Giants.** Twice they were perfect. Twice House Giants was there.
-- **House Colts, House Ravens, House Chiefs** — the empire made enemies the
-  way weather makes rain.
+- **House Seahawks.** A goal-line interception in 2015 that gave this house a
+  title; a Super Bowl loss in 2026 that took one back. Now a week-one defeat
+  on top. The account will not close.
+- **House Giants.** Twice this house was perfect. Twice House Giants was standing there.
 
 ## What Changed This Spring
 
-> **⚠ Needs the real offseason moves.** See the note at the bottom of this page.
+> **⚠ Needs the real offseason moves.**
 
 ## Prophecy
 
-That the young lord is the answer. Said with feeling. Said every August.
+That the young lord is the answer. Said every August, with feeling.

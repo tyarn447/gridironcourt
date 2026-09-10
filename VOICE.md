@@ -22,6 +22,49 @@ worst kind of good night"). For possessives and bare references, use the
 *Philadelphia was always going to be fine*. Never "Seahawks's." The city is
 also just good prose: it gives you a second word for a house.
 
+## Research — non-negotiable
+
+**Never write a dispatch from memory or inference. Research the game first.**
+Box score, at least two recaps, and the injury news. Every fact in a post —
+score, stat line, who threw it, who caught it, when the injury happened, how
+many years a man has been in the league — must come from a source you actually
+read that week.
+
+Invented detail is the one thing that ends this blog. A fan forwards a post to
+his partner; if the score is wrong or a player is on the wrong team, he never
+forwards another. The fantasy is in the *framing*. The facts underneath it are
+load-bearing and literal.
+
+If a detail can't be confirmed, write around it. Never estimate a man's age,
+never guess how long he's been in the league, never assume who started.
+
+## Titles and ranks
+
+The court has a hierarchy and it maps to positions. Use it consistently.
+
+| Football | Court |
+|---|---|
+| Quarterback | **the Lord** of the house |
+| Backup QB | **the Understudy** |
+| WR / RB / TE | **Knights** — the ones who ride out and get the glory |
+| Offensive line | **the Shieldwall** |
+| Defense | **the Watch** |
+| Head coach | **the Steward** — runs the house, does not play |
+| Owner / GM | **the Crown** / **the Master of Coin** |
+| Rookie | **a new entry to the court** — squire until he does something |
+| Kicker | **the Reckoner** — cold, apart, decides things |
+
+A Lord is singular. A house has one, and losing him is a succession crisis —
+which is why a backup taking over is always the best story available.
+
+## Venues — use the real name
+
+Stadiums are **Lumen Field**, **Gillette Stadium**, **Lambeau Field**. Do not
+invent names for them; a reader who doesn't know "the Drowned Hall" is a reader
+you just lost. Real nicknames that fans already use — the Jungle, the Black
+Hole, the Frozen Tundra, the Dawg Pound, the Linc — are fair game, because
+they're real.
+
 ## Prose rules
 
 1. **Present tense. First person.** The narrator is a person at the game,
@@ -54,6 +97,31 @@ also just good prose: it gives you a second word for a house.
   This is the product. Everything above it is why she'll read the next one.
 - **Sign-off trio:** Ships of the week / Villain of the week / Next week.
 
+## Every game is a war or a court intrigue
+
+Before you write a word, decide which kind of conflict the game was. This is
+the frame; the romance trope sits inside it.
+
+**A WAR** — physical, close, decided by force. Divisional grudges, low-scoring
+slugfests, bad weather, a game won on the ground. Vocabulary: the field, the
+line, the siege, the border, ground taken and given back, casualties, a house
+that holds. Write it as territory.
+
+**A COURT INTRIGUE** — decided by a decision, not a collision. A succession
+crisis (the lord goes down), a betrayal (a former player wrecks his old
+house), a claim pressed (a young lord's first real test), a bargain that
+backfires (the expensive free agent), an ambush (a fourth-down call nobody saw
+coming). Vocabulary: claims, oaths, debts, alliances, the wrong man in the
+right chair. Write it as consequence.
+
+Most games are one or the other and the wrong choice reads as noise. A 13–10
+rock fight framed as court politics feels weightless; a shootout framed as a
+siege feels absurd. **Say which it is in the first three paragraphs** — not
+with the label, but by what you choose to describe.
+
+When both are genuinely present, pick the one the *loser* will be thinking
+about in bed that night. That's the real story.
+
 ## Tropes by game type
 
 | Game | Trope |
@@ -65,6 +133,29 @@ also just good prose: it gives you a second word for a house.
 | Dominant offensive line | Touch her and die |
 | Rookie breakout | Coming of age at court |
 | Aging star's last run | The last season of a long love |
+
+## Sameness — the standing failure
+
+The voice has tics. They were charming once and are now wallpaper. Vary the
+architecture of every post, and treat this list as spent:
+
+- **"He does not X. He does not Y."** The negation-pair. Used to death.
+- **"Reader, ..."** Once per post at the absolute most. Better: zero.
+- **"There is something almost indecent about how much they enjoy it."** And
+  every other "there is something [adverb] [adjective] about..." construction.
+- **"Something in my chest does something unforgivable."** Retired.
+- Three-word fragment on its own line, used more than twice in a post.
+- Opening two consecutive posts with the same move (a man's appearance, a
+  rhetorical question, a number).
+
+Concretely: **vary sentence length across the whole post, not just at the
+turn.** A page of fragments is as monotonous as a page of long sentences. Let
+one paragraph run long and sinuous; let the next be four flat words. Change
+where the emphasis falls. Change what the first sentence does — sometimes a
+fact, sometimes a man, sometimes a flat declarative about time.
+
+If two posts in a row could swap paragraphs without anyone noticing, the voice
+has stopped working.
 
 ## Hard limits
 
