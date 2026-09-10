@@ -47,6 +47,12 @@ Minnesota than most houses spend on anyone.
 Seven years, one plan, and it ends with a scheduled announcement and a bill
 that arrives for two more winters.
 
+The steward went too. **Jonathan Gannon** left having won fifteen games and
+lost thirty-six across his time here, and **Mike Lafleur** — who ran the
+offence in Los Angeles for the house currently favoured to win everything —
+has the job now. New steward, no lord, and fifty-five million a year of
+nothing on the books. That is the position from which Arizona begins.
+
 ## The Lord
 
 **Jacoby Brissett**, thirty-three, who has spent his career being the

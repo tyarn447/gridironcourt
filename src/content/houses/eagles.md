@@ -27,6 +27,26 @@ Then last January they went 11–6, hosted the first round, and lost at home
 to San Francisco, 23–19. Four points. The city took it exactly as well as
 you would expect.
 
+## The Untested Hand
+
+This house won a throne in February 2025 and then, the following winter,
+took the division and lost at home in the first round — 23–19 to San
+Francisco. Four points. A defence of the title that ended in January with
+the crowd still in the building.
+
+The response was to hand the offence to **Sean Mannion**, who has never
+called plays in a professional game.
+
+Not *rarely*. Never. Philadelphia looked at a four-point home defeat and an
+offence that had stopped producing, and appointed a man with no experience
+of the specific job, in the most impatient city in the realm, with a lord
+whose method has been publicly argued about for four years.
+
+If it works, it is the boldest appointment of the offseason and everyone
+will say they saw it. If it does not, this crowd will know inside three
+weeks and will make certain he knows too. There is no quiet version of
+being wrong here.
+
 ## The Lord
 
 **Jalen Hurts.** Short, enormous through the legs, and in possession of the
