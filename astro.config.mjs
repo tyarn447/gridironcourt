@@ -1,15 +1,15 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// Deployed at https://tyarn447.github.io/gridironcourt while DNS is unset.
+// Live at https://gridironcourt.com (custom domain, see public/CNAME).
 //
-// TO SWITCH TO thegridironcourt.com once DNS is pointed (see README):
-//   1. SITE = 'https://thegridironcourt.com'  and  BASE = '/'
-//   2. echo 'thegridironcourt.com' > public/CNAME
-//   3. Settings -> Pages -> Custom domain
-// Every link in the site goes through withBase(), so nothing else changes.
-const SITE = 'https://tyarn447.github.io';
-const BASE = '/gridironcourt';
+// TO ROLL BACK to the project page if DNS ever breaks:
+//   1. SITE = 'https://tyarn447.github.io'  and  BASE = '/gridironcourt'
+//   2. rm public/CNAME
+//   3. unset the custom domain in Settings -> Pages
+// Every link goes through withBase(), so nothing else changes.
+const SITE = 'https://gridironcourt.com';
+const BASE = '/';
 
 export default defineConfig({
   site: SITE,

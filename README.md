@@ -66,21 +66,21 @@ visitors, which on a link-forwarded blog is not a small share of them.
 Pushing to `main` builds and deploys via `.github/workflows/deploy.yml`.
 In the repo: **Settings → Pages → Source → GitHub Actions**.
 
-### DNS for thegridironcourt.com
+### DNS for gridironcourt.com
 
-`public/CNAME` claims the custom domain, so **the site will 404 until DNS is
-pointed.** At your registrar, for the apex domain:
+Registrar: Namecheap. Records live under **Domain List -> Manage -> Advanced DNS**.
 
-| Type | Name | Value |
+| Type | Host | Value |
 |---|---|---|
 | A | @ | 185.199.108.153 |
 | A | @ | 185.199.109.153 |
 | A | @ | 185.199.110.153 |
 | A | @ | 185.199.111.153 |
-| CNAME | www | tyarn447.github.io |
+| CNAME | www | tyarn447.github.io. |
 
-Then **Settings → Pages → Custom domain** → `thegridironcourt.com`, and tick
-**Enforce HTTPS** once the certificate is issued (can take an hour).
+GitHub redirects `www` to the apex automatically once both are set.
 
-To launch before DNS is ready, follow the fallback comment in
-`astro.config.mjs`.
+The custom domain is claimed by `public/CNAME`, so **if DNS ever stops
+resolving the site goes down at both addresses** — the github.io URL stops
+serving once a custom domain is set. Rollback steps are in `astro.config.mjs`.
+
