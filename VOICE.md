@@ -82,6 +82,38 @@ game. Those rot within days and make the whole site look abandoned.
 The test: read the page in December and ask whether any sentence has quietly
 become false.
 
+## The drama section — where a house has one
+
+Some houses have a live, ongoing mess that is more interesting than anything
+in their history. When one does, give it **its own section, immediately after
+The Wound**, and title it for that house rather than reusing a label:
+
+- House Browns → **The Succession** (four men claiming one seat)
+- House Dolphins → **The Dismantling** (lord and both knights gone in a spring)
+- House Vikings → **The Rented Lord** (their own first-round heir benched
+  for a twelve-month signing)
+
+Rules for it:
+- **Only where one genuinely exists.** Most houses don't have one, and a
+  manufactured scandal reads instantly as filler. A quiet house is allowed
+  to be quiet.
+- **It is a conflict between people**, not a transaction summary. Two men
+  and one chair. A house that sold its own speed. Somebody watching from a
+  bench in a building with his name on the draft card.
+- **Never reuse a heading.** The moment two houses share one, the whole set
+  reads as a template.
+- **Say what it costs and who pays.** "There is no version of this that ends
+  quietly" is the shape — name the ways it can go and note that all of them
+  hurt.
+- The factual version still belongs in **What Changed This Spring**. The
+  drama section is the story; that section is the ledger.
+
+Candidates worth writing when there's time: House Jets (fifty-seven years,
+and the lord they discarded in 2013 is back), House Raiders (a rookie
+everyone came to see, sitting behind a thirty-eight-year-old), House Chiefs
+(already carried in the Wound — a king returning from a knee to a realm that
+refuses to believe the fall).
+
 ## Research — non-negotiable
 
 **Never write a dispatch from memory or inference. Research the game first.**

@@ -10,6 +10,8 @@ ink: "#008E97"
 gold: "#FC4C02"
 tier: "fallen"
 record2025: "7-10"
+status: "Tyreek Hill released and unsigned after a second knee operation"
+statusAsOf: 2026-09-10
 chronicled: true
 ---
 
@@ -21,20 +23,45 @@ slightly worse, because the boast has quietly become the whole estate — a
 house that keeps a trophy from before most of its bannermen were born and
 has not won a postseason game since the year 2000.
 
+## The Dismantling
+
+Last season this house lost its lord, its finest knight, and then let a third
+man go for good measure. None of it was a plan. All of it happened anyway.
+
+**Tua Tagovailoa** took his third diagnosed concussion in Week 2, against
+Buffalo, in front of everyone. It was not a football injury by then — it was
+a medical argument conducted in public, with a portion of the realm openly
+asking whether he should be permitted to continue at all. This spring Miami
+let him go. He signed in Atlanta for the league minimum, which tells you what
+the rest of the realm concluded.
+
+**Tyreek Hill** — for three years the fastest and most frightening man in
+the sport — dislocated his knee in Week 4 and tore multiple ligaments in it.
+Miami released him. The release saved twenty-two million and cost
+twenty-eight in dead money, which is the rare transaction that makes a house
+poorer in every direction at once. He has since had a second operation. He
+remains unsigned. His best remaining hope is that some house needs a ghost
+in December.
+
+And **Jaylen Waddle**, the last one standing, was traded to Denver.
+
+Lord, knight, and knight. In one spring. The house that was built entirely on
+being faster than everyone else sold the speed and kept the debt.
+
 ## The Lord
 
-**Malik Willis**, who arrived this spring on sixty-seven and a half million
-dollars, fully guaranteed. That number is not a compliment. That number is a
-house so tired of the question that it paid whatever the answer cost.
+**Malik Willis**, who arrived on sixty-seven and a half million dollars,
+fully guaranteed.
 
-He has been in the league since 2022 and has started a handful of games. Now
-he owns the most guaranteed money any Dolphin has been handed in years. Miami
-has bet the estate on a man the rest of the realm had stopped watching.
+That number is not a compliment. That is a house so tired of the question
+that it paid whatever the answer cost. He has been in the league since 2022
+and started a handful of games. Miami has bet the estate on a man the rest
+of the realm had stopped watching.
 
 ## The Knights
 
-- **De'Von Achane** — extended for sixty-eight million, and the most genuinely
-  frightening thing this house owns.
+- **De'Von Achane** — extended for sixty-eight million, and now the only
+  genuinely frightening thing this house owns.
 
 ## Ancient Grudges
 
@@ -43,11 +70,11 @@ has bet the estate on a man the rest of the realm had stopped watching.
 
 ## What Changed This Spring
 
-The Willis contract, and the departure of **Jaylen Waddle** to Denver. They
-sold a proven knight and bought an unproven lord. The realm has them last in
-the standings and near-last in belief; nobody outside this state expects it
-to work.
+Everything, and none of it upward. Out: **Tagovailoa**, **Hill**, **Waddle**.
+In: **Willis**, on the largest guarantee this house has ever handed anyone.
+The realm ranks Miami thirty-first of thirty-two and considers them the most
+likely house in the sport to win three games or fewer.
 
 ## Prophecy
 
-That 1972 stops being the only thing anyone says about them.
+That 1972 stops being the only thing anyone says about them. Not this year.

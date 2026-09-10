@@ -10,6 +10,8 @@ ink: "#4F2683"
 gold: "#FFC62F"
 tier: "contested"
 record2025: "9-8"
+status: "Kyler Murray starting; J.J. McCarthy on the bench"
+statusAsOf: 2026-09-10
 chronicled: true
 ---
 
@@ -23,18 +25,34 @@ missed kick, a dropped pass, a fifteen-yard penalty at the exact wrong
 moment — each one distinctive enough that the bannermen can list them in
 order. Minnesota does not lose vaguely. It loses in ways that get names.
 
+## The Rented Lord
+
+Two years ago this house spent a first-round pick on **J.J. McCarthy** and
+told everyone he was the future. That is the arrangement: you take a young
+man tenth overall, you absorb the mistakes, and in exchange you get the
+years on the other side of them.
+
+Minnesota has decided it does not want to wait.
+
+This spring, the day after Arizona released him, they signed **Kyler Murray**
+to a one-year deal. Not an extension. Not a succession plan. Twelve months,
+explicitly temporary, and the young man they drafted watches from the bench
+in his own building while a rented lord holds his seat.
+
+There is no version of this that ends quietly. If Murray is good, this house
+has spent a first-round pick to produce a spectator. If Murray is not good,
+they benched their own heir to find that out. And either way the lease
+expires in January and the whole argument begins again, in public, with
+everyone in the room having watched the first one.
+
 ## The Lord
 
-**Kyler Murray**, on a one-year deal, after Arizona released him.
-
-And behind him: **J.J. McCarthy**, this house's own first-round pick from
-2024, now on the bench. That is not a depth chart. That is a house
-abandoning its own plan and renting a solution for twelve months, in public,
-where the young man it drafted can watch.
+**Kyler Murray**, for one year, on his second house, after being released by
+the one that built a decade around him.
 
 ## The Knights
 
-- **Jauan Jennings** — eight million, a modest addition.
+- **Jauan Jennings** — eight million, a modest addition to a modest spring.
 
 ## Ancient Grudges
 
@@ -46,7 +64,7 @@ where the young man it drafted can watch.
 
 **Murray** for one year, **Jennings** added, **Jonathan Greenard** lost to
 Philadelphia. A house that went 9–8 and responded by replacing its young lord
-with a one-year rental. Everything about this season is temporary by design.
+with a rental. Everything about this season is temporary by design.
 
 ## Prophecy
 
