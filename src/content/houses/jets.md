@@ -26,16 +26,41 @@ longest active drought in the sport.
 The tragedy of this house is not that it fails. It is that it fails
 *inventively*, in ways nobody predicts, every year, forever.
 
+## The Six Hundred Dollars
+
+Here is how this house loses a lord.
+
+They drafted **Geno Smith** in 2013 and handed him the seat. He held it two
+years. Then, in August of 2015, a teammate approached him in the locker room
+about a plane ticket — six hundred dollars, for a football camp in Texas that
+Smith had missed because someone close to him had died in a motorcycle
+accident days before.
+
+The teammate wanted the six hundred dollars back. Smith did not pay it.
+
+The teammate broke his jaw. Two fractures. He was released within hours and
+claimed by Buffalo the following day; Smith missed the opening of the season,
+watched **Ryan Fitzpatrick** get hot in his absence, and played exactly one
+game that year. He never got the seat back. He was gone from the house
+inside two more seasons.
+
+A lord of this house lost his throne over six hundred dollars and a punch he
+did not see coming. There is no other house in the realm where that sentence
+is even possible.
+
+**He is back.** Traded home this spring, thirty-six years old, having spent
+the intervening decade elsewhere becoming precisely the thing New York
+decided he wasn't — a starter, a Pro Bowler, a man who won games. The house
+that gave up on him has run out of other ideas and sent for him.
+
+Whether that is a restoration or the setup for the next inventive disaster
+is, genuinely, anyone's guess. It is the Jets. It has never once been the
+first thing.
+
 ## The Lord
 
-**Geno Smith**, and there is no version of this that isn't a story.
-
-This house drafted him in 2013, decided he was not the answer, and let him
-go. He spent a decade elsewhere becoming the thing they said he wasn't — a
-starter, a Pro Bowler, a man who won games in Seattle. This spring the Jets
-traded to bring him home.
-
-He is thirty-six years old and back in the building that gave up on him.
+**Geno Smith**, thirty-six, back in the building that broke his jaw and
+gave away his job.
 
 ## The Knights
 
@@ -51,14 +76,15 @@ He is thirty-six years old and back in the building that gave up on him.
   version you are told — and then New England spent twenty years winning,
   loudly, next door. The Jets have never let it go. New England barely
   noticed.
-- **House Bills, House Dolphins.** Divisional, eternal, and mostly beside the point.
+- **House Bills.** Divisional, cold, and additionally the house that claimed
+  the man who broke their quarterback's jaw. Nobody has forgotten.
 
 ## What Changed This Spring
 
-They brought **Geno Smith** back, paid **Breece Hall**, added
+They brought **Geno Smith** home, paid **Breece Hall**, added
 **Minkah Fitzpatrick** and **Joseph Ossai**, and sent **Justin Fields** to
-Kansas City. That's a house making real moves. Nobody believes it, and the
-realm ranks them twenty-eighth.
+Kansas City. That is a house making real moves. Nobody believes it, and the
+realm ranks them twenty-eighth of thirty-two.
 
 ## Prophecy
 
