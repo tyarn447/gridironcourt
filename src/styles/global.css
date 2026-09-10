@@ -57,9 +57,7 @@ img { max-width: 100%; }
   text-transform: uppercase; color: var(--ink-soft); margin: 0; }
 
 /* ---------- sidebar ---------- */
-.sidebar { font-family: var(--sans); font-size: .84rem; align-self: start;
-  position: sticky; top: 1.5rem; max-height: calc(100vh - 3rem); overflow-y: auto; }
-@media (max-width: 900px) { .sidebar { position: static; max-height: none; } }
+.sidebar { font-family: var(--sans); font-size: .84rem; align-self: start; }
 .sidebar h2 { font-family: var(--display); font-size: 1.35rem; font-weight: 600;
   margin: 0 0 .25rem; letter-spacing: .01em; }
 .sidebar-note { color: var(--ink-soft); font-size: .74rem; margin: 0 0 1.25rem;
@@ -76,13 +74,45 @@ img { max-width: 100%; }
 .house-list a[aria-current='page'] { color: var(--gold-bright); font-weight: 600; }
 .swatch { width: .6rem; height: .6rem; border-radius: 50%; flex: none;
   box-shadow: 0 0 0 1px var(--rule); }
-.unchronicled { color: var(--ink-soft); font-style: italic; }
-.drawer > summary { cursor: pointer; font-family: var(--sans); font-size: .78rem;
-  letter-spacing: .14em; text-transform: uppercase; color: var(--gold);
-  padding: .75rem 0; border-block: 1px solid var(--rule); list-style: none; }
-.drawer > summary::after { content: ' ▾'; }
-.drawer[open] > summary::after { content: ' ▴'; }
-@media (min-width: 901px) { .drawer > summary { display: none; } .drawer[open] { } }
+
+/* The toggle is mobile-only; the checkbox stays focusable for keyboards. */
+.nav-check { position: absolute; width: 1px; height: 1px; opacity: 0;
+  margin: 0; pointer-events: none; }
+.nav-toggle { display: none; }
+
+@media (min-width: 901px) {
+  /* Desktop: always open, sticky, scrolls independently. */
+  .sidebar { position: sticky; top: 1.5rem;
+    max-height: calc(100vh - 3rem); overflow-y: auto; }
+}
+
+@media (max-width: 900px) {
+  /* Mobile: collapsed to one line so the content is reachable immediately. */
+  .nav-toggle { display: flex; align-items: baseline; gap: .5rem; flex-wrap: wrap;
+    cursor: pointer; user-select: none;
+    font-size: .72rem; letter-spacing: .16em; text-transform: uppercase;
+    color: var(--gold); padding: .85rem 0; margin: 0;
+    border-block: 1px solid var(--rule); }
+  .nav-toggle::after { content: '▾'; margin-left: auto; font-size: .8rem; }
+  .nav-check:checked ~ .nav-toggle::after { content: '▴'; }
+  .nav-check:focus-visible ~ .nav-toggle { outline: 2px solid var(--gold);
+    outline-offset: 3px; }
+  .nav-toggle-current { text-transform: none; letter-spacing: .02em;
+    font-family: var(--serif); font-size: .95rem; font-style: italic;
+    color: var(--ink-soft); }
+
+  .house-nav { display: none; padding-bottom: 1rem;
+    border-bottom: 1px solid var(--rule); }
+  .nav-check:checked ~ .house-nav { display: block; }
+
+  /* Two columns when open, so 32 houses aren't a mile of scrolling. */
+  .sidebar h2 { display: none; }
+  .sidebar-note { margin: 1rem 0 .5rem; }
+  .div-block { break-inside: avoid; }
+  .conf-block { columns: 2; column-gap: 1.25rem; }
+  .conf { column-span: all; }
+  .house-list a { padding: .3rem 0; }
+}
 
 /* ---------- posts ---------- */
 .section-head { font-family: var(--sans); font-size: .7rem; letter-spacing: .2em;
