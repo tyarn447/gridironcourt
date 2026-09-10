@@ -8,6 +8,8 @@ words: "We Are Still New Here"
 sigil: "A black panther on Carolina blue"
 ink: "#0085CA"
 gold: "#101820"
+tier: "diminished"
+record2025: "8-9"
 chronicled: false
 ---
 

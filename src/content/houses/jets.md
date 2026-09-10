@@ -8,6 +8,8 @@ words: "We Believe Anyway"
 sigil: "A green wing, endlessly rising"
 ink: "#125740"
 gold: "#FFFFFF"
+tier: "fallen"
+record2025: "3-14"
 chronicled: false
 ---
 

@@ -8,6 +8,8 @@ words: "Do Not Mention The Lead"
 sigil: "A falcon shaped like an F"
 ink: "#A71930"
 gold: "#000000"
+tier: "fallen"
+record2025: "8-9"
 chronicled: false
 ---
 

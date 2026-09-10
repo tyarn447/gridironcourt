@@ -8,6 +8,8 @@ words: "Patience Is A Vow"
 sigil: "A jaguar in teal and gold"
 ink: "#006778"
 gold: "#D7A22A"
+tier: "contested"
+record2025: "13-4"
 chronicled: false
 ---
 

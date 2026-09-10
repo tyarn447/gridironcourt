@@ -11,6 +11,13 @@ export async function getStaticPaths() {
 const { house } = Astro.props;
 const { Content } = await render(house);
 const d = house.data;
+const TIER_LABEL = {
+  great: 'A Great House',
+  ascendant: 'Ascendant',
+  contested: 'The Contested Middle',
+  diminished: 'Diminished',
+  fallen: 'Fallen',
+};
 const posts = (await getCollection('posts', ({ data }) => !data.draft && data.houses.includes(house.id)))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 ---
@@ -28,6 +35,7 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft && data.ho
       <dt>Seat</dt><dd>{d.seat}</dd>
       <dt>Sigil</dt><dd>{d.sigil}</dd>
       <dt>Allegiance</dt><dd>{d.conference} {d.division}</dd>
+      <dt>Standing</dt><dd>{TIER_LABEL[d.tier]} · {d.record2025} last season</dd>
     </dl>
   </div>
 

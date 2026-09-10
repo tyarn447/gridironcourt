@@ -8,6 +8,8 @@ words: "Six And Counting"
 sigil: "Three hypocycloids, gold on black"
 ink: "#FFB612"
 gold: "#101820"
+tier: "diminished"
+record2025: "10-7"
 chronicled: false
 ---
 

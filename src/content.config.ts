@@ -14,6 +14,10 @@ const houses = defineCollection({
     ink: z.string(),           // primary color
     gold: z.string(),          // accent color
     // false until the full chronicle + offseason section is written.
+    // Standing in the realm as of Sept 2026 — see reference/REALM-2026.md.
+    // Drives what counts as an upset. Revisit as the season disagrees.
+    tier: z.enum(['great', 'ascendant', 'contested', 'diminished', 'fallen']),
+    record2025: z.string(),
     chronicled: z.boolean().default(false),
   }),
 });
