@@ -96,6 +96,12 @@ The Wound**, and title it for that house rather than reusing a label:
   plane ticket and a broken jaw, traded home a decade later)
 - House Raiders → **The Uncrowned** (the first overall pick, holding a
   clipboard, with no seam in the schedule to hand over a throne)
+- House Rams → **The Heir in the Room** (all-in for the reigning MVP, and
+  they drafted his replacement in the same spring)
+- House Cardinals → **Four O'Clock** (released their franchise lord at the
+  exact minute the league year opened, and still owe him $55m)
+- House Bears → **The Weapon They Sold** (traded the young lord's best
+  knight, and he had to answer for it in public)
 
 Rules for it:
 - **Only where one genuinely exists.** Most houses don't have one, and a
