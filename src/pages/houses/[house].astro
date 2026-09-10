@@ -36,6 +36,14 @@ const posts = (await getCollection('posts', ({ data }) => !data.draft && data.ho
       <dt>Sigil</dt><dd>{d.sigil}</dd>
       <dt>Allegiance</dt><dd>{d.conference} {d.division}</dd>
       <dt>Standing</dt><dd>{TIER_LABEL[d.tier]} · {d.record2025} last season</dd>
+      {d.status && (
+        <>
+          <dt>Status</dt>
+          <dd>{d.status}{d.statusAsOf && (
+            <span class="asof"> — as of {d.statusAsOf.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'UTC' })}</span>
+          )}</dd>
+        </>
+      )}
     </dl>
   </div>
 

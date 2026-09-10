@@ -36,6 +36,31 @@ read as — and the two houses currently out of position (Kansas City went
 Keep it current. A blog still calling a 9–2 team plucky underdogs in November
 has stopped paying attention.
 
+## House pages are evergreen — dispatches are dated
+
+A dispatch is a chapter: written on a night, about that night, never touched
+again. A house page is a **reference**. Someone lands on it in November after
+a friend forwards a link, and everything on it has to still be true.
+
+**Never put in a house page body:** "tonight", "last night", "this week",
+"week one", "currently", "so far", "right now", or a stat line from a single
+game. Those rot within days and make the whole site look abandoned.
+
+- **Anchor history to absolute dates.** "In February 2026", "in 2015" — never
+  "last winter", which is wrong by January.
+- **Volatile facts go in the `status` frontmatter field**, with `statusAsOf`.
+  It renders in the crest with its date, so a stale one is visibly stale
+  rather than quietly lying. Injuries, who's starting, a suspension — that's
+  what the field is for.
+- **Describe character, not form.** "He has never once been anyone's first
+  choice, and he is very hard to embarrass" is true in September and in
+  January. "18 of 22 last week" is true for six days.
+- Single-game detail belongs in the dispatch. If a house page needs it, the
+  house page is doing the dispatch's job.
+
+The test: read the page in December and ask whether any sentence has quietly
+become false.
+
 ## Research — non-negotiable
 
 **Never write a dispatch from memory or inference. Research the game first.**
@@ -176,7 +201,34 @@ has stopped working.
 - Never mock the reader for not knowing football.
 - Never mock romantasy readers. The genre is the *format*, not the punchline.
   The bit only works because it's played completely straight.
-- Keep it to 500–700 words. She is reading this on her phone.
+- See **Length** above. 350–500 words.
+
+## The Record — where the facts go
+
+The story carries no numbers. None. Every score, stat line, and clock reading
+goes in the `record` frontmatter array, which renders as a small grey ledger
+under the post.
+
+This is what lets the blog serve two readers at once. She reads a court story
+and never sees a stat; he checks six lines and confirms it's accurate. Neither
+reads the other's half, and the post is shorter for it.
+
+**In the prose**, a number is only allowed when it has stopped being a
+statistic and become a fact about a person: *"He was asked twenty-two times.
+He answered eighteen."* If it reads like a box score, it belongs in the Record.
+
+Forbidden in the story: quarterback, pass, completion, reception, touchdown,
+field goal, interception, sack, punt, third down, yardage. The reader knows
+what game this is. Say what it cost someone instead.
+
+## Length
+
+**350–500 words.** Hard ceiling 550. She is reading this on her phone between
+other things, and the single most common way this blog fails is by being
+longer than the interest it has earned.
+
+Three to five beats. One Turn. Cut the paragraph you like most if it isn't
+doing work — it's usually the one showing off.
 
 ## Altitude — the most important rule
 
