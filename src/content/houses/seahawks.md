@@ -68,7 +68,14 @@ He has never once been anyone's first choice, and he is very hard to embarrass.
 
 ## What Changed This Spring
 
-> **⚠ Needs the real offseason moves.**
+They let **Kenneth Walker III** go — the Super Bowl MVP, the man who carried
+them through the final field in February — and Kansas City signed him to the
+largest free-agent contract in the history of the sport.
+
+The champions declined to pay their own MVP and handed the job to a
+thirty-second overall rookie instead. It is either ruthless cap discipline
+or the most arrogant thing any house did this year, and there is no way to
+know which until January.
 
 ## Prophecy
 

@@ -15,37 +15,43 @@ chronicled: true
 
 ## The Wound
 
-House Eagles' wound is not a loss. It is the suspicion — held quietly, in a
-city that would deny it under oath — that the rest of the realm considers them
-a lesser house dressed up in a good year.
+House Eagles' wound is not a defeat. It is the suspicion — held quietly, in a
+city that would deny it under oath — that the rest of the realm considers
+them a lesser house dressed up in a good year.
 
-So they made it their words. *No One Likes Us.* They put the thing that hurt
-on the banner and walked out under it, which is, frankly, the most emotionally
-healthy decision any house in this realm has ever made.
+So they made it the motto. *No One Likes Us.* They put the thing that hurt on
+the banner and walked out under it, which is the most emotionally healthy
+decision any house in this realm has ever made.
 
-## The Current Lord
+Then last January they went 11–6, hosted the first round, and lost at home
+to San Francisco, 23–19. Four points. The city took it exactly as well as
+you would expect.
 
-Short. Enormous through the legs. Does not point at the crowd. Does not point
-at anything. He has spent his career being told what he is not, and answering
-in the least interesting way available: by winning, unglamorously, four yards
-at a time.
+## The Lord
 
-## The Court
+**Jalen Hurts.** Short, enormous through the legs, and in possession of the
+least glamorous method in the sport: take the ball, go forward four yards,
+repeat until the game is over. It has won him a throne. The realm still
+argues about him weekly.
 
-- **The Line** — six men who genuinely appear to enjoy this. The most
-  frightening thing in football is a house that finds the boring part fun.
-- **The Deep Threat** — elegance, in a house that does not require it.
+## The Knights
+
+- **Jonathan Greenard** — on the Watch, traded in and given a hundred
+  million, the biggest single bet this house made this year.
+- **Jordan Davis** — seventy-eight million to stay immovable.
 
 ## Ancient Grudges
 
-- **House Cowboys.** One border, no goodwill, and the enormous pleasure of
-  being the one who actually wins.
-- **House Giants, House Commanders.** Divisional, eternal, conducted at volume.
+- **House Cowboys.** One border, no goodwill, and the considerable pleasure
+  of being the one that actually wins.
+- **House Giants, House Commanders.** Divisional, ancient, conducted at volume.
 
 ## What Changed This Spring
 
-> **⚠ Needs the real offseason moves.** See the note at the bottom of this page.
+**Greenard** for a hundred million, **Davis** extended, **Andy Dalton**
+brought in as the Understudy. A house strengthening the Watch after losing a
+home playoff game by four.
 
 ## Prophecy
 
-That the boring thing keeps working, and that everyone stays mad about it.
+That the unglamorous thing keeps working and everyone stays furious about it.
