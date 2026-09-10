@@ -1,4 +1,5 @@
 ---
+import { withBase } from '../config';
 import { getCollection } from 'astro:content';
 const { current } = Astro.props;
 const houses = await getCollection('houses');
@@ -30,7 +31,7 @@ const grouped = ['AFC', 'NFC'].map((conf) => ({
             <ul class="house-list">
               {houses.map((h) => (
                 <li>
-                  <a href={`/houses/${h.id}/`} aria-current={current === h.id ? 'page' : undefined}>
+                  <a href={withBase(`/houses/${h.id}/`)} aria-current={current === h.id ? 'page' : undefined}>
                     <span class="swatch" style={`background:${h.data.ink}`} aria-hidden="true"></span>
                     <span class={h.data.chronicled ? '' : 'unchronicled'}>House {h.data.team}</span>
                   </a>

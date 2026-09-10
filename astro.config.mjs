@@ -1,16 +1,18 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 
-// Configured for the custom domain in public/CNAME (thegridironcourt.com).
-// Site will not resolve until DNS points at GitHub Pages — see README.
+// Deployed at https://tyarn447.github.io/gridironcourt while DNS is unset.
 //
-// FALLBACK, if you'd rather launch on tyarn447.github.io/gridironcourt first:
-//   1. delete public/CNAME
-//   2. site: 'https://tyarn447.github.io', base: '/gridironcourt'
-//   3. every root-relative link (hrefs in src/, and the markdown link in
-//      src/content/houses/seahawks.md) needs the /gridironcourt prefix
+// TO SWITCH TO thegridironcourt.com once DNS is pointed (see README):
+//   1. SITE = 'https://thegridironcourt.com'  and  BASE = '/'
+//   2. echo 'thegridironcourt.com' > public/CNAME
+//   3. Settings -> Pages -> Custom domain
+// Every link in the site goes through withBase(), so nothing else changes.
+const SITE = 'https://tyarn447.github.io';
+const BASE = '/gridironcourt';
+
 export default defineConfig({
-  site: 'https://thegridironcourt.com',
-  base: '/',
+  site: SITE,
+  base: BASE,
   markdown: { shikiConfig: { theme: 'css-variables' } },
 });
