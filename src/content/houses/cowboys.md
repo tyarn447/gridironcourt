@@ -15,37 +15,42 @@ chronicled: true
 
 ## The Wound
 
-Thirty years ago House Cowboys held the throne three times in four winters.
-They have not reached the final war since.
+Three thrones in four winters in the early 1990s. And then nothing — not a
+conference championship appearance since, which is now thirty years of the
+most valuable, most televised, most discussed house in the realm arriving
+every January with nothing to show.
 
-Every autumn they are declared the richest house in the realm. Every winter
-they are eliminated by a house with a quarter of their gold. They have never
-once considered that this might be their fault.
+Every autumn they are declared rich. Every winter they are eliminated by
+someone poorer. It has happened so many times that the realm has stopped
+finding it interesting, which Dallas finds more insulting than the losing.
 
-## The Current Lord
+## The Lord
 
-A lord of genuine gifts who plays his best football in the games that do not
-matter and his worst in the games that do. The realm has decided this is a
-character flaw. It may just be variance. He will not be allowed to find out.
+**Dak Prescott.** Reliable, well-paid, and permanently on trial. He has been
+good for a decade in a house where good has never been the question. The
+question is January, and he has not been given many chances to answer it.
 
-## The Court
+Last year: 7–9–1. Not even a proper failure.
 
-- **The Edge Knight** — the most feared man on the field. Paid accordingly, late.
-- **The Prodigy** — twenty-three, catches everything, has not yet learned what
-  happens here.
-- **The Aging Marshal** — a defensive captain running on reputation and rage.
+## The Knights
+
+- **Rashan Gary** — on the Watch, taken from Green Bay this spring.
+- **Brandon Aubrey** — the Reckoner, twenty-eight million, and genuinely one
+  of the best things about watching this house.
 
 ## Ancient Grudges
 
-- **House Eagles.** The only rival that recently did the thing House Cowboys
-  keeps promising to do. Unforgivable.
-- **House Commanders.** A lesser house that beat them once in a winter that
-  mattered, and will hear about it forever.
+- **House Eagles.** The rival that keeps doing the thing Dallas keeps
+  promising. Unforgivable, and getting worse.
+- **House Commanders, House Giants.** Old, loud, and full of grievances that
+  predate everyone currently involved.
 
 ## What Changed This Spring
 
-> **⚠ Needs the real offseason moves.** See the note at the bottom of this page.
+**Gary** by trade, **Javonte Williams** extended, **Aubrey** paid. Modest
+work for a house of this size — Dallas spent the offseason patching rather
+than rebuilding, after a season that finished under .500.
 
 ## Prophecy
 
-*"This is the year."* It is said every August. It is said with real feeling.
+*"This is the year."* Said every August. Said with real feeling.

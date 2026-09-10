@@ -10,23 +10,45 @@ ink: "#0C2340"
 gold: "#4B92DB"
 tier: "fallen"
 record2025: "3-14"
-chronicled: false
+chronicled: true
 ---
 
 ## The Wound
-*Not yet chronicled.*
 
-## The Current Lord
-*Not yet chronicled.*
+One yard. Again — this realm has two houses undone by the same distance.
 
-## The Court
-*Not yet chronicled.*
+February 2000: this house, in its only appearance on the final field, was
+tackled one yard short as time expired. One yard from forcing overtime for
+the championship of the world. It has never been back.
+
+They also left Houston to get here, which means their founding act was
+somebody else's grief.
+
+## The Lord
+
+**Cam Ward**, in his second season, first overall pick, on a house that won
+three games last year. He is being asked to rebuild something with no help
+and no cover, which is what the first pick actually purchases.
+
+## The Knights
+
+- **Wan'Dale Robinson** — seventy-eight million, thirty-eight guaranteed, to
+  give the young lord anyone at all.
+- **Jeffery Simmons** — on the Watch, extended at a hundred and five million.
+  The one genuinely elite thing this house owns.
 
 ## Ancient Grudges
-*Not yet chronicled.*
+
+- **House Texans.** Houston watched this house leave and then built a
+  replacement. Neither city has been gracious about it.
+- **House Jaguars, House Colts.** Divisional business.
 
 ## What Changed This Spring
-*Not yet chronicled.*
+
+They spent — **Robinson**, **Simmons**, **John Franklin-Myers** — which is
+unusual for a house at three wins. Tennessee did not tear it down. They tried
+to give the young lord something to work with.
 
 ## Prophecy
-*Not yet chronicled.*
+
+Double-digit losses again, and nobody in Nashville pretending otherwise.

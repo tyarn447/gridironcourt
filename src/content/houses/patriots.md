@@ -61,7 +61,13 @@ in New England is actually asking, and they are not asking it kindly.
 
 ## What Changed This Spring
 
-> **⚠ Needs the real offseason moves.**
+They spent the entire offseason arming the young lord. **A.J. Brown** by
+trade. **Romeo Doubs** for seventy million. **Dre'Mont Jones** and
+**Kevin Byard** to the Watch. Only **Garrett Bradbury** left, to Chicago.
+
+Every dollar of it was addressed to a single question: that this house lost
+the last war because its lord had no one to throw to. Brown lasted two hours
+into the season before an ankle took him out of it.
 
 ## Prophecy
 

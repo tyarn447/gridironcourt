@@ -10,23 +10,40 @@ ink: "#D50A0A"
 gold: "#FF7900"
 tier: "contested"
 record2025: "8-9"
-chronicled: false
+chronicled: true
 ---
 
 ## The Wound
-*Not yet chronicled.*
 
-## The Current Lord
-*Not yet chronicled.*
+For its first three decades this house was the worst in the sport by a
+considerable margin — twenty-six consecutive losses to start its existence,
+uniforms the realm openly mocked, whole decades with nothing in them.
 
-## The Court
-*Not yet chronicled.*
+Then it won in 2003. Then it did something stranger: in 2021 it borrowed the
+greatest lord who ever played, won immediately, and watched him leave. Tampa
+has two thrones and neither of them feels quite like it belongs to the house.
+
+## The Lord
+
+**Baker Mayfield.** First overall pick, discarded by three houses, and
+rebuilt here into something better than anyone expected. He is the most
+purely enjoyable lord in the realm and plays like a man still settling a
+score with everyone who let him go.
+
+## The Knights
+
+- **Kenneth Gainwell** — added this spring, modestly.
 
 ## Ancient Grudges
-*Not yet chronicled.*
+
+- **House Saints, House Falcons, House Panthers.** Divisional, warm, and
+  conducted mostly in humidity.
 
 ## What Changed This Spring
-*Not yet chronicled.*
+
+Not much. **Gainwell** in. This house went 8–9 and made no large moves —
+either patience or a house waiting to see which way its division breaks.
 
 ## Prophecy
-*Not yet chronicled.*
+
+That the discarded lord keeps proving the point.
