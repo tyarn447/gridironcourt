@@ -1,0 +1,12 @@
+---
+import { GOATCOUNTER_CODE, analyticsEnabled } from '../config';
+const endpoint = `https://${GOATCOUNTER_CODE}.goatcounter.com/count`;
+---
+{analyticsEnabled && (
+  <>
+    <script data-goatcounter={endpoint} async src="https://gc.zgo.at/count.js"></script>
+    <noscript>
+      <img src={`${endpoint}?p=${encodeURIComponent(Astro.url.pathname)}`} alt="" width="1" height="1" />
+    </noscript>
+  </>
+)}

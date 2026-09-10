@@ -1,0 +1,45 @@
+---
+import { getCollection } from 'astro:content';
+const { current } = Astro.props;
+const houses = await getCollection('houses');
+const order = { East: 0, North: 1, South: 2, West: 3 };
+const grouped = ['AFC', 'NFC'].map((conf) => ({
+  conf,
+  divisions: ['East', 'North', 'South', 'West'].map((div) => ({
+    div,
+    houses: houses
+      .filter((h) => h.data.conference === conf && h.data.division === div)
+      .sort((a, b) => a.data.team.localeCompare(b.data.team)),
+  })),
+}));
+---
+<aside class="sidebar">
+  <details class="drawer" open>
+    <summary>The Houses of the Realm</summary>
+    <h2>The Houses</h2>
+    <p class="sidebar-note">
+      Thirty-two houses. Click one for its chronicle and every dispatch it appears in.
+      <em>Italic</em> houses are not yet chronicled.
+    </p>
+    {grouped.map(({ conf, divisions }) => (
+      <div>
+        <div class="conf">{conf}</div>
+        {divisions.map(({ div, houses }) => (
+          <>
+            <div class="div-label">{conf} {div}</div>
+            <ul class="house-list">
+              {houses.map((h) => (
+                <li>
+                  <a href={`/houses/${h.id}/`} aria-current={current === h.id ? 'page' : undefined}>
+                    <span class="swatch" style={`background:${h.data.ink}`} aria-hidden="true"></span>
+                    <span class={h.data.chronicled ? '' : 'unchronicled'}>House {h.data.team}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </>
+        ))}
+      </div>
+    ))}
+  </details>
+</aside>
