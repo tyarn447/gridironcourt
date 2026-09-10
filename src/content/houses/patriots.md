@@ -10,6 +10,8 @@ ink: "#002244"
 gold: "#C60C30"
 tier: "great"
 record2025: "14-3"
+status: "A.J. Brown injured (ankle) in the season opener"
+statusAsOf: 2026-09-10
 chronicled: true
 ---
 
@@ -29,28 +31,33 @@ else remembers it too, and neither side can put it down.
 
 ## The Lord
 
-**Drake Maye**, twenty-three. Gifted, composed, and carrying a region's memory
-of perfection on a back that hasn't earned any of it yet.
+**Drake Maye.** Young, gifted, composed, and carrying a region's memory of
+perfection on a back that hasn't earned any of it yet.
 
-Last February he took them to the final field and lost, 29–13. In week one he
-got the rematch, led at the half, and threw three interceptions — the last
-into the end zone from the sixteen with twenty-six seconds left, with the game
-still entirely available to him.
-
-He is going to be great. That is a separate matter from tonight.
+In February 2026 he took this house to the final field and lost it. He is
+going to be great. Whether he is great *in time* is the only question anyone
+in New England is actually asking, and they are not asking it kindly.
 
 ## The Knights
 
 - **A.J. Brown** — the most expensive promise this house has made in years,
-  bought to give the young lord someone to grow old with. *Ankle. Third
-  quarter of his first night in the colors.*
+  bought to give the young lord someone to grow old with.
 
 ## Ancient Grudges
 
-- **House Seahawks.** A goal-line interception in 2015 that gave this house a
-  title; a Super Bowl loss in 2026 that took one back. Now a week-one defeat
-  on top. The account will not close.
-- **House Giants.** Twice this house was perfect. Twice House Giants was standing there.
+- **House Seahawks.** A goal-line interception in February 2015 handed this
+  house a title. A Super Bowl loss in February 2026 took one back. The
+  account will not close.
+- **House Jets.** The oldest, pettiest, loudest grudge in the realm, and the
+  one New England enjoys most — because it costs them nothing. A steward
+  walked out of this house and into that one in 1997 and the shouting has
+  genuinely never stopped. There was an espionage scandal. There were years
+  of a Jets steward promising the throne in public, at volume, and not
+  delivering it. New England has spent most of the intervening decades
+  winning, which is the cruelest possible response and entirely deliberate.
+  A lesser house may not be a threat and still be an enemy.
+- **House Giants.** Twice this house was perfect. Twice House Giants was
+  standing there at the end of it.
 
 ## What Changed This Spring
 

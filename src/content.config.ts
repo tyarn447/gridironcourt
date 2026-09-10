@@ -17,6 +17,11 @@ const houses = defineCollection({
     // Standing in the realm as of Sept 2026 — see reference/REALM-2026.md.
     // Drives what counts as an upset. Revisit as the season disagrees.
     tier: z.enum(['great', 'ascendant', 'contested', 'diminished', 'fallen']),
+    // Volatile facts (injuries, who's starting) live HERE, never in the body —
+    // the body must stay true all season. Rendered with its date so staleness
+    // is visible rather than silent. See VOICE.md "House pages are evergreen".
+    status: z.string().optional(),
+    statusAsOf: z.coerce.date().optional(),
     record2025: z.string(),
     chronicled: z.boolean().default(false),
   }),
@@ -35,6 +40,9 @@ const posts = defineCollection({
     houses: z.array(z.string()),   // house slugs this post belongs to
     line: z.string(),          // "the line you say tomorrow" — the pull quote
     excerpt: z.string(),
+    // The facts, quarantined. The story above must never carry a stat line —
+    // see VOICE.md. Every number in the post lives here instead.
+    record: z.array(z.string()).default([]),
     draft: z.boolean().default(false),
   }),
 });

@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const houses = (await Promise.all(post.data.houses.map((s) => getEntry('houses', s)))).filter(Boolean);
-const fmt = post.data.date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+const fmt = post.data.date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 ---
 <Base title={post.data.title} description={post.data.excerpt}>
   <article class="article">
@@ -30,6 +30,12 @@ const fmt = post.data.date.toLocaleDateString('en-US', { month: 'long', day: 'nu
       </p>
     </header>
     <div class="prose"><Content /></div>
+    {post.data.record.length > 0 && (
+      <section class="record">
+        <h2>The Record</h2>
+        <ul>{post.data.record.map((r) => <li>{r}</li>)}</ul>
+      </section>
+    )}
     <blockquote class="pull">
       <span class="label">The line you say tomorrow</span>
       “{post.data.line}”

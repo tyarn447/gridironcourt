@@ -7,109 +7,75 @@ season: 2026
 week: 1
 date: 2026-09-09
 houses: ["seahawks", "patriots"]
-line: "Seattle beat them in the Super Bowl rematch with their backup quarterback."
-excerpt: "Seattle lost its lord on the opening drive and won anyway, 13–10, behind a twenty-nine-year-old who has spent seven seasons being somebody's insurance policy."
+line: "Seattle won the Super Bowl rematch with their backup quarterback."
+excerpt: "Seattle lost its lord in the opening minutes and won anyway, behind a man who has been nobody's first choice for seven years."
+record:
+  - "Seahawks 13, Patriots 10 — Lumen Field, opening night"
+  - "Sam Darnold (SEA) out on the first drive, hip"
+  - "Drew Lock relieved him: 18 of 22, 187 yards, 45-yard touchdown to Jaxon Smith-Njigba"
+  - "A.J. Brown (NE) out in the third, ankle — his first game as a Patriot"
+  - "Drake Maye (NE) threw three interceptions, the last from the 16 with 26 seconds left"
+  - "Jason Myers kicked the winner from 26 yards with 5:50 to play"
 draft: false
 ---
 
 > *We Are Twelve.*
 > — the words of House Seahawks
 
-Sam Darnold's season lasted one drive.
+Seattle lost its lord in the opening minutes.
 
-He took a hit on Seattle's opening possession, got up wrong, and went to the
-tent with a hip injury and did not come back out of it. Seven months ago this
-man won a Super Bowl. Tonight he was done before the crowd had finished
-sitting down, and the defending champions were a house without a lord in the
-first hour of the first night of the year.
+Sam Darnold — who seven months ago won this house the throne — took a bad
+landing on the first march of the night, and was helped off with a ruined hip
+before the hall had finished settling into its seats. The defending champions
+were headless inside of five minutes.
 
-You've read this book. You know who comes through the door next. The only
-question a story like this ever asks is whether he's worth the chapter.
+And the house across the field had come a long way for precisely this. New
+England lost the last war to Seattle, on the largest field there is, in
+February. They have spent seven months thinking about nothing else. Now here
+was the enemy without its lord, on night one, in front of everyone.
 
----
-
-**His name is Drew Lock and he is twenty-nine years old.**
-
-Missouri, second round, 2019 — back when Denver looked at him and thought
-*maybe*, and then spent a season and a half deciding it was *no*. Seattle
-acquired him in 2022 as a line item in the Russell Wilson trade, which is to
-say he arrived here as a footnote in a sentence about a more important man. He
-did not take a snap that year. He went to New York for a season. Seattle
-brought him back last spring on a two-year deal worth five million dollars,
-which is roughly what a house pays for a man it sincerely hopes never to need.
-
-Eighteen completions on twenty-two attempts. A hundred and eighty-seven yards.
-
-Let me be careful, because this is where the genre usually starts lying. He
-was not transcendent. Nothing about him was revealed. He was *accurate* — and
-if you have ever watched someone do a difficult thing correctly, on time, in
-front of seventy thousand people who have quietly decided he cannot, you know
-that is the better story anyway.
+You know how this story goes. The question is only whether the man who walks
+through the door next is worth the chapter.
 
 ---
 
-**New England had the better half and it did them no good at all.**
+**Drew Lock is twenty-nine and has never once been anyone's first choice.**
 
-Seven to nothing, then ten to three, Drake Maye moving his house down the
-field with the unbothered posture of a young lord who has decided that last
-February is a closed book. He is twenty-three. He throws a beautiful ball. For
-thirty minutes it was genuinely difficult to remember which of these two
-houses had lost the last war.
+Denver drafted him, looked at him for a season and a half, and decided no.
+Seattle acquired him afterward as a line item in a trade about a more
+important man — he arrived here as a footnote in someone else's sentence, and
+sat a full year without being asked for anything at all. A season in New York.
+Then back, last spring, for the kind of money a house spends on a man it
+sincerely hopes never to need.
 
-Then, in the third quarter, they lost the knight they bought the whole summer
-to get. A.J. Brown — new colors, first night, the most expensive promise New
-England has made in years — turned an ankle and did not return. He had been a
-Patriot for approximately two hours.
+He was asked twenty-two times. He answered eighteen.
 
-After that Seattle scored thirteen unanswered and New England did not score
-again.
-
----
-
-## The Turn
-
-Jaxon Smith-Njigba is the best knight in this house and everyone in the
-building knows it, including the four men assigned to make sure the ball never
-reaches him.
-
-Fourth quarter. Lock takes the snap and holds it — holds it a beat past
-comfortable, a beat past what a career backup with everything to lose ought to
-hold it — and throws forty-five yards down the field to a man in traffic.
-
-It's a *catch*. It's a touchdown. The stadium comes apart.
-
-Somewhere in that noise is a fact worth sitting with: the man who threw it has
-been in this league seven years, and this is the first time most people
-watching have had any reason to care what he does with a football.
+Nothing was revealed. He did not become someone else out there. He simply did
+a hard thing correctly, over and over, in front of seventy thousand people who
+had privately concluded he could not — and if you have ever been the second
+choice in a room, you understand that this is the better story anyway.
 
 ---
 
-Jason Myers put a twenty-six-yard field goal through with 5:50 left. Thirteen
-to ten. Cold, brief, entirely without ceremony — which is the job.
+New England, meanwhile, was having the worst kind of good night.
 
-And New England still had a chance, which is the cruelty. Maye got them down
-to the sixteen with twenty-six seconds on the clock, third and five, everything
-still available to him. He threw it into the end zone. Josh Jobe caught it.
+They led. They looked like the house that deserved the rematch. And then, in
+the third quarter, they lost the champion they had spent the entire summer
+buying — A.J. Brown, in his first night in their colors, carried off with a
+turned ankle. He had been theirs for about two hours.
 
-Third interception of the night. Twenty-three of thirty-three, a hundred and
-seventy-eight yards, one touchdown, three given away.
+Seattle took the lead on a single long throw to Jaxon Smith-Njigba, the best
+knight in this house, with four men assigned to make certain that exact thing
+never happened.
 
----
+And New England still had it. That is the cruelty of the evening. Drake Maye —
+twenty-three, gifted, beautiful to watch — brought them all the way back down
+the field with the game entirely available to him, and then handed it
+to the wrong house himself, with twenty-six seconds left.
 
-**A note on the new entry to the court:** Jadarian Price, drafted thirty-second
-overall out of Notre Dame, took his first professional carry thirteen yards up
-the field in the opening quarter like a young man who had not been told to be
-nervous. Ten carries, fifty-two yards. Nobody will remember it. Write it down
-anyway — this is the part of the chronicle you reread in December.
-
-**What it means:** Seattle lost its lord and beat the team it beat in February
-anyway, with the understudy, at home, by three. New England came a yard and a
-bad decision short in the rematch it has been waiting seven months for, and
-lost its best knight to an ankle in the process. Both of those facts will
-matter more in January than they do tonight.
+Three times he gave it away tonight. The third one ended the war.
 
 ---
 
-*Ships of the week:* Lock and Smith-Njigba, forty-five yards apart and perfectly in sync.
-*Villain of the week:* whoever scheduled the Super Bowl rematch in week one.
-*Next week:* New England without A.J. Brown. Seattle, for a while, without Darnold.
+*Ships of the week:* Lock and Smith-Njigba, half a field apart, perfectly in sync.
+*Next week:* New England without their champion. Seattle, for a while, without their lord.
