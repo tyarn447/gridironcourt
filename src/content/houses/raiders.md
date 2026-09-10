@@ -64,6 +64,12 @@ waiting is the whole season.
 - **House Chiefs.** The long humiliation.
 - **House Broncos, House Chargers.** Divisional, and conducted with more
   volume than consequence.
+- **House Ravens.** New, and bitter. Baltimore agreed to take **Maxx
+  Crosby** for two first-round picks, examined his knee, and walked away
+  from a settled deal. Las Vegas announced the collapse publicly and
+  pointedly. Crosby's own surgeon disagreed with the diagnosis. Nobody has
+  explained it to anyone's satisfaction and the two houses are not speaking
+  warmly.
 
 ## What Changed This Spring
 

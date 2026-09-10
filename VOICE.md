@@ -102,6 +102,20 @@ The Wound**, and title it for that house rather than reusing a label:
   exact minute the league year opened, and still owe him $55m)
 - House Bears → **The Weapon They Sold** (traded the young lord's best
   knight, and he had to answer for it in public)
+- House Steelers → **The Men Who Beat Them** (the coach and quarterback who
+  won a Super Bowl against this house now run it)
+- House Ravens → **The Physical** (a trade agreed for two first-round picks,
+  rescinded over a knee scan, disputed in public)
+- House Eagles → **The Untested Hand** (a coordinator who has never called
+  plays, in the least patient city in the realm)
+
+**One thing we deliberately don't write.** Reported drama about people's
+private lives — relationships, affairs, off-field conduct that isn't a
+football decision — stays off this site, however widely it is being
+repeated. The conceit works because the court intrigue is about *football
+choices*: who plays, who is paid, who is let go. Gossip about a real
+person's private life is a different and meaner kind of writing, and it
+would make the whole thing feel like a tabloid wearing a costume.
 
 Rules for it:
 - **Only where one genuinely exists.** Most houses don't have one, and a
