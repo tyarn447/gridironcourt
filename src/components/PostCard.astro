@@ -1,4 +1,5 @@
 ---
+import { withBase } from '../config';
 import { getEntry } from 'astro:content';
 const { post } = Astro.props;
 const houses = await Promise.all(post.data.houses.map((s) => getEntry('houses', s)));
@@ -10,11 +11,11 @@ const named = houses.filter(Boolean);
     <span>Week {post.data.week}</span>
     <span>{post.data.trope}</span>
   </div>
-  <h3><a href={`/posts/${post.id}/`}>{post.data.title}</a></h3>
+  <h3><a href={withBase(`/posts/${post.id}/`)}>{post.data.title}</a></h3>
   <p>{post.data.excerpt}</p>
   <p class="houses-tag">
     {named.map((h, i) => (
-      <>{i > 0 && ' · '}<a href={`/houses/${h.id}/`}>House {h.data.team}</a></>
+      <>{i > 0 && ' · '}<a href={withBase(`/houses/${h.id}/`)}>House {h.data.team}</a></>
     ))}
   </p>
   <blockquote class="pull">

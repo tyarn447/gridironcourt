@@ -40,6 +40,14 @@ npm run dev      # http://localhost:4321
 npm run build
 ```
 
+### One markdown rule
+
+**Don't write root-relative links (`/posts/...`) in markdown content.** Astro's
+`base` is applied to hrefs in `.astro` files via `withBase()` in `src/config.ts`,
+but not to links inside markdown, so they break whenever the site isn't served
+from the domain root. House pages list their own dispatches automatically —
+you rarely need a manual cross-link. If you do, use a full URL.
+
 ## Analytics
 
 GoatCounter, self-contained in `src/components/Analytics.astro`.

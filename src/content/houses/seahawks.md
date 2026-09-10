@@ -43,7 +43,7 @@ thing anyone here is thinking about.*
 ## The Court
 
 - **The Understudy** — a decade in the league, a placeholder in six houses,
-  and now the man who won the opener. See [Chapter One](/posts/week-01-seahawks-patriots/).
+  and now the man who won the opener. His chapter is below.
 - **The Twelfth Man** — not a player. A house of seventy thousand, loud enough
   to be counted as one, and they will tell you so before you finish the question.
 

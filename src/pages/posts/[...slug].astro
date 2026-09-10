@@ -1,4 +1,5 @@
 ---
+import { withBase } from '../../config';
 import Base from '../../layouts/Base.astro';
 import { getCollection, getEntry, render } from 'astro:content';
 
@@ -23,7 +24,7 @@ const fmt = post.data.date.toLocaleDateString('en-US', { month: 'long', day: 'nu
       <h1>{post.data.title}</h1>
       <p class="houses-tag">
         {houses.map((h, i) => (
-          <>{i > 0 && ' · '}<a href={`/houses/${h.id}/`}>House {h.data.team}</a></>
+          <>{i > 0 && ' · '}<a href={withBase(`/houses/${h.id}/`)}>House {h.data.team}</a></>
         ))}
         {' · '}<em>{post.data.trope}</em>
       </p>

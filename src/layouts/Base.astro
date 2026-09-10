@@ -1,4 +1,5 @@
 ---
+import { withBase } from '../config';
 import Sidebar from '../components/Sidebar.astro';
 import Analytics from '../components/Analytics.astro';
 import '../styles/global.css';
@@ -17,7 +18,7 @@ const full = title ? `${title} — The Gridiron Court` : 'The Gridiron Court';
   <body>
     <header class="masthead">
       <div class="masthead-inner">
-        <a href="/" class="wordmark"><span class="the">The</span> Gridiron Court</a>
+        <a href={withBase("/")} class="wordmark"><span class="the">The</span> Gridiron Court</a>
         <p class="tagline">A chronicle of the season · Anno 2026</p>
       </div>
     </header>
