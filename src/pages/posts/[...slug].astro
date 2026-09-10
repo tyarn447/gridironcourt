@@ -26,7 +26,7 @@ const fmt = post.data.date.toLocaleDateString('en-US', { month: 'long', day: 'nu
         {houses.map((h, i) => (
           <>{i > 0 && ' · '}<a href={withBase(`/houses/${h.id}/`)}>House {h.data.team}</a></>
         ))}
-        {' · '}<em>{post.data.trope}</em>
+        {' · '}<em>{post.data.frame === 'war' ? 'A war' : 'A court intrigue'} — {post.data.trope}</em>
       </p>
     </header>
     <div class="prose"><Content /></div>
