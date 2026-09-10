@@ -25,21 +25,41 @@ the realm, in the third-largest city, and the position that decides
 everything has been a rolling catastrophe since the invention of the forward
 pass.
 
+## The Weapon They Sold
+
+The young lord won eleven games and went to the divisional round. In March,
+this house sold his best knight.
+
+**D.J. Moore** went to Buffalo — Moore and a fifth-round pick, for a
+second-round pick and about sixteen and a half million in relief. There is a
+plan behind it. There always is. Chicago has young receivers it wants to
+develop and money it wants back, and Moore landed with a steward who already
+knew him.
+
+None of that changes what it looked like from inside the building: the house
+took the most reliable man its young lord had and traded him for a pick and
+some room.
+
+**Caleb Williams** had to answer for it in public, which is the part that
+tells you something. He said he would miss him. He said he understood it was
+business. He was careful, and correct, and visibly choosing his words — and
+because this is Chicago and the position is cursed, the realm immediately
+began asking whether the two of them had fallen out.
+
+They had not, as far as anyone can establish. But the question got asked,
+and once it is asked about a Chicago quarterback it never entirely stops
+being asked.
+
 ## The Lord
 
 **Caleb Williams**, in his third season, and the most important person in
-this city. Last year the house won eleven games and lost in overtime in the
-divisional round, 20–17, to the Rams. That is further than Chicago has been
-in a very long time.
-
-If he is the answer, a century of failure ends with him. That is what he
-walks around carrying.
+this city. If he is the answer, a century of failure ends with him. That is
+what he walks around carrying.
 
 ## The Knights
 
-- The house **traded D.J. Moore to Buffalo** this spring, which removed the
-  best receiver the young lord had. It is the most questioned decision of
-  the Chicago offseason.
+- The house is now built on youth by design — and the young lord is throwing
+  to men who have not yet proved they can catch it in January.
 
 ## Ancient Grudges
 
@@ -47,13 +67,13 @@ walks around carrying.
   meetings — and Green Bay has won most of the recent century of it, which
   Chicago experiences as a personal insult.
 - **House Vikings, House Lions.** Divisional, cold, and long.
+- **House Bills.** New, minor, and entirely about one trade.
 
 ## What Changed This Spring
 
-They sent **Moore** to Buffalo for a second-round pick, and added
-**Garrett Bradbury** to the Shieldwall, **Devin Bush**, and **Coby Bryant**.
-A house that won eleven games and then traded away its best receiver. Nobody
-has fully explained it.
+**Moore** to Buffalo. **Garrett Bradbury** added to the Shieldwall, plus
+**Devin Bush** and **Coby Bryant**. A house that won eleven games and then
+made its offense younger and cheaper.
 
 ## Prophecy
 

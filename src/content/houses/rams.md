@@ -26,21 +26,46 @@ final field.
 
 The response to that was the loudest thing anyone did all offseason.
 
+## The Heir in the Room
+
+This house did two things this spring and they do not agree with each other.
+
+**First**, it traded for **Myles Garrett** — the reigning Defensive Player
+of the Year, twice a winner of it in three seasons, five times an All-Pro,
+thirty years old and arguably the best player ever moved in his prime. That
+is a house saying *now*. That is a house looking at a four-point defeat and
+deciding the answer is the most destructive man in the sport, immediately,
+whatever it costs.
+
+**Second**, holding the thirteenth pick, with the reigning **MVP** returning
+and every observer expecting a receiver or a tackle — someone who could help
+win this year — it drafted a quarterback. **Ty Simpson**, out of Alabama, to
+succeed **Matthew Stafford**.
+
+Stafford is thirty-eight. He has just been named the best player in the
+realm. He signed for fifty-five million across one year with rolling
+guarantees that let both sides reconsider every spring, which is a contract
+that says *we'll see* in legal language.
+
+So the arrangement is this: the finest season of a long career, played in a
+building where the man hired to replace him is sitting in the same meetings,
+learning the same offense, waiting. Simpson is not even the Understudy yet —
+he is competing with Stetson Bennett for the right to hold the clipboard.
+
+Nobody has done anything wrong. That is what makes it uncomfortable. The
+house is right to want the throne now and right to plan for after, and the
+lord has to walk past the evidence of the second thing every day while
+delivering the first.
+
 ## The Lord
 
-**Matthew Stafford**, thirty-eight, in the last chapter of a long career —
-and this house drafted **Ty Simpson** in the first round to succeed him,
-which is a public announcement about how many years are left.
+**Matthew Stafford**, thirty-eight, the reigning MVP, in what everyone
+involved is quietly treating as the last real chance.
 
 ## The Knights
 
-- **Myles Garrett.** The reigning Defensive Player of the Year, twice a
-  winner of it in three seasons, five times an All-Pro, taken from Cleveland
-  at thirty for a young star and three future first-class picks. It is
-  arguably the best player ever traded in his prime.
-
-  This house looked at a four-point defeat and bought the most destructive
-  man in the sport.
+- **Myles Garrett** — on the Watch. The best defender alive, bought with
+  Jared Verse and three future first-class picks.
 
 ## Ancient Grudges
 
@@ -51,9 +76,9 @@ which is a public announcement about how many years are left.
 
 ## What Changed This Spring
 
-They traded **Jared Verse** and three future picks for **Myles Garrett**,
-and spent a first-round pick on the lord who will replace Stafford. The
-realm has responded by installing them as the favourite to win everything.
+**Garrett** in, at enormous cost. **Simpson** drafted thirteenth as the
+succession. The realm responded by installing this house as the favourite to
+win everything.
 
 ## Prophecy
 
