@@ -10,6 +10,8 @@ ink: "#311D00"
 gold: "#FF3C00"
 tier: "fallen"
 record2025: "5-12"
+status: "Deshaun Watson named starter over Shedeur Sanders; Dillon Gabriel on injured reserve"
+statusAsOf: 2026-09-10
 chronicled: true
 ---
 
@@ -22,19 +24,41 @@ The team left. In 1995 the owner moved this house to Baltimore, and Cleveland
 history drive out of the city. They got the name back. Baltimore kept the
 team, and won two titles with it.
 
-Since returning, this house has been to the postseason twice. It has never
-appeared in a Super Bowl — one of very few houses that can say so. In 2017
-it lost every game it played.
+Since returning in 1999, this house has been to the postseason twice. It has
+never appeared in a Super Bowl — one of very few houses that can say so. In
+2017 it lost every game it played.
 
 And this spring it traded away the best defensive player alive.
 
-## The Lord
+## The Succession
 
-**Deshaun Watson**, which is a sentence this house's own bannermen say with a
-particular flatness. The most expensive quarterback contract ever guaranteed,
-attached to a man who has given them almost nothing on the field and a great
-deal of grief off it. They are starting him again. There is no comfortable
-way to write that.
+Every other house in the realm has a lord. This one has a **claim** — open,
+disputed, and re-litigated every August since 1999.
+
+More than thirty men have held the seat since the house returned. Not
+thirty *seasons* of quarterbacks — thirty separate men, first-round picks
+and castoffs and emergency signings, each introduced as the end of the
+problem and each becoming the next chapter of it. There is a jersey in this
+city with all their names printed on it. It is a joke, and it is also just
+a list.
+
+This year there are four claimants.
+
+- **Deshaun Watson** holds the seat. He has not played since tearing an
+  Achilles in 2024, arrived on the most guaranteed money ever handed to a
+  quarterback, and has given this house almost nothing on the field and a
+  great deal of grief off it. He won the job in August. There is no
+  comfortable way to write that sentence and Cleveland does not try.
+- **Shedeur Sanders**, second year, the most famous name in the room, and
+  the man the crowd wanted. He lost the competition and is now the
+  Understudy — which in this house is less a rank than a queue position.
+- **Dillon Gabriel**, who started six games as a rookie and is currently on
+  injured reserve with a bad back, waiting.
+- **Taylen Green**, a sixth-round rookie, who is fourth in line and will
+  almost certainly start a game here eventually. They all do.
+
+The steward, **Todd Monken**, has to pick one every week and be wrong in
+public. The seat is never empty in Cleveland. It is simply never *held*.
 
 ## The Knights
 
@@ -45,7 +69,8 @@ way to write that.
 
 - **House Ravens.** They are, physically, the team that left. Nothing else
   needs to be said and nothing ever will be.
-- **House Steelers.** Sixty years of losing to the same people in the same weather.
+- **House Steelers.** Sixty years of losing to the same people in the same
+  weather.
 
 ## What Changed This Spring
 
