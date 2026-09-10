@@ -8,6 +8,8 @@ words: "Burgundy Runs Deep"
 sigil: "A burgundy W crowned in gold"
 ink: "#5A1414"
 gold: "#FFB612"
+tier: "diminished"
+record2025: "5-12"
 chronicled: false
 ---
 

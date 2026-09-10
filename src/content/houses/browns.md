@@ -8,6 +8,8 @@ words: "We Are Owed"
 sigil: "A bare orange helm, unadorned"
 ink: "#311D00"
 gold: "#FF3C00"
+tier: "fallen"
+record2025: "5-12"
 chronicled: false
 ---
 

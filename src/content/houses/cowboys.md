@@ -8,6 +8,8 @@ words: "We Were Great Once"
 sigil: "A silver star on midnight blue"
 ink: "#041E42"
 gold: "#869397"
+tier: "contested"
+record2025: "7-9-1"
 chronicled: true
 ---
 

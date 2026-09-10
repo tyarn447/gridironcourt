@@ -8,6 +8,8 @@ words: "We Take What We Want"
 sigil: "A flag, a sword, and a skull"
 ink: "#D50A0A"
 gold: "#FF7900"
+tier: "contested"
+record2025: "8-9"
 chronicled: false
 ---
 

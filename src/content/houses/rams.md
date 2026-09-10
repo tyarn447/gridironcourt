@@ -8,6 +8,8 @@ words: "We Have Moved Before"
 sigil: "A curling horn, blue and gold"
 ink: "#003594"
 gold: "#FFA300"
+tier: "great"
+record2025: "12-5"
 chronicled: false
 ---
 

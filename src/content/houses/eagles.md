@@ -8,6 +8,8 @@ words: "No One Likes Us"
 sigil: "An eagle's head, midnight green"
 ink: "#004C54"
 gold: "#A5ACAF"
+tier: "great"
+record2025: "11-6"
 chronicled: true
 ---
 

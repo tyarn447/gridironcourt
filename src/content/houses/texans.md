@@ -8,6 +8,8 @@ words: "Young And Unafraid"
 sigil: "A steer's head, deep steel blue"
 ink: "#03202F"
 gold: "#A71930"
+tier: "contested"
+record2025: "12-5"
 chronicled: false
 ---
 

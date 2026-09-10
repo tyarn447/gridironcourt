@@ -8,6 +8,8 @@ words: "Defense Is A Faith"
 sigil: "A wandering orange C"
 ink: "#0B162A"
 gold: "#C83803"
+tier: "ascendant"
+record2025: "11-6"
 chronicled: false
 ---
 

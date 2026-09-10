@@ -8,6 +8,8 @@ words: "Nevermore"
 sigil: "A raven's head in purple and gold"
 ink: "#241773"
 gold: "#9E7C0C"
+tier: "great"
+record2025: "8-9"
 chronicled: false
 ---
 

@@ -8,6 +8,8 @@ words: "The People Own Us"
 sigil: "A gold G on forest green"
 ink: "#203731"
 gold: "#FFB612"
+tier: "ascendant"
+record2025: "9-7-1"
 chronicled: false
 ---
 

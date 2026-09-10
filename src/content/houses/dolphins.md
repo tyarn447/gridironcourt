@@ -8,6 +8,8 @@ words: "The Perfect Season Was Ours"
 sigil: "A leaping dolphin crowned in orange"
 ink: "#008E97"
 gold: "#FC4C02"
+tier: "fallen"
+record2025: "7-10"
 chronicled: false
 ---
 

@@ -8,6 +8,8 @@ words: "We Are Twelve"
 sigil: "A seahawk in navy, storm, and green"
 ink: "#002244"
 gold: "#69BE28"
+tier: "great"
+record2025: "14-3"
 chronicled: true
 ---
 

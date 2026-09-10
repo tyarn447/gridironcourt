@@ -8,6 +8,8 @@ words: "The Oldest House"
 sigil: "A cardinal's head in deep red"
 ink: "#97233F"
 gold: "#000000"
+tier: "fallen"
+record2025: "3-14"
 chronicled: false
 ---
 

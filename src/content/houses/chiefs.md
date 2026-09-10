@@ -8,6 +8,8 @@ words: "The Kingdom Endures"
 sigil: "An arrowhead in crimson and gold"
 ink: "#E31837"
 gold: "#FFB81C"
+tier: "ascendant"
+record2025: "6-11"
 chronicled: false
 ---
 

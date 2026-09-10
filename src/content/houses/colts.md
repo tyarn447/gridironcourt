@@ -8,6 +8,8 @@ words: "The Horseshoe Turns"
 sigil: "A blue horseshoe on white"
 ink: "#002C5F"
 gold: "#A2AAAD"
+tier: "diminished"
+record2025: "8-9"
 chronicled: false
 ---
 

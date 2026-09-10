@@ -8,6 +8,8 @@ words: "Five Rings And A Grudge"
 sigil: "An oval of scarlet and old gold"
 ink: "#AA0000"
 gold: "#B3995D"
+tier: "ascendant"
+record2025: "12-5"
 chronicled: false
 ---
 

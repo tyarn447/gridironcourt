@@ -22,6 +22,20 @@ worst kind of good night"). For possessives and bare references, use the
 *Philadelphia was always going to be fine*. Never "Seahawks's." The city is
 also just good prose: it gives you a second word for a house.
 
+## Before anything: know where the houses stand
+
+`reference/REALM-2026.md` holds the 2025 standings, the full playoff bracket,
+and the September 2026 power tiers. **Check it before framing a game.** A
+house losing is not a story; a Great House losing to a Fallen one is the
+entire story, and you cannot tell the difference from the box score alone.
+
+The file also carries the upset table — what a cross-tier result should be
+read as — and the two houses currently out of position (Kansas City went
+6–11 and nobody believes it; Baltimore went 8–9 and is ranked third).
+
+Keep it current. A blog still calling a 9–2 team plucky underdogs in November
+has stopped paying attention.
+
 ## Research — non-negotiable
 
 **Never write a dispatch from memory or inference. Research the game first.**

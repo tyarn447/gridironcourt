@@ -8,6 +8,8 @@ words: "Skol, And Suffer"
 sigil: "A horned helm in purple and gold"
 ink: "#4F2683"
 gold: "#FFC62F"
+tier: "contested"
+record2025: "9-8"
 chronicled: false
 ---
 

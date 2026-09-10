@@ -8,6 +8,8 @@ words: "The Stripes Do Not Fade"
 sigil: "Black stripes on burning orange"
 ink: "#FB4F14"
 gold: "#000000"
+tier: "contested"
+record2025: "6-11"
 chronicled: false
 ---
 
