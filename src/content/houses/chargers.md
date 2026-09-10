@@ -8,6 +8,8 @@ words: "It Will Hurt Again"
 sigil: "A single gold bolt on powder blue"
 ink: "#0080C6"
 gold: "#FFC20E"
+tier: "contested"
+record2025: "11-6"
 chronicled: false
 ---
 

@@ -8,6 +8,8 @@ words: "We Were Never Supposed To Win"
 sigil: "A gold fleur-de-lis"
 ink: "#D3BC8D"
 gold: "#101820"
+tier: "diminished"
+record2025: "6-11"
 chronicled: false
 ---
 

@@ -8,6 +8,8 @@ words: "Wide Right Was A Curse"
 sigil: "A charging bison on a field of winter blue"
 ink: "#00338D"
 gold: "#C60C30"
+tier: "great"
+record2025: "12-5"
 chronicled: false
 ---
 

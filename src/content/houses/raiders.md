@@ -8,6 +8,8 @@ words: "Just Win, Baby"
 sigil: "Crossed swords behind a shield"
 ink: "#000000"
 gold: "#A5ACAF"
+tier: "fallen"
+record2025: "3-14"
 chronicled: false
 ---
 

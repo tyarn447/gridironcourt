@@ -8,6 +8,8 @@ words: "The Long Winter Ends"
 sigil: "A leaping lion, Honolulu blue"
 ink: "#0076B6"
 gold: "#B0B7BC"
+tier: "ascendant"
+record2025: "9-8"
 chronicled: false
 ---
 

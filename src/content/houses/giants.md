@@ -8,6 +8,8 @@ words: "Twice We Slew The Perfect"
 sigil: "Interlocked letters, royal blue"
 ink: "#0B2265"
 gold: "#A71930"
+tier: "diminished"
+record2025: "4-13"
 chronicled: false
 ---
 

@@ -8,6 +8,8 @@ words: "Thin Air Favors Us"
 sigil: "A horse's head wreathed in orange"
 ink: "#FB4F14"
 gold: "#002244"
+tier: "ascendant"
+record2025: "14-3"
 chronicled: false
 ---
 

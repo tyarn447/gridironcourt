@@ -8,6 +8,8 @@ words: "Dynasty Is A Memory"
 sigil: "A minuteman in profile, navy and silver"
 ink: "#002244"
 gold: "#C60C30"
+tier: "great"
+record2025: "14-3"
 chronicled: true
 ---
 

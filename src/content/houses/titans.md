@@ -8,6 +8,8 @@ words: "One Yard Short"
 sigil: "A flaming sword and three stars"
 ink: "#0C2340"
 gold: "#4B92DB"
+tier: "fallen"
+record2025: "3-14"
 chronicled: false
 ---
 
