@@ -92,6 +92,10 @@ The Wound**, and title it for that house rather than reusing a label:
 - House Dolphins → **The Dismantling** (lord and both knights gone in a spring)
 - House Vikings → **The Rented Lord** (their own first-round heir benched
   for a twelve-month signing)
+- House Jets → **The Six Hundred Dollars** (a lord who lost the seat over a
+  plane ticket and a broken jaw, traded home a decade later)
+- House Raiders → **The Uncrowned** (the first overall pick, holding a
+  clipboard, with no seam in the schedule to hand over a throne)
 
 Rules for it:
 - **Only where one genuinely exists.** Most houses don't have one, and a
@@ -108,11 +112,14 @@ Rules for it:
 - The factual version still belongs in **What Changed This Spring**. The
   drama section is the story; that section is the ledger.
 
-Candidates worth writing when there's time: House Jets (fifty-seven years,
-and the lord they discarded in 2013 is back), House Raiders (a rookie
-everyone came to see, sitting behind a thirty-eight-year-old), House Chiefs
-(already carried in the Wound — a king returning from a knee to a realm that
-refuses to believe the fall).
+House Chiefs carries its own in the Wound already — a king returning from a
+knee to a realm that refuses to believe the fall — and does not need a
+separate section.
+
+The best of these come from **one specific, verifiable, absurd detail**: six
+hundred dollars. A twenty-eight-million-dollar dead-cap hit. No bye until
+Week 13. Research until you find that detail; it is always the thing the
+reader repeats.
 
 ## Research — non-negotiable
 
