@@ -1,5 +1,26 @@
 # The Gridiron Court — Voice Bible
 
+## The model
+
+**`src/content/posts/week-01-seahawks-patriots.md` is the template.** Every
+dispatch follows its shape; every chronicle follows `houses/seahawks.md` and
+`houses/patriots.md`. When this file and those files disagree, the files win —
+they are what was actually approved.
+
+What to copy from it, concretely:
+1. Epigraph (house words) → cold open on a person, not a matchup
+2. Three to four beats, each a person's fate
+3. One Turn, with white space around it
+4. No numbers in the prose; all of them in `record`
+5. Close on consequence, then the pull-quote line
+6. 350–500 words
+
+*(The previous reference example was deleted in Sept 2026 — it predated the
+research, length, Record and anti-sameness rules and taught all the habits
+this file now retires. Don't resurrect it from git history.)*
+
+---
+
 The shelf we are on is ACOTAR / Fourth Wing / Quicksilver. Not "sportswriter
 being funny." The comedy comes from total sincerity applied to a football game,
 never from winking at the reader. **If a line feels like a joke about romantasy
