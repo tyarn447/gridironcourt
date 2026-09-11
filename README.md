@@ -24,7 +24,18 @@ draft: false
 ---
 ```
 
-Body is the post. 500–700 words. Three to five beats. See `VOICE.md`.
+Body is the post. 350–500 words. Three to five beats. See `VOICE.md`.
+
+Then **run the reviewer on it before you commit**:
+
+> Use the story-reviewer agent on src/content/posts/week-NN-house-house.md.
+> Here is the verified fact sheet: ...
+
+`.claude/agents/story-reviewer.md` is a romantasy editor with edit authority. It
+reads `VOICE.md` and the model post, then fixes flow, voice and structure. It has
+no web access by design — **you must hand it every fact you gathered**, and it
+treats that as the only fact in the world. Anything in the draft it can't trace
+back to your sheet, it flags. That is what keeps invented detail off the site.
 
 ## Adding a house chronicle
 

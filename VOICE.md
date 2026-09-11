@@ -141,6 +141,17 @@ hundred dollars. A twenty-eight-million-dollar dead-cap hit. No bye until
 Week 13. Research until you find that detail; it is always the thing the
 reader repeats.
 
+## The reviewer — run it on every dispatch
+
+A draft is not finished until `.claude/agents/story-reviewer.md` has been over
+it. Hand it the post and the fact sheet you researched from; it edits directly.
+
+It exists because this voice fails in predictable ways — beats that don't
+connect, an image that states its fact twice, an opening on a thing instead of a
+person, and a post that never actually tells a casual reader who won, because the
+prose carries no numbers. Those are hard to see in your own draft an hour after
+writing it. The agent file carries the full list.
+
 ## Research — non-negotiable
 
 **Never write a dispatch from memory or inference. Research the game first.**
