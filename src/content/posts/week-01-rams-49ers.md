@@ -73,16 +73,18 @@ him where he stood. On the screens it looked as though Stafford had made it.
 He had not.
 
 San Francisco took the ball and carried it back the entire length of the field,
-unhurried, and scored. That was the game — twenty points of daylight, and the
-rest was arithmetic.
+unhurried, and **Brock Purdy** found **Deebo Samuel** standing alone at the far
+end of it with nobody within reach. That was the game. Twenty points of
+daylight, and the rest of the morning was arithmetic.
 
 Late, Los Angeles took its lord off the field unhurt. A house does not spend an
 MVP on a morning already gone.
 
-Afterward, told how long Los Angeles had been in the country, one of the men who
-beat them said the only true thing about it: a few days earlier would have been
-ideal.
+Afterward, someone told a San Francisco knight how briefly the other house had
+been in the country — one day, against his week. He did not gloat. He just said
+what everybody watching had worked out by the second quarter: Los Angeles
+probably should have flown out a few days earlier.
 
-*Ships of the week:* Purdy and Deebo Samuel, reunited, alone on the far side of the world.
+*Ships of the week:* Purdy and Samuel, who have been finding each other like that for years, and did it again at the bottom of the world.
 *Villain of the week:* Raheem Morris, who built the Watch in Los Angeles and now runs San Francisco's, and knows where everything in that house is kept.
 *Next week:* Los Angeles goes home to explain itself.
