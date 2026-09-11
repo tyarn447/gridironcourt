@@ -1,5 +1,6 @@
 ---
 import { withBase } from '../../config';
+import ReadTracking from '../../components/ReadTracking.astro';
 import Base from '../../layouts/Base.astro';
 import { getCollection, getEntry, render } from 'astro:content';
 
@@ -41,4 +42,5 @@ const fmt = post.data.date.toLocaleDateString('en-US', { month: 'long', day: 'nu
       “{post.data.line}”
     </blockquote>
   </article>
+  <ReadTracking slug={post.id} />
 </Base>

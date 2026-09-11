@@ -5,6 +5,19 @@ const endpoint = `https://${GOATCOUNTER_CODE}.goatcounter.com/count`;
 {analyticsEnabled && (
   <>
     <script data-goatcounter={endpoint} async src="https://gc.zgo.at/count.js"></script>
+    <script is:inline>
+      // Does anyone open the house list on mobile? Tells us whether the
+      // collapsed sidebar is discoverable or just hidden.
+      document.addEventListener('DOMContentLoaded', function () {
+        var c = document.getElementById('house-nav-toggle');
+        if (!c) return;
+        c.addEventListener('change', function () {
+          if (c.checked && window.goatcounter && window.goatcounter.count) {
+            window.goatcounter.count({ path: 'nav-open', event: true });
+          }
+        });
+      });
+    </script>
     <noscript>
       <img src={`${endpoint}?p=${encodeURIComponent(Astro.url.pathname)}`} alt="" width="1" height="1" />
     </noscript>
