@@ -50,6 +50,22 @@ Work the seven questions in `CLAUDE.md` § "The read-aloud gate" in order. Any
   anybody is the fastest cut available, and name count is the strongest single
   predictor of whether she finishes.
 
+## Pass 2b — self-containment
+
+Assume the reader has **zero context of any kind** — no football, no previous
+dispatch, no news. Work `CLAUDE.md` § "The self-containment gate".
+
+The highest-yield checks, in order:
+
+- **Is every person introduced where they first appear?** Name, what they are,
+  why she cares — same breath.
+- **Does the sign-off trio name anyone the story didn't?** The checker fails
+  this. It happens most often right after you cut names from the body.
+- **Does every quote say who is speaking and what they were asked?**
+- **Any withholding construction** — "the only true thing about it", "said it
+  best"? State the point instead.
+- **Every "it" / "that" / "this"** — is the antecedent actually on the page?
+
 ## Pass 3 — the voice
 
 Check against `VOICE.md`:

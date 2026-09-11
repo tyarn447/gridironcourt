@@ -71,7 +71,59 @@ Then answer these. **Any "no" blocks publication.**
    image.
 7. **Any pronoun without an obvious antecedent?** She will not work it out.
 
-## 3. What clarity does *not* mean
+## 3. The self-containment gate
+
+**The post must make complete sense to someone with zero prior context.** Not
+just zero football knowledge — zero context of any kind. She has not read last
+week's dispatch, does not know who these people are, has not seen the news, and
+is not going to look anything up.
+
+The failure mode is **elliptical writing**: a sentence that gestures at
+something the writer knows and never said. It always reads fine to the person
+who wrote it, which is exactly why it needs a separate pass.
+
+The line that prompted this gate:
+
+> *"Mike Evans, told afterward how long Los Angeles had been in the country,
+> said the only true thing about it. A few days earlier would have been ideal."*
+
+Three failures in two sentences. Who is Mike Evans — never introduced. Ideal
+*for what* — never stated; she has to reconstruct that he means the Rams should
+have flown out sooner. And "the only true thing about it" promises a point and
+then withholds it. Rewritten:
+
+> *"Afterward, someone told a San Francisco knight how briefly the other house
+> had been in the country — one day, against his week. He did not gloat. He
+> just said what everybody watching had worked out by the second quarter: Los
+> Angeles probably should have flown out a few days earlier."*
+
+Apply on every sentence:
+
+1. **Every person is introduced where they first appear.** Name plus what they
+   are plus why she should care, in the same breath. A bare name is a name she
+   drops.
+2. **Nobody new appears in the sign-off trio.** *Ships / Villain / Next week*
+   may only name people already in the story — or must explain them inline
+   ("Raheem Morris, who built the Watch in Los Angeles and now runs San
+   Francisco's"). The checker fails on this. It is easy to introduce by
+   accident when you cut names from the body and forget the footer.
+3. **Every quote says who is speaking and what they were responding to.** A
+   quote arriving with neither reads as a fragment of someone else's
+   conversation.
+4. **No withholding constructions.** "Said the only true thing about it", "said
+   it best", "you know the rest" — these promise a point and refuse to deliver
+   it. State the point.
+5. **Every "it", "that", "this" has a stated antecedent** in the same or
+   previous sentence. Not an implied one.
+6. **No callback that depends on an earlier post.** Each dispatch stands alone.
+   If last week matters, restate it in a clause.
+7. **No knowledge assumed from the news cycle.** A trade, an injury, a firing —
+   if it matters to the sentence, the sentence says what happened.
+
+The test: hand the post to someone who has never seen the site, and watch for
+the moment they look up. That moment is a defect, not a reader problem.
+
+## 4. What clarity does *not* mean
 
 It never licenses flattening the voice. The register stays sincere, high
 fantasy, played straight. Never explain a football term — use it with
