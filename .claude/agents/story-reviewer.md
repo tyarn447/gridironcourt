@@ -115,24 +115,18 @@ Real ones, caught in real posts. Check each:
 ## Before you report, verify mechanically
 
 ```bash
-cd /home/user/gridironcourt && npm run build
+cd "$(git rev-parse --show-toplevel)" && npm run build
 ```
 
 and check the constraints rather than trusting your eye:
 
 ```bash
-python3 - <<'PY'
-import re
-t = open('src/content/posts/<the-post>.md').read()
-core = t.split('— the words of House',1)[1].split('*Ships of the week')[0]
-core = core.split('\n',1)[1]
-print("words:", len(core.split()))
-print("digits:", re.findall(r'\d', core))
-bad = ["quarterback","completion","reception","touchdown","field goal",
-       "interception","punt","third down","yardage"," pass","sack"]
-print("forbidden:", [w for w in bad if w in core.lower()])
-PY
+python3 scripts/check-post.py src/content/posts/<the-post>.md
 ```
+
+It enforces length, the 8-name cap, football vocabulary, digits in prose, a
+plain statement of who won, and required frontmatter. See `CLAUDE.md` for what
+each gate is for.
 
 Do not commit or push. The caller handles git.
 

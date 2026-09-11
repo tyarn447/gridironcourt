@@ -28,70 +28,61 @@ draft: false
 > *Five Rings And A Grudge.*
 > — the words of House 49ers
 
-In February this realm weighed every lord it had and named Matthew Stafford the
-best of them. On Friday morning, at the bottom of the world, he could not make
-anything happen.
+House Rams landed in Australia about a day before they had to play.
 
-He is thirty-eight, and he did not hide from it. They never found a rhythm, he
-said. Two good marches in the whole day. It felt like they were fighting
-*themselves*.
+That was on purpose. Stay on California time, arrive, fight, leave — it had
+worked in London last autumn, and Sean McVay is a clever man. San Francisco had
+been walking around Melbourne in the sun for a week.
 
-House Rams was beaten badly, and the beating began early.
-
----
-
-Myles Garrett is the most destructive man in the sport, and he never laid a hand
-on anyone. Los Angeles bought him in June for a young man of its own Watch and
-three years of its future, so that nobody would walk down a field on this house
-in January again. A knee took his summer, and he will not say which one.
-Afterward he said the worst sentence a bought man can say: that out there, he had
-been thinking about *himself*, and not about them.
+You already know how this ends. It is the oldest lesson at court and Los Angeles
+paid full price for it.
 
 ---
 
-Los Angeles had been in the country about thirty-six hours. That was deliberate:
-stay on California time, land, play, leave. It had worked in London last October.
-Sean McVay is a clever man.
+In February this realm weighed every lord it had and named **Matthew Stafford**
+the finest of them. On Friday morning, at the bottom of the world, he could not
+make anything happen at all.
 
-San Francisco had been there a week. Walking around in the sun. Long enough that
-the morning felt like a morning.
+He is thirty-eight and he did not hide from it afterward. They never found a
+rhythm, he said. Two good marches in the entire day. It felt like they were
+fighting *themselves*.
 
-And San Francisco is old. Everyone says so, always in that tone. Trent Williams
-is thirty-eight. Mike Evans is thirty-three and scored on his first morning in
-these colors. Nick Bosa played on the knee that ended his last autumn, and Fred
-Warner on the ankle that broke and turned the wrong way in October. Before the
-half was out, Warner had overtaken Patrick Willis, the man this house measures
-everyone else against.
-
-Old is not the same as finished.
+And the man Los Angeles bought its future for was invisible. **Myles Garrett**
+is the most destructive person in the sport; this house gave up a young defender
+of its own and three years of its drafts to get him, so that nobody would walk
+down a field on them again. He touched no one. A knee took his summer and he
+will not say which one. Afterward he said the worst sentence a bought man can
+say — that out there he had been thinking about himself, and not about them.
 
 ---
 
-Out of the half, Los Angeles finally marched, all the way to the edge of the end
-zone. A stride short, one try left.
+Then, out of the half, Los Angeles finally marched the length of the field and
+arrived one stride from scoring.
 
-McVay could send a knight. He sent the lord.
+One stride, and one attempt left. Fail and you get nothing for the whole
+journey.
 
-Stafford put his head down and went for the shortest distance in the sport. Fred
-Warner was waiting. So was a squire named Gracen Halton, who was captaining a
-college team last autumn. They stopped him where he stood.
+McVay had a choice. He could hand it to a knight whose entire purpose is
+carrying the ball forward — or he could send the thirty-eight-year-old lord
+himself, head down, into the largest men on the field.
 
-On the screens it looked as though he had got in.
+He sent Stafford. **Fred Warner** was waiting for him, playing his first game
+back on an ankle that broke and turned the wrong way in October, and he stopped
+him where he stood. On the screens it looked as though Stafford had made it.
 
 He had not.
 
-San Francisco carried it back the whole length of the field, unhurried, and Purdy
-found Deebo Samuel alone in the end zone. That was the game.
+San Francisco took the ball and carried it back the entire length of the field,
+unhurried, and scored. That was the game — twenty points of daylight, and the
+rest was arithmetic.
 
-Late, Los Angeles took its lord off the field, uninjured. A house does not spend
-an MVP on a morning already gone, and Stetson Bennett ran the clock out on
-something nobody wanted.
+Late, Los Angeles took its lord off the field unhurt. A house does not spend an
+MVP on a morning already gone.
 
-Mike Evans, told afterward how long Los Angeles had been in the country, said the
-only true thing about it. A few days earlier would have been ideal.
+Afterward, told how long Los Angeles had been in the country, one of the men who
+beat them said the only true thing about it: a few days earlier would have been
+ideal.
 
-*Ships of the week:* Purdy and Deebo Samuel, reunited, alone in an end zone on
-the far side of the world.
-*Villain of the week:* Raheem Morris, who built the Watch in Los Angeles and now
-runs San Francisco's, and knows where everything in that house is kept.
+*Ships of the week:* Purdy and Deebo Samuel, reunited, alone on the far side of the world.
+*Villain of the week:* Raheem Morris, who built the Watch in Los Angeles and now runs San Francisco's, and knows where everything in that house is kept.
 *Next week:* Los Angeles goes home to explain itself.
