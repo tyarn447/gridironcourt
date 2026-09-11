@@ -8,6 +8,8 @@ words: "We Have Moved Before"
 sigil: "A curling horn, blue and gold"
 ink: "#003594"
 gold: "#FFA300"
+status: "Myles Garrett is not fully healthy — a knee problem cost him most of training camp"
+statusAsOf: 2026-09-11
 tier: "great"
 record2025: "12-5"
 chronicled: true

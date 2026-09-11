@@ -8,6 +8,8 @@ words: "Five Rings And A Grudge"
 sigil: "An oval of scarlet and old gold"
 ink: "#AA0000"
 gold: "#B3995D"
+status: "Fred Warner (ankle) and Nick Bosa (knee) both back from season-ending injuries"
+statusAsOf: 2026-09-11
 tier: "ascendant"
 record2025: "12-5"
 chronicled: true
@@ -38,6 +40,11 @@ while they argue.
 
 - **Mike Evans** — arrived this spring, at the end of a great career, for a
   house that needed one more serious man.
+- **Fred Warner** — on the Watch, and the captain of it. This house's
+  all-time leader in the thing he does, past Patrick Willis.
+- **Deebo Samuel** — sold away and bought back. He says it was always going
+  to happen.
+- **Trent Williams** — the Shieldwall, and the oldest man in the building.
 
 ## Ancient Grudges
 
@@ -48,9 +55,14 @@ while they argue.
 
 ## What Changed This Spring
 
-**Evans** in, **Dee Winters** out to Dallas. A quiet offseason for a house
-that lost by thirty-five in the divisional round, and the realm has them
-twelfth as a result.
+**Evans** in, **Deebo Samuel** back, **Dee Winters** out to Dallas. **Raheem
+Morris** — who ran the Watch in Los Angeles for three years and won a throne
+doing it — came in March to run this one. A quiet offseason for a house that
+lost by thirty-five in the divisional round, and the realm has them twelfth as
+a result.
+
+This is the second-oldest court in the realm. Nobody in it is pretending the
+window is wide.
 
 ## Prophecy
 

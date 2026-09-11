@@ -20,6 +20,20 @@ snow.
 The two of them opened the 2026 season against each other. Seattle won that
 too, 13–10.
 
+## 2026, as it happens
+
+**Week 1** — Seahawks 13, Patriots 10 (Darnold out, hip; Drew Lock relieved
+him and won it). **49ers 27, Rams 7** at the Melbourne Cricket Ground, the
+first NFL game in Australia — Los Angeles landed about 24 hours before
+kickoff and left after 36; San Francisco had been there a week. Stafford was
+pulled, uninjured, with 3:05 left. Myles Garrett's Rams debut: no tackles.
+
+Read that one as a Great House losing to an Ascendant one *badly* — not an
+upset by the table, but a 20-point beating of the realm's favourite by a
+house ranked twelfth. The 49ers are the second-oldest roster in the league
+and everyone had used that as a reason to file them away. Revisit the tiers
+if this holds.
+
 ## The playoff bracket, 2025–26
 
 **Wild Card** — Rams (5) 34, Panthers (4) 31 · Bears (2) 31, Packers (7) 27 ·
