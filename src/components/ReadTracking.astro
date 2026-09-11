@@ -1,0 +1,67 @@
+---
+/**
+ * Read-depth + interaction events for GoatCounter.
+ *
+ * The site's whole premise is that a dispatch is short enough to finish.
+ * Pageviews can't tell us whether that's true; these events can. We send:
+ *
+ *   read-start/<slug>  — the post was opened (baseline to divide by)
+ *   read-half/<slug>   — the midpoint scrolled into view
+ *   read-end/<slug>    — The Record came into view, i.e. they reached the end
+ *   line-seen/<slug>   — the pull-quote ("the line you say tomorrow") was seen
+ *
+ * read-end ÷ read-start is the completion rate, which is the number that
+ * says whether the length is right.
+ *
+ * IntersectionObserver rather than scroll listeners: cheaper, and it won't
+ * fire for content that never entered the viewport.
+ */
+import { analyticsEnabled } from '../config';
+const { slug } = Astro.props;
+---
+{analyticsEnabled && (
+  <script is:inline define:vars={{ slug }}>
+    (function () {
+      var sent = {};
+      function ev(name) {
+        if (sent[name]) return;
+        sent[name] = true;
+        // count.js loads async, so it may not be ready when a fast reader
+        // scrolls. Queue until it is, then flush.
+        var fire = function () {
+          if (window.goatcounter && window.goatcounter.count) {
+            window.goatcounter.count({ path: name + '/' + slug, event: true });
+            return true;
+          }
+          return false;
+        };
+        if (!fire()) {
+          var tries = 0;
+          var t = setInterval(function () {
+            if (fire() || ++tries > 40) clearInterval(t);
+          }, 250);
+        }
+      }
+
+      function watch(el, name) {
+        if (!el || !('IntersectionObserver' in window)) return;
+        var io = new IntersectionObserver(function (entries) {
+          if (entries[0].isIntersecting) { ev(name); io.disconnect(); }
+        }, { threshold: 0.4 });
+        io.observe(el);
+      }
+
+      document.addEventListener('DOMContentLoaded', function () {
+        ev('read-start');
+        var prose = document.querySelector('.prose');
+        if (prose) {
+          // A marker at the vertical midpoint of the article body.
+          var kids = prose.children;
+          if (kids.length > 3) watch(kids[Math.floor(kids.length / 2)], 'read-half');
+        }
+        watch(document.querySelector('.record'), 'read-end');
+        watch(document.querySelector('.article .pull'), 'line-seen');
+      });
+    })();
+  </script>
+)}
