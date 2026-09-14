@@ -25,9 +25,9 @@ draft: false
 > *Patience Is A Vow.*
 > — the words of House Jaguars
 
-**Todd Monken** is new in Cleveland, and the first real decision he made was the
-one this house had been arguing about since spring: four men wanted the seat, and
-he gave it to the most expensive of them.
+**Todd Monken** is the new steward of House Browns, and his first real decision
+was the one Cleveland had been arguing about since spring: four men wanted the
+lord's seat, and he gave it to the most expensive of them.
 
 By the third quarter on Sunday, the supporters who had flown down to Jacksonville
 were chanting for one of the other three.
@@ -37,48 +37,47 @@ were chanting for one of the other three.
 The man he chose is **Deshaun Watson**, who came to Cleveland on the most
 guaranteed money ever handed to a lord in this sport and has given the house
 almost nothing on the field since. Nobody in Cleveland argues about that part. It
-is not an opinion, it is the size of the cheque, and it sits over the building like
-weather.
+is not an opinion, it is the size of the cheque, and it sits over the building
+like weather.
 
-The man the crowd wanted is **Shedeur Sanders** — second year, unproven, the
-most famous name in the room, and adored by people who have run out of patience
-with everything else about this house.
+The man the crowd wanted is **Shedeur Sanders** — second year, unproven, the most
+famous name in the room, and adored by people who have run out of patience with
+everything else about this house.
 
-Monken chose the veteran. That is a defensible football decision, and he will be
-asked about it every week for as long as he holds the job.
+Monken chose the veteran. It was a defensible choice, and it is now the thing he
+will be asked about every week for as long as he holds the job.
 
 ---
 
 It went wrong inside an hour. Watson gave the ball away twice before the interval,
-and Jacksonville — a house that won a great deal last season and then lost its one
-January afternoon at home, which it has not forgiven itself for — took both gifts
-and used them properly.
+and Jacksonville — a house that won almost everything last season and then lost the
+one January game it got — took both gifts and used them properly.
 
-**Trevor Lawrence** spent the afternoon being the player Jacksonville was promised
-when it got the most anticipated young man of his generation. He barely missed a
-throw. Four scores.
+**Trevor Lawrence** spent the day being the lord Jacksonville thought it was
+getting when it took the most anticipated young player of his generation. He barely
+missed a throw. Four scores.
 
-By early in the third quarter Cleveland had not managed anything at all and was
-more than four scores down. Jacksonville, with the game long since won, began
-taking its best men off the field and resting them. That is not mercy. It is the
-most insulting compliment in the sport.
+By early in the third quarter Cleveland had managed nothing at all and was more
+than four scores down, and Jacksonville started taking its best men off the field
+to rest them. That is not mercy. That is a house deciding there is nothing left in
+the afternoon worth risking anybody for.
 
 ---
 
 That is when the chanting started, high in the corner where the visiting
-supporters sit — people who had bought flights and hotel rooms to be in that
-building.
+supporters sit.
 
 They were not booing the result. They were asking, in unison, in a stranger's
 hall, for their own lord to be taken off and a different man sent out.
 
-A house can survive losing by a distance, and Cleveland lost by a distance. It is
-much harder to survive its own people, a long way from home and out of pocket for
-the privilege, deciding out loud that the man in the seat is the wrong one.
+A house can survive losing by a distance, and Cleveland lost by a distance.
+Surviving your own people is harder — the ones who bought flights and hotel rooms
+in order to stand in somebody else's building and say out loud that the man in the
+seat is the wrong one.
 
-Watson cannot answer a chant. The only answer available is to play better next
-Sunday, and he has one week to find it. Monken cannot answer it either — except by
-changing his mind in public, having been steward here for one game.
+Watson cannot answer a chant. The only answer available to him is to play better
+next Sunday, and he has a week to find it. Monken has no answer either, unless he
+changes his mind in public after one game in the job.
 
 *Ships of the week:* Lawrence and a house that has waited a long time to look like that.
 *Villain of the week:* the contract, which everyone in Cleveland can recite and nobody can undo.

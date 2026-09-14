@@ -31,15 +31,14 @@ draft: false
 **Geno Smith** lost his place in this house over six hundred dollars.
 
 It was a plane ticket to a camp he had missed because someone close to him had
-died. A teammate wanted the money back. Smith would not pay it, and the teammate
-broke his jaw in the locker room in August and was gone from the building within
-hours. So, in every way that counted, was Smith: he lost the seat that month and
-never got it back.
+died. A teammate wanted the money back. Smith would not pay it, so the teammate
+broke his jaw in the locker room. The teammate was released within hours. Smith
+lost the seat that month and never got it back.
 
 New York traded for him again in the spring. He is thirty-six.
 
-On Sunday he walked into a hall in Tennessee, made his first start for this
-house in ten years, and won it at a walk.
+On Sunday, in a hall in Tennessee, he made his first start for this house in ten
+years. He won it comfortably, and never once had to come from behind.
 
 ---
 
@@ -52,33 +51,34 @@ never gets to explain. Tennessee hired him in January to stop four straight
 losing years. This was his first day, and the calendar had handed him the house
 that fired him.
 
-Nobody outside two cities had a reason to watch it: both houses won three games
-last season, and on paper this was the week's least consequential afternoon.
+Both houses won three games last season, and nobody outside two cities had a
+reason to watch this one.
 
-So New York made it about ground.
+New York settled it on the ground.
 
-**Breece Hall**, whom this house paid a great deal of money to keep and who had
-only that week come back to work from a hurt groin, carried it twenty-two
-times, and only twice before in five years had he taken that much ground in a day. A
-squire named **Kenyon Sadiq**, a young knight who is not supposed to carry
-anything at all, took it sideways on the first march of the day and ran it in
-himself: the first score of his life. New York never gave the lead back.
+**Breece Hall** carried it twenty-two times. This house paid a great deal in the
+spring to keep him doing exactly that, and he had come back to work from a hurt
+groin only that week — and in five years, only two other afternoons have given
+him that much ground. **Kenyon Sadiq**, a squire nobody expects to be carrying
+the ball at all, was handed it running sideways on the opening march and took it
+in himself: his first score in the realm. New York never gave the lead back.
 
 ---
 
-Tennessee's Reckoner answered early, and then nothing happened to them for a
-very long time.
+Tennessee's Reckoner answered early, and then, for most of the afternoon,
+nothing happened for them at all.
 
 Eight marches in a row. Not one produced anything.
 
 No calamity to point at, which is the quiet horror of it. The ball simply kept
-not being theirs. New York held it for close to two-thirds of the afternoon —
-one house keeping it from another that badly needed it, march after march, until
-the clock had eaten the argument.
+belonging to somebody else. New York held it close to two-thirds of the day — one
+house keeping it from another that badly needed it, march after march, until the
+clock had eaten the argument.
 
-**Cam Ward** was the first name called in the entire realm when he came out, and
-is in his second season of being Tennessee's answer. On Sunday he could not move
-anything. His house finally scored with the result long since settled.
+**Cam Ward** is in his second season as Tennessee's lord, and no man of his year
+was chosen before him — the first name called in the entire realm. On Sunday he
+could not move anything at all. His house finally scored with the result long
+since settled.
 
 Nothing broke. It simply never started, and for a house at the bottom that is
 worse than a disaster, which can at least be repaired.

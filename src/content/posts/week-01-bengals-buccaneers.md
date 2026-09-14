@@ -8,7 +8,7 @@ week: 1
 date: 2026-09-13
 houses: ["bengals", "buccaneers"]
 line: "Baker Mayfield lost the ball three times, and the last one he lost while trying to score."
-excerpt: "Cincinnati spent its whole winter buying a defence. It took four balls off Tampa Bay in an afternoon, and one of them was handed over at the goal line."
+excerpt: "Cincinnati spent its whole winter buying a defence. That defence took four balls off Tampa Bay in a single afternoon, and the last of them Baker Mayfield lost while trying to score."
 record:
   - "Bengals 33, Buccaneers 27 — Paycor Stadium, crowd 66,625"
   - "Cincinnati forced four turnovers — only the second time the franchise has done that in a Week 1"
@@ -28,55 +28,53 @@ draft: false
 > *The Stripes Do Not Fade.*
 > — the words of House Bengals
 
-**Demetrius Knight Jr.** picked a loose ball off the grass early in the afternoon
-and ran it in himself, and Cincinnati, a score behind at the time, was never
-behind again.
+**Demetrius Knight Jr.** scooped a loose ball off the grass early in the
+afternoon and ran it in himself. Cincinnati was behind when he picked it up.
+Cincinnati was never behind again.
 
 He is a man of the Watch, and that is the part that matters. For years the Watch
-was the reason this house lost. It could score on anybody and hold nobody,
-everyone in the realm could see it, and Cincinnati went on losing that way while
-being told the problem was obvious.
+was the reason this house lost. Cincinnati could score on anybody and stop
+nobody. Everyone in the realm could see it, Cincinnati most of all.
 
-So over the winter it did the thing no house enjoys doing. It traded away a
-first-round claim — the future, the thing houses hoard — for one enormous man
+So over the winter Cincinnati did the thing no house enjoys doing. It traded away
+a first-round claim — the future, the thing houses hoard — for one enormous man
 named **Dexter Lawrence**, and rebuilt the Watch around him.
 
-On Sunday that Watch took the ball off Tampa Bay four times. Three of them came
-one after another in the first half, and Cincinnati turned all three into scores —
-very nearly a whole game assembled out of somebody else's bad afternoon.
+On Sunday that Watch took the ball off Tampa Bay four times. Three came one after
+another in the first half, and Cincinnati turned all three into scores: very
+nearly a whole game assembled out of somebody else's bad afternoon.
 
 ---
 
 Tampa Bay's lord, **Baker Mayfield**, lost the ball three times. It is the third
 one that will keep him awake.
 
-He had already escaped. That is the cruelty of it — he had done the hard part,
-wriggled free of a collapsing situation and turned a ruined moment into open
-grass, and all that was left was to run the last few strides and put the ball
-down for a score.
+He had already done the hard part. The play had collapsed around him and he had
+wriggled out of it into open grass, and all that was left of the whole business
+was a few strides and the ball put down for a score.
 
 He could have gone to ground and kept it. Any sensible man goes to ground there.
 
 He tried to make one more defender miss.
 
-The ball came out of his hands, rolled over the line and out the back of
-everything, and instead of a score Tampa Bay had simply handed the ball to
-Cincinnati and walked off the field.
+The ball came out of his hands, crossed the line and rolled out of play behind
+it, and instead of a score Tampa Bay had simply given Cincinnati the ball
+and walked off.
 
 ---
 
-Mayfield handed the blame to nobody. *This one falls on me*, he said afterwards,
-before a single person had to ask him. His steward, **Todd Bowles**, did the
-arithmetic out loud: four balls given away, and they still only lost by one score.
+Mayfield did not wait to be asked about it. *This one falls on me*, he said
+afterwards. His steward, **Todd Bowles**, did the arithmetic out loud: four balls
+given away, and they still only lost by one score.
 
-And they nearly won it anyway. Cincinnati's own lord, **Joe Burrow**, threw one
-away in his turn, and a Tampa Bay man carried it back for a score, and the
-Jungle — this house's own hall, loud all day — went very quiet for a while.
+Because Tampa Bay nearly won it anyway. Cincinnati's own lord, **Joe Burrow**,
+threw one away in his turn, a Tampa Bay man carried it back for a score, and the
+Jungle — Cincinnati's own hall, loud all afternoon — went very quiet.
 
-But the ball kept ending up in Cincinnati's hands all afternoon, for the first
-time in years, and Cincinnati won it by that one score. That is what a
-first-round claim buys, when it works.
+But the ball kept finding Cincinnati's hands, all afternoon, for the first time in
+years. Cincinnati won it, by a single score. That is what a first-round claim
+buys, in the years it works.
 
 *Ships of the week:* Cincinnati's new Watch and the men who signed the cheques for it.
-*Villain of the week:* one more defender, who did not need to be made to miss.
+*Villain of the week:* the last defender between Mayfield and the score, who never had to lay a hand on him.
 *Next week:* Tampa Bay answers questions about its lord's hands, which is not how anybody wanted to start.

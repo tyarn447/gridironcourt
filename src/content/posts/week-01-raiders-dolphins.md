@@ -36,9 +36,9 @@ That was always the arrangement. The trouble is that it worked.
 
 ---
 
-**Kirk Cousins** came from Atlanta, where it had ended unhappily, to be adequate
-immediately in a house that has not been adequate in years. Nobody promised him a
-future here. He was bought to stop the bleeding.
+**Kirk Cousins** was traded out of Atlanta to be adequate immediately, in a house
+that has not been adequate in years. Nobody promised him a future here. He was
+bought to stop the bleeding.
 
 His first march in the colours went nine throws, nine caught, and ended with the
 ball in **Jack Bech**'s hands for a score. He did that twice more before the
@@ -50,37 +50,35 @@ He was not flawless; he gave it away twice. It did not matter. No song gets writ
 about a man who is merely enough, which is exactly why a losing house buys one.
 
 And that is Mendoza's difficulty, standing behind him. There is no injury to wait
-for, no collapse to inherit, no seam in the calendar where a house stops and tries
-something new. Every competent afternoon Cousins has is another Sunday the first
-pick in the realm spends on his feet, holding a clipboard.
+for and no collapse to inherit. Every competent afternoon Cousins has is another
+Sunday the first pick in the realm spends on his feet, holding a clipboard.
 
 ---
 
-Miami made it interesting for about a quarter of an hour. They are the youngest
-house in the league, after a spring in which they let go of nearly everyone worth
-keeping, including the most famous knight they had, whom nobody has signed since.
-Their new steward, **Jeff Hafley**, was running his first day.
+Miami arrived as the youngest house in the league, after a spring in which it let
+go of nearly everyone worth keeping — including the most famous knight it had, whom
+nobody has signed since. Its steward, **Jeff Hafley**, was running his first day.
 
-They got it back to a single score early in the third quarter, and Allegiant
-Stadium went quiet.
+For one stretch of the afternoon that young house made Las Vegas nervous. It got the
+margin back to a single score early in the third quarter, and Allegiant Stadium
+went quiet.
 
-Then a Raider took the next kick and ran it all the way to halfway before anybody
-laid a hand on him. Cousins, given a short field and no need to be brave, found
-**Ashton Jeanty** — the knight this house runs everything through — for his second
-scoring catch of the afternoon, and the door shut.
+Then a Raider caught the next kick and carried it out to the middle of the field.
+Cousins, given a short field and no need to be brave, found **Ashton Jeanty** — the
+knight this house runs everything through — for his second scoring catch of the
+day, and the door shut.
 
-Miami's own lord was put on the grass five times, and the man they were counting on
-to do that to Cousins was never heard from.
-
-Las Vegas won by two scores, in a game that never felt that close.
+Miami's own lord was put on the grass five times. The man Miami was counting on to
+do that to Cousins was never heard from. Las Vegas won by two scores, in a game
+that never felt that close.
 
 ---
 
-So the Raiders have exactly what they paid for, and the problem that came with it.
-There is no week off for months, no gentle Thursday or Monday game ahead of them,
-no soft moment in which to hand a throne over. The succession, when it comes, will
-not be arranged. It will happen mid-afternoon, after something goes wrong, in front
-of everyone.
+So Las Vegas has exactly what it paid for, and the problem that came with it. There
+is no week off for months — no gentle Thursday, no Monday, no seam anywhere in the
+calendar where a house stops and quietly tries something new. The succession, when
+it comes, will not be arranged. It will happen mid-afternoon, after something goes
+wrong, in front of everyone.
 
 Until then, the most valuable thing this house owns spends its Sundays standing up.
 

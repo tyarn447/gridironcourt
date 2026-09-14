@@ -28,57 +28,58 @@ draft: false
 **Aaron Rodgers** has said this is the last season he intends to play, and he is
 spending it in the least comfortable place he could have chosen.
 
-Fifteen years ago he and **Mike McCarthy** stood on the largest field in the sport
-and took a title off House Steelers. Not a theoretical enemy — the two specific
-men who beat this specific house on the only night that counts, in front of
-everybody, and then went home with it.
+Fifteen years ago, on the largest field the sport has, he and his steward **Mike
+McCarthy** took a title off House Steelers. This is not a grudge somebody invented
+for the occasion. These are the two specific men who beat this specific house on the
+only night of the year that counts, in front of everybody.
 
-On Sunday afternoon the pair of them came out of the tunnel in Pittsburgh's
-colours, the steward running this house for the first time and the lord playing
-for it.
+On Sunday afternoon the pair of them came out of the tunnel wearing Pittsburgh's
+colours — McCarthy running this house for the first time, Rodgers playing for it.
 
-Pittsburgh won. It was not beautiful — it was narrow and grim, and the Watch had to
-rescue the attack. In this hall that has always been a respectable way to win.
+Pittsburgh won. It was narrow and it was grim and the Watch had to rescue the
+attack, which in this hall has always been a perfectly respectable way to win.
 
 ---
 
-Rodgers threw it a great many times without ever making the afternoon look easy.
-He found **Pat Freiermuth** from close range, and that was the whole of
-Pittsburgh's scoring for three quarters. The rest came from the Reckoner, twice,
-cold and businesslike.
-
-Atlanta arrived with a hole where its lord should have been. He had been ruled out
-with a hurt side, and the man asked to stand in for him, **Cooper Rush**, only
-learned on the Friday that he was playing.
+Atlanta came in with a hole where its lord should have been. He had been ruled out
+in the week with a hurt side, and the man asked to stand in for him, **Cooper
+Rush**, was told on the Friday.
 
 Rush did what a substitute does. He kept it simple, found **Bijan Robinson** on a
-short throw that Robinson turned into a score himself, and gave Atlanta a lead they
-carried into the second quarter.
+short throw that Robinson turned into a score himself, and handed Atlanta a lead
+they carried into the second quarter.
 
-Then Atlanta needed more from him than that, and it came apart.
+Pittsburgh took it back the slow way. Rodgers threw it a great many times without
+ever making the afternoon look easy, and found **Pat Freiermuth** from close range
+for the only score his attack would manage all day. Everything else Pittsburgh had
+by the interval came from the Reckoner, twice, cold and businesslike. Enough to be
+ahead. Not nearly enough to feel safe.
+
+Then Atlanta needed more from Rush than simple, and it came apart.
 
 ---
 
-Early in the fourth quarter, with Pittsburgh three points ahead and the whole
-afternoon still there to be won, Rush threw one into the middle of the field.
+Early in the fourth quarter, with Pittsburgh barely ahead and the whole afternoon
+still there to be won, Rush threw one into the middle of the field.
 
 **T.J. Watt** was standing in it.
 
-He took it out of the air in Atlanta's own half and carried it back the other way
-for a score himself, and the noise in that building went up the way it used to,
-and a game Atlanta could still have won became a game they had to chase.
+There is no man in this realm you would less like to throw at. He took it out of
+the air in Atlanta's own half and carried it back the other way for a score
+himself, and the noise in that building went up the way it used to, and a game
+Atlanta could still have won became a game they had to chase.
 
-They chased it and found nothing. On one drive Rush was dragged down before he
+They chased it and found nothing. On one march Rush was dragged down before he
 could throw at all, and that was the afternoon.
 
 ---
 
-McCarthy praised his Watch afterwards and was hard on his own attack, which was
-fair on both counts and rare in a man who has just won.
+Afterwards McCarthy praised his Watch and was hard on his own attack, and on
+himself for it — rare in a man who has just won.
 
-So the two of them have their first day in this hall, and it went to them. The
-house that spent fifteen years resenting the pair of them now needs them to be
-good — and if Rodgers meant what he said, they have one season to manage it.
+So the pair of them have had their first day in this hall, and it went to them.
+The house that spent fifteen years resenting them now needs them to be good, and
+if Rodgers meant what he said, they have one season to manage it.
 
 *Ships of the week:* McCarthy and Rodgers, together again, in the colours of the house they ruined.
 *Villain of the week:* the throw into the middle of the field, which Atlanta will be shown again all week.
