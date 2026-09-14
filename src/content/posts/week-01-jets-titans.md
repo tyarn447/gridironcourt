@@ -27,6 +27,7 @@ draft: false
 
 > *We Believe Anyway.*
 > — the words of House Jets
+
 **Geno Smith** lost his place in this house over six hundred dollars.
 
 It was a plane ticket to a camp he had missed because someone close to him had
@@ -57,8 +58,8 @@ last season, and on paper this was the week's least consequential afternoon.
 So New York made it about ground.
 
 **Breece Hall**, whom this house paid a great deal of money to keep and who had
-only that week come back to work from a hurt groin, carried the ball twenty-two
-times and took more ground than he has on all but two days of his career. A
+only that week come back to work from a hurt groin, carried it twenty-two
+times, and only twice before in five years had he taken that much ground in a day. A
 squire named **Kenyon Sadiq**, a young knight who is not supposed to carry
 anything at all, took it sideways on the first march of the day and ran it in
 himself: the first score of his life. New York never gave the lead back.

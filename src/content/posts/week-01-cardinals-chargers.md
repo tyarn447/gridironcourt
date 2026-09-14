@@ -16,7 +16,7 @@ record:
   - "Jacoby Brissett: 277 yards, one touchdown"
   - "Trey McBride: 9 catches, 95 yards, a touchdown"
   - "Jeremiyah Love scored in his NFL debut"
-  - "Chad Ryland made four field goals — 42 yards among them, after a 15-yard face mask on Paris Johnson Jr. His only miss, from 54, hit the right upright"
+  - "Chad Ryland made four field goals, including a 42-yarder set up by a 15-yard face mask penalty. His only miss, from 54, hit the right upright"
   - "Justin Herbert: 17 of 27, 209 yards, a touchdown and an interception, sacked three times"
   - "Fourth-and-goal from the 3, two minutes before halftime: Dante Stills sacked Herbert. Los Angeles scored nothing"
   - "Fourth quarter: Simi Fehoko blocked a punt, Andrew Wingard intercepted Herbert"
@@ -28,6 +28,7 @@ draft: false
 
 > *The Oldest House.*
 > — the words of House Cardinals
+
 **Jacoby Brissett** is the man a house sends for when the plan has already
 failed. His entire career is other men's seats, kept warm and handed back
 without complaint.
@@ -51,10 +52,10 @@ Nobody tells you how ordinary an upset looks while it is happening.
 
 Brissett was not brilliant. He was *unbothered*, throwing to **Trey McBride**
 nine separate times and never far, like a man paying off a debt in instalments.
-A squire scored the first points of his whole life. And **Chad Ryland**, the
+A squire scored in the first hour of his career. And **Chad Ryland**, the
 Reckoner, who stands apart from everybody by trade, went out four times and
-kicked four times — one of them after a Los Angeles man grabbed a face mask and
-gave away the ground for nothing.
+kicked four times — one of them from closer in, after a grabbed face mask handed
+Arizona free ground.
 
 Across the field, **Jim Harbaugh** watched his own house hold the ball for a
 little over a third of the afternoon. Nothing is winnable from there.
@@ -64,8 +65,8 @@ little over a third of the afternoon. Nothing is winnable from there.
 Two minutes before the interval, Los Angeles came to within three strides of
 scoring and stopped.
 
-Harbaugh's own kicker was standing right there, with the easiest work of his
-afternoon in front of him.
+The certain points were there for the taking, from the closest range his house
+would see all afternoon.
 
 He sent his lord instead.
 

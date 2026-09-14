@@ -64,11 +64,9 @@ afternoon still there to be won, Rush threw one into the middle of the field.
 
 **T.J. Watt** was standing in it.
 
-He took it out of the air deep in Atlanta's own half, and there was nobody between
-him and the other end. He did not have to beat a man or break a tackle. He ran the
-length of it and set the ball down, and the noise in that building went up the way
-it used to, and a game Atlanta could still have won became a game they had to
-chase.
+He took it out of the air in Atlanta's own half and carried it back the other way
+for a score himself, and the noise in that building went up the way it used to,
+and a game Atlanta could still have won became a game they had to chase.
 
 They chased it and found nothing. On one drive Rush was dragged down before he
 could throw at all, and that was the afternoon.

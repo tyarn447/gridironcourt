@@ -27,6 +27,7 @@ draft: false
 
 > *Skol, And Suffer.*
 > — the words of House Vikings
+
 The rental lasted a quarter of an afternoon.
 
 **Kyler Murray** came to Minnesota on a twelve-month lease. Not a succession,
@@ -67,14 +68,14 @@ He did not get it.
 
 ---
 
-Minnesota came the length of the field and scored, and stood one point short.
+Minnesota came the length of the field and scored, and then had a choice about
+what that score was worth.
 
-There is a kick for that. It is the dullest thing in the sport and it never
-misses. Minnesota left it alone.
+There is a kick that follows one. It is the dullest thing in the sport and it
+never misses. Minnesota left it alone.
 
-They stayed on the field for the harder version — not the point that would draw
-the game, but the two that would put them in front for the first time all
-afternoon.
+They stayed on the field for the harder version instead — two points rather than
+the safe one, enough to put them in front for the first time all afternoon.
 
 Wentz looked for **Justin Jefferson**, who had already caught two scores from
 him that day.

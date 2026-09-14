@@ -58,8 +58,8 @@ pick in the realm spends on his feet, holding a clipboard.
 
 Miami made it interesting for about a quarter of an hour. They are the youngest
 house in the league, after a spring in which they let go of nearly everyone worth
-keeping, including the most famous knight they had, whom nobody has signed since. Their new steward, **Jeff Hafley**, was running his first
-day.
+keeping, including the most famous knight they had, whom nobody has signed since.
+Their new steward, **Jeff Hafley**, was running his first day.
 
 They got it back to a single score early in the third quarter, and Allegiant
 Stadium went quiet.
