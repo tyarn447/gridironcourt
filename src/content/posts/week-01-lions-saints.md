@@ -33,7 +33,7 @@ winning it back for them, and was then handed one throw for all of it.
 He is the lord of a house the realm expects nothing from — New Orleans won six
 games last year — and he began by giving Detroit the ball three times. Two of
 those came one directly after the other, in the third quarter, and Detroit made
-a lead of three scores out of them. In Ford Field, against a house everybody has
+a lead of three scores out of them. At Ford Field, against a house everybody has
 decided is on its way up, with Detroit's own people settling in to enjoy the rest
 of it, that is where this story usually stops.
 

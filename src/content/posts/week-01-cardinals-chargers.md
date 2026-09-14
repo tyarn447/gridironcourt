@@ -30,64 +30,68 @@ draft: false
 > — the words of House Cardinals
 
 **Jacoby Brissett** is the man a house sends for when the plan has already
-failed. His entire career is other men's seats, kept warm and handed back
+failed. His whole career is other men's seats, kept warm and handed back
 without complaint.
 
 Arizona did not send for him as a substitute. Arizona gave him the house.
 
-In the spring this house released the lord it had spent a decade building around
-— released him at the first minute of the first day it was legally allowed to,
-and it will be paying him not to be here for two more winters. Brissett is what
-they did next. Nobody read that as a plan. Arizona won three games all last
-season, and the realm agreed with the ranking and thought about something else.
+In the spring this house released the lord it had spent a decade building
+around — released him at the first minute of the first day it was legally
+allowed to, and it will be paying him not to be here for two more winters.
+Brissett is what they did next. Nobody read it as a plan. Arizona won three
+games all last season, and the realm looked at that, agreed, and thought about
+something else.
 
-So: Los Angeles, at home, the heaviest favourite in the realm this weekend,
-against the house nobody fancied at all.
+So Los Angeles at home became the safest thing in the realm this weekend: a
+house that won a great deal last season, against one that had won almost
+nothing.
 
-Arizona won by two scores and never once looked hurried.
+Arizona won it by two scores and never once looked hurried.
 
 ---
 
 Nobody tells you how ordinary an upset looks while it is happening.
 
-Brissett was not brilliant. He was *unbothered*, throwing to **Trey McBride**
-nine separate times and never far, like a man paying off a debt in instalments.
-A squire scored in the first hour of his career. And **Chad Ryland**, the
-Reckoner, who stands apart from everybody by trade, went out four times and
-kicked four times — one of them from closer in, after a grabbed face mask handed
-Arizona free ground.
+Brissett was not brilliant. He was *unbothered*. Nine separate times he threw
+to **Trey McBride**, a knight of his, and never far — a man paying off a debt
+in instalments. A squire scored on his first day in the sport. Arizona's
+Reckoner, **Chad Ryland**, went out four times and came back with points four
+times, cold as arithmetic, one of them from short range after somebody grabbed
+a face mask and handed Arizona free ground.
 
-Across the field, **Jim Harbaugh** watched his own house hold the ball for a
-little over a third of the afternoon. Nothing is winnable from there.
+Across the field, **Jim Harbaugh**, who runs Los Angeles, watched his own house
+hold the ball for barely a third of the afternoon. Nothing is winnable from
+there.
 
 ---
 
-Two minutes before the interval, Los Angeles came to within three strides of
-scoring and stopped.
+Two minutes before the interval, Los Angeles came within three strides of
+scoring and stopped there.
 
-The certain points were there for the taking, from the closest range his house
-would see all afternoon.
+Harbaugh had the safe version in his hand: send his Reckoner out, take the
+certain points, go in at the interval with something. The other choice was one
+more attempt at those three strides, and failing it meant the whole long march
+counted for nothing at all.
 
-He sent his lord instead.
+He sent his lord.
 
-**Justin Herbert** never got the throw away. Arizona came through the shieldwall
-and put him on the grass, and the favourite walked off its own field with
-nothing to show for the whole long march. Ryland went out and kicked again, and
-Los Angeles spent the rest of the day behind.
+**Justin Herbert** never got the throw away. Arizona came through his own
+shieldwall and put him on the grass, and the surest house of the weekend walked
+off its own field with nothing to show for any of it.
 
-After that it came apart in the ordinary ways. Arizona smothered a kick before
-it left the ground, then took one of Herbert's throws clean out of the air.
-Somewhere in that stretch Los Angeles lost **Ladd McConkey**, the one knight all
-afternoon who had looked capable of rescuing something, to a hurt chest.
-Harbaugh had nothing to tell anyone about him afterward.
+Late in the third quarter Los Angeles lost **Ladd McConkey**, the one knight all
+afternoon who had looked capable of rescuing something, to a hurt chest;
+Harbaugh had nothing to tell anybody about him afterward. Then it came apart in
+the ordinary ways. Arizona smothered a kick before it left the ground, and took
+one of Herbert's throws clean out of the air.
 
-He did not have much on the rest of it either. He called his house sloppy and
-unlike itself. Asked what had gone wrong, he said: quite a few things.
+Harbaugh had little on the rest of it either. He called his house sloppy and
+unlike itself, and asked what had gone wrong he said: quite a few things.
 
 The other steward had never run a house in his life before Sunday. **Mike
-LaFleur** is the first man to win his first day in Arizona in more than fifty
-years — for the house that threw its lord away in the spring and was pitied for
-it all summer.
+LaFleur** is the first man to win his first afternoon in charge of Arizona in
+more than fifty years — for the house that threw its own lord away in the
+spring and was pitied for it all summer.
 
 *Ships of the week:* Brissett and McBride, nine times, nothing fancy, all afternoon.
 *Villain of the week:* whoever made Los Angeles the favourite.

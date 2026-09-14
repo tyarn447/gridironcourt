@@ -70,8 +70,9 @@ being magnificent. Nine throws out of eleven. Two scores. A whole season's worth
 of belief assembled inside a single quarter.
 
 The second of them, from a yard out, left Washington two points behind with a
-minute to play, which made the kick useless to them. One point still loses. They
-had to have two, and they had to have them there, on one attempt.
+minute to play. There is a routine kick that follows a score, worth one point,
+and it was no use to them at all — one point still loses. They had to have two,
+and they had to have them right there, on a single attempt.
 
 The call belonged to **David Blough**, who runs Washington's attack: a short
 flipped ball to a knight, low and quick, the kind of thing that works because
