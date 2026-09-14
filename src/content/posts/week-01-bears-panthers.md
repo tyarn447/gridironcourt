@@ -7,12 +7,12 @@ season: 2026
 week: 1
 date: 2026-09-13
 houses: ["bears", "panthers"]
-line: "Bryce Young played the best game of his life and lost by three scores."
-excerpt: "The house whose whole faith is defence scored more points than it has in forty-six years, and gave up more than it could defend afterward."
+line: "Bryce Young scored four times and lost by three scores, because Chicago simply ran through his house all afternoon."
+excerpt: "Carolina's lord scored four times and it changed nothing. Chicago ran for six scores and won the highest-scoring opening day this league has ever had."
 record:
   - "Bears 59, Panthers 37 — Bank of America Stadium"
   - "96 combined points: the highest-scoring opener in NFL history. 59-37 had never been a final score in any NFL game"
-  - "Chicago's most points in a game since 1980, and the most in any opener in franchise history"
+  - "Chicago's most points in a game since the 1980 season, and the most in any opener in franchise history"
   - "Chicago gained 552 yards, a franchise record"
   - "Caleb Williams: 269 passing yards, two passing touchdowns, 65 rushing yards, two rushing touchdowns — the first player in Bears history with that combination in one game"
   - "D'Andre Swift: 124 rushing yards, three touchdowns, the last a 28-yard run"
@@ -28,64 +28,63 @@ draft: false
 > *Defense Is A Faith.*
 > — the words of House Bears
 
-**Bryce Young** played the best game of his life on Sunday and lost by three
-scores.
+**Bryce Young** played beautifully on Sunday and lost by three scores.
 
-He threw for more than he ever has. He scored four times, one of them with his
-own legs. A knight of his named Coker had the afternoon of his career, eight
-catches, two of them scored. Carolina put up a total that wins almost every
-game ever played in this league.
+He scored four times: three of them thrown, one he ran in himself. A knight of
+his called **Jalen Coker** had the best afternoon of his career and caught two of
+them. Carolina scored enough to win almost any other afternoon in this league.
 
-It was not close. It was not close by the middle of the third quarter.
+It was not close. It had stopped being close in the third quarter.
 
 ---
 
-Understand what House Bears is supposed to be, because it is written on the
-wall: this is the house of the Watch. Its whole identity, for a hundred years,
-is men in the cold refusing to let you past. Chicago has always believed that
-scoring is something that happens to other people.
+Chicago took the ground and never gave it back. That is the whole account of the
+afternoon, and it is the last way anybody expected this particular house to win a
+war.
 
-On Sunday Chicago scored more points than it has scored in any game since
-nineteen-eighty, and more than it has ever scored on an opening day, and the
-realm's oldest defensive house won a war by simply out-running everyone in it.
+**Caleb Williams** was the first man taken in the realm two springs ago and has
+spent the time since being discussed rather than admired. He threw two scores and
+ran in two more, which nobody in the long history of this house has ever managed
+in a single afternoon.
 
-**Caleb Williams** was taken first overall in the realm two springs ago and has
-spent the time since being discussed rather than admired. He threw two scores
-and ran in two more, which no one wearing this house's colours has ever done in
-one afternoon.
+But the day belonged to the men he handed it to. **D'Andre Swift** carried it in
+three separate times. Between him and the knights beside him, Chicago ran off
+with the kind of ground a house puts on a banner, and six times it ran the ball
+all the way in.
 
-But it was the ground that did it.
-
-**D'Andre Swift** carried it in three times. A squire in the first month of his
-career broke loose and ran sixty-one yards without being touched. Between the
-two of them Chicago's knights ran for the kind of total that houses put on
-banners, and six times they ran it all the way in.
+Carolina could not get a hand on any of it. Their answers came through the air
+instead, one after another, beautifully thrown, always a beat behind.
 
 ---
 
-The afternoon turned on two plays back to back, and they were the same play.
+The afternoon turned twice inside about a minute, and both times it was a man
+running.
 
-Swift scored to put Chicago ahead. Carolina had to answer, and had the men to
-answer — that is the cruelty of it, they *could* answer, they did it four
-separate times.
+Swift scored to put Chicago ahead. Carolina had the men to answer that — it is
+the cruelty of the day that they *could* answer, and did, four separate times.
 
-Then Chicago handed the ball to the squire, and he went sixty-one yards, and
-what had been a contest between two houses became a house watching another house
-work.
+They did not get the chance. Chicago gave the ball straight to **Kyle Monangai**,
+a squire in the first month of his career, and he took it sixty-one yards.
 
-Carolina scored again after that. And again. It made no difference at all, which
-is the single most demoralising thing that can happen to a lord playing well.
+And a contest between two houses became one house watching another work.
 
 ---
 
-Chicago's own Watch gave up more points than any house wants to discuss and will
-be the only thing anyone in that city talks about this week, which tells you
-everything about what this house believes it is. Nobody in Chicago celebrates a
-record for scoring. They will ask what happened to the faith.
+Carolina scored again after that, and again, and it changed nothing, which is the
+most demoralising thing that can happen to a lord playing as well as Young was
+playing.
 
-Carolina has a harder question. Their lord was magnificent and they were
-humiliated anyway.
+Chicago won by three scores and does not have the vocabulary for it. This house
+has spent a hundred years believing one article of faith, written on its own
+wall — that it wins by refusing to let anybody past — and on Sunday its Watch
+was walked through all
+afternoon while its knights outran a whole house. Nobody in that city is going to
+celebrate a scoring record. By morning the only conversation in Chicago will be
+about what it gave up getting there.
 
-*Ships of the week:* Young and Coker, who deserved a much better day than the one they got.
-*Villain of the week:* the ground game, which does not care how well you throw.
-*Next week:* Chicago talks about its defence. Carolina wonders what else it can possibly ask of its lord.
+Carolina's question is the worse one. Their lord was everything they have ever
+asked him to be, and they were taken apart anyway.
+
+*Ships of the week:* Young and Coker, who deserved a better afternoon than the one they were given.
+*Villain of the week:* the ground, and the six times Chicago walked across it.
+*Next week:* Chicago argues about its defence. Carolina works out what else there is to ask of its lord.

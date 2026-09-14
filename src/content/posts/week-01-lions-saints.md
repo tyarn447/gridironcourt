@@ -7,15 +7,15 @@ season: 2026
 week: 1
 date: 2026-09-13
 houses: ["lions", "saints"]
-line: "New Orleans came back from three scores down and then chose to win it with one throw instead of tying it."
-excerpt: "Tyler Shough gave the game away three times, brought it all the way back, and then his coach decided the whole afternoon on a single attempt."
+line: "New Orleans erased three scores in Detroit, then went for the win instead of the tie, and lost by a single point."
+excerpt: "Tyler Shough gave the game away three times, brought every bit of it back, and then his steward handed him one throw for the whole afternoon."
 record:
   - "Lions 31, Saints 30, in overtime — Ford Field"
-  - "Detroit led 21-0 after forcing back-to-back turnovers"
-  - "Tyler Shough's first half: two interceptions and a fumble lost on a sack"
-  - "New Orleans outscored Detroit 24-3 the rest of regulation to force overtime"
+  - "Halftime was 7-0 Detroit. Detroit led 21-0 with under nine minutes left in the third, after forcing back-to-back turnovers — a Jahmyr Gibbs score and a touchdown catch by Amon-Ra St. Brown"
+  - "Tyler Shough early: two interceptions and a fumble lost on a sack"
+  - "From 21-0, New Orleans outscored Detroit 24-3 for the rest of regulation — 17 unanswered on three straight drives, then the tying score"
   - "Shough to Juwan Johnson tied it with 1:07 to play in regulation"
-  - "Detroit scored a touchdown on the opening possession of overtime"
+  - "Detroit went first in overtime: 10 plays, 70 yards, a touchdown, for 31-24"
   - "New Orleans answered. With 1:34 left in overtime, Kellen Moore went for two and the win rather than the extra point and a tie"
   - "Shough's two-point throw fell incomplete"
   - "Moore afterward: \"If we kick the extra point and tie the game, there is still 1:34 to play. I didn't want to let them back on the field with a chance to make a play and beat us.\""
@@ -27,67 +27,69 @@ draft: false
 > *We Were Never Supposed To Win.*
 > — the words of House Saints
 
-**Tyler Shough** spent the first half of Sunday afternoon handing his house's
-season to somebody else.
+**Tyler Shough** lost this game for New Orleans, spent the rest of the afternoon
+winning it back for them, and was then handed one throw for all of it.
 
-Three times he gave the ball away. Detroit took each gift and scored with it,
-and by the middle of the afternoon New Orleans was three scores behind in a
-building where the crowd had already relaxed. That is the part of the story you
-could have predicted from the rankings. New Orleans won six games last year.
-Detroit is supposed to be one of the coming houses of this realm.
+He is the lord of a house the realm expects nothing from — New Orleans won six
+games last year — and he began by giving Detroit the ball three times. Two of
+those came one directly after the other, in the third quarter, and Detroit made
+a lead of three scores out of them. In Ford Field, against a house everybody has
+decided is on its way up, with Detroit's own people settling in to enjoy the rest
+of it, that is where this story usually stops.
 
-Then Shough decided not to be that man any more, and the whole thing went
-strange.
+Then Shough stopped being that man.
 
 ---
 
-He brought them back. Not in one glorious stroke — in increments, march after
-march, the kind of recovery that takes so long the crowd has time to work out
-what is happening to them and start making noise about it.
+He brought them back in increments. March after march — the slow kind of
+recovery that takes long enough for a crowd to work out what is being done to
+them and go quiet about it.
 
-Detroit scored three points in the entire second half. New Orleans scored
-twenty-four.
+From the moment the gap reached three scores, New Orleans scored twenty-four
+points and Detroit scored three.
 
-With a minute left in ordinary time Shough found **Juwan Johnson** and it was
-level, and a game that had been decided at half past three was suddenly not
-decided at all.
+With a minute left in ordinary time Shough found **Juwan Johnson** at the far
+end of the field, and it was level, and a game that had been finished for an
+hour was not finished.
 
-Extra time. Detroit went first and scored.
+Extra time. Detroit went first, marched most of the field, and scored, which
+ought to have been the end of it.
 
-New Orleans went next and scored too, which left them exactly one point behind
+New Orleans went next and scored too — and stood there a single point behind,
 with a minute and a half still on the clock.
 
 ---
 
-Here is the choice **Kellen Moore** had, and it is worth sitting in it for a
-moment.
+**Kellen Moore** runs New Orleans, and what he did next is the only thing anyone
+will ask him about for the rest of the season.
 
-One point is the formality. Nobody misses it. Take it, and the afternoon is
-level again, and Detroit gets the ball back with time to win.
+The one point was a formality. The Reckoner walks out, it goes over, the
+afternoon is level again — and Detroit gets the ball back with a minute and a
+half to win it.
 
-Or stay out there and go for two, and if it arrives you have won the game where
-you stand, and nobody has to hand anything back to anyone.
+Moore did not want Detroit to have the ball again. So he left his men out there
+and asked for two: the win, where he stood. Which meant asking Shough for one
+more throw, and making that throw the whole game.
 
-Moore stayed out there.
+Shough threw it.
 
-Shough threw it to where a man was meant to be.
-
-There was nobody there.
+It did not arrive.
 
 ---
 
-Detroit had survived the worst collapse in the history of a house that knows
-what collapses are. **Jared Goff** and **Jahmyr Gibbs** had both been excellent,
-which nobody will remember, because that is what happens when the last thirty
-seconds are better than you are.
+Detroit won by a point. Had the throw landed it would have been the worst
+collapse in that house's history, and the two men who kept it from being one —
+**Jared Goff** and **Jahmyr Gibbs**, both excellent for three hours — will not be
+mentioned again by anybody.
 
-Moore was asked afterward why he had not simply taken the point. He said if he
-kicked it and tied it there was still a minute and a half to play, and he did not
-want to let them back on the field with a chance to beat him.
+Moore was asked afterward why he had not simply taken the point and the tie. He
+said there was still a minute and a half to play, and he did not want to let
+Detroit back on the field with a chance to beat him. It is a defensible answer,
+honestly given.
 
-It is the correct answer. It is also the sentence he will be handed back every
-single time this comes up again, for as long as he runs this house.
+It is also the sentence he will have read back to him every time this comes up
+again, for as long as he runs this house.
 
-*Ships of the week:* Shough and Johnson, in the last minute, when it was still possible.
-*Villain of the week:* the minute and a half, which he was right to be afraid of.
-*Next week:* Detroit pretends this was fine. New Orleans knows it was better than fine.
+*Ships of the week:* Shough and Johnson, in the last minute of ordinary time, when everything was still possible.
+*Villain of the week:* the minute and a half Moore was afraid of — and he was right to be afraid of it.
+*Next week:* Detroit calls it a win and means it. New Orleans knows exactly what it nearly did.

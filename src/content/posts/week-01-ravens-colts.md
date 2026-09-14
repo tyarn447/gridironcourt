@@ -7,8 +7,8 @@ season: 2026
 week: 1
 date: 2026-09-13
 houses: ["ravens", "colts"]
-line: "Derrick Henry is thirty-two, and on Sunday he ran past one of the great names of the sport."
-excerpt: "Baltimore's new steward won his first day by handing the ball to a thirty-two-year-old again and again, in a building whose own crowd was booing."
+line: "Derrick Henry is thirty-two years old, and on Sunday he took third place on a list that goes back to the beginning of the sport."
+excerpt: "Baltimore's new steward won his first day by handing the ball to a thirty-two-year-old again and again, until Indianapolis's own crowd began booing its house in the first game of the year."
 record:
   - "Ravens 41, Colts 23 — Lucas Oil Stadium"
   - "Jesse Minter's first game as Ravens head coach"
@@ -28,55 +28,61 @@ draft: false
 > *Nevermore.*
 > — the words of House Ravens
 
-The thing about **Derrick Henry** is the shoulders, and the way men bounce off
-them without appearing to slow him down at all.
+The thing about **Derrick Henry** is the shoulders, and the way men come off them
+without appearing to slow him down at all.
 
 He is thirty-two years old. In this sport that is not middle age, it is closing
-time — and nobody has told his legs, which on Sunday afternoon carried him
-through an entire house three separate times and into a place on a list that has
-almost nobody left above it.
+time — and nobody has told his legs, which on Sunday afternoon carried him through
+an entire house three separate times.
 
-He has now scored more times on the ground than **Marcus Allen**, who was one of
-the great ones, back when the men now running these houses were boys. Two men in
-the whole history of the sport are ahead of him. He got there in the first game
-of a season, on the road, in about three hours.
+The last of the three put him third on the list of every man who has ever scored
+on the ground, in the whole history of the sport. The name he moved past is **Marcus
+Allen**, who had held that place until Sunday afternoon and does not hold it now.
+Only two men are left above him.
 
-Baltimore won it comfortably, if you had not already guessed.
+Baltimore won this by a distance, which will not surprise anybody.
 
 ---
 
-They have a new steward, and it is worth noticing how his first day went.
-**Jesse Minter** has never run a house before. His plan was: give it to the
-thirty-two-year-old, and let **Lamar Jackson** do whatever he likes with the rest.
+Baltimore also has a new steward, and it is worth noticing what his first day in
+charge amounted to. **Jesse Minter** has never run a house before. His afternoon
+was: give it to the thirty-two-year-old, and let **Lamar Jackson** do as he
+pleased with everything else.
 
-Jackson threw for more than three hundred yards, most of them before the interval,
-and sent **Zay Flowers** fifty-four yards through a field that had briefly
-forgotten he was on it.
+Jackson threw for more than three hundred yards and the bulk of them came before
+the interval, which is a full day's work finished by lunchtime. At one point he
+sent **Zay Flowers** running through a field that had briefly forgotten he was on
+it.
 
 It is not a complicated plan. It did not need to be.
 
 ---
 
-Indianapolis had the better story before the afternoon started, and for one march
-it looked like they were going to get to tell it.
+Indianapolis had the better story before any of this started, and for one march it
+looked as though they would get to tell it.
 
-**Daniel Jones** tore his Achilles in December. That is the injury that ends men,
-or at least ends the version of them anyone wanted. Sunday was his first day back.
-He opened by taking his house the length of the field, twice finding a knight on
-the exact throw that keeps a march alive, and they scored, and for a few minutes
-this was going to be about a man returning.
+**Daniel Jones**, who is the lord of that house, tore his Achilles in December.
+That is the injury that ends men, or at least ends the version of them anybody
+wanted. Sunday was his first day back on a field, and he opened it by taking his
+house the length of the ground — twice finding the same man on exactly the throw
+that keeps a march alive — until his best knight carried it over the line and the
+hall stood up. For a few minutes this was going to be about a man returning.
 
-On the next possession he threw one straight to a Baltimore man.
+On his next possession he threw one straight to a Baltimore man.
 
-Then Henry went again. Then his best knight put the ball on the floor and
-Baltimore took that too. Then Henry went a third time, and the home crowd — their
-own crowd, in their own hall, in the first game of the year — began to boo.
+Then Henry went again. Then the knight who had scored for them put the ball on
+the floor, and Baltimore took that too. Then Henry went a third time.
 
-Their steward did not argue with them afterward. He said his house had to be
-better, that he had to coach better, that they had to play better. Three flat
-sentences. No defence of anybody, including himself.
+And their own crowd, in their own hall, on the first afternoon of the year, began
+to boo.
 
-Jones was back. That was true all afternoon and it made no difference to anything.
+---
+
+Their steward did not argue with them about it afterward. He said his house had to
+be better, that he had to coach better, that they had to play better. Three flat
+sentences and no defence of anybody, himself included.
+
+Jones was back. It was true all afternoon and it made no difference to anything.
 
 *Ships of the week:* Minter and Henry, a new steward and an old knight, keeping it extremely simple.
 *Villain of the week:* the calendar, which is coming for Henry and has not arrived yet.

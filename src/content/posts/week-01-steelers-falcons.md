@@ -25,63 +25,63 @@ draft: false
 > *Six And Counting.*
 > — the words of House Steelers
 
-Fifteen years ago **Mike McCarthy** and **Aaron Rodgers** stood on the largest
-field in the sport and took a title off House Steelers.
+**Aaron Rodgers** has said this is the last season he intends to play, and he is
+spending it in the least comfortable place he could have chosen.
 
-They were the enemy. Not a theoretical enemy — the specific two men who beat this
-specific house on the only night that counts, in front of everybody, and then went
-home with it.
+Fifteen years ago he and **Mike McCarthy** stood on the largest field in the sport
+and took a title off House Steelers. Not a theoretical enemy — the two specific
+men who beat this specific house on the only night that counts, in front of
+everybody, and then went home with it.
 
-On Sunday afternoon they walked out of the tunnel in Pittsburgh's colours. The
-steward's first day running the house. The lord in his final season, by his own
-account, which he has said out loud and has not taken back.
+On Sunday afternoon the pair of them came out of the tunnel in Pittsburgh's
+colours, the steward running this house for the first time and the lord playing
+for it.
 
-It was not beautiful. It was a *win*, narrow and slightly grim, and in this house
-that has always been the more respectable of the two.
+Pittsburgh won. It was not beautiful — it was narrow and grim, and the Watch had to
+rescue the attack. In this hall that has always been a respectable way to win.
 
 ---
 
-Rodgers threw it a great many times and did not throw it especially well. He also
-did not lose it once, which at this stage of a long career is a decision rather
-than an accident. He found **Pat Freiermuth** from close range and that was
-Pittsburgh's only score for three quarters. The rest came from the Reckoner,
-twice, cold and businesslike.
+Rodgers threw it a great many times without ever making the afternoon look easy.
+He found **Pat Freiermuth** from close range, and that was the whole of
+Pittsburgh's scoring for three quarters. The rest came from the Reckoner, twice,
+cold and businesslike.
 
-Atlanta had a different problem, which was that their own lord was ruled out two
-days before the game with a hurt side, and the man who replaced him only found out
-on the Friday.
+Atlanta arrived with a hole where its lord should have been. He had been ruled out
+with a hurt side, and the man asked to stand in for him, **Cooper Rush**, only
+learned on the Friday that he was playing.
 
-**Cooper Rush** did the thing a substitute does. He kept it simple, found
-**Bijan Robinson** on a short throw that Robinson turned into a score, and gave
-Atlanta the lead they held into the second quarter.
+Rush did what a substitute does. He kept it simple, found **Bijan Robinson** on a
+short throw that Robinson turned into a score himself, and gave Atlanta a lead they
+carried into the second quarter.
 
-Then he was asked to do more than that, and it came apart.
+Then Atlanta needed more from him than that, and it came apart.
 
 ---
 
 Early in the fourth quarter, with Pittsburgh three points ahead and the whole
-afternoon still available, Rush threw one into the middle of the field.
+afternoon still there to be won, Rush threw one into the middle of the field.
 
 **T.J. Watt** was standing in it.
 
-He caught it at the Atlanta thirty-five and there was nobody between him and the
-other end. He did not have to break anything or beat anyone. He simply ran, and
-the noise in that building went up the way it used to, and a game Atlanta could
-still have won became a game they had to chase.
+He took it out of the air deep in Atlanta's own half, and there was nobody between
+him and the other end. He did not have to beat a man or break a tackle. He simply
+ran it down there and put it on the grass, and the noise in that building went up
+the way it used to, and a game Atlanta could still have won became a game they had
+to chase.
 
-They chased it. They could not find the score they needed. Their lord's substitute
-was dragged down on the throw that would have kept the last chance alive, and that
-was the afternoon.
+They chased it and found nothing at the end of it. On one drive their substitute
+lord was dragged down before he could throw at all, and that was the afternoon.
 
 ---
 
-McCarthy praised his Watch afterward and was hard on his own attack, which is
-correct on both counts and unusual in a man who has just won.
+McCarthy praised his Watch afterwards and was hard on his own attack, which was
+fair on both counts and rare in a man who has just won.
 
-So they have won their first day together in this hall. The house that spent
-fifteen years resenting the pair of them now needs them to be good. And Rodgers,
-if he meant what he said, has sixteen Sundays left in his life.
+So the two of them have their first day in this hall, and it went to them. The
+house that spent fifteen years resenting the pair of them now needs them to be
+good — and if Rodgers meant what he said, they have one season to manage it.
 
 *Ships of the week:* McCarthy and Rodgers, together again, in the colours of the house they ruined.
-*Villain of the week:* the throw into the middle of the field, which Atlanta will see again all week.
-*Next week:* Atlanta hopes its own lord's side has healed. Pittsburgh's attack has a fortnight of questions coming.
+*Villain of the week:* the throw into the middle of the field, which Atlanta will be shown again all week.
+*Next week:* Atlanta hopes its lord's side has healed. Pittsburgh's attack has a week of questions coming.

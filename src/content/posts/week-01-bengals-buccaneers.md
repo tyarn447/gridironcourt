@@ -28,63 +28,54 @@ draft: false
 > *The Stripes Do Not Fade.*
 > — the words of House Bengals
 
-**Baker Mayfield** lost the ball three times on Sunday, and the third one he lost
-in the act of scoring, which is a different and much worse kind of story.
+**Demetrius Knight Jr.** picked a loose ball off the grass early in the afternoon
+and ran it in himself, and Cincinnati, a score behind at the time, was never
+behind again.
 
-We will get there.
+He is a man of the Watch, and that is the part that matters. For years the Watch
+was the reason this house lost. It could score on anybody and hold nobody,
+everyone in the realm could see it, and Cincinnati went on losing that way while
+being told the problem was obvious.
 
----
+So over the winter it did the thing no house enjoys doing. It traded away a
+first-round claim — the future, the thing houses hoard — for one enormous man
+named **Dexter Lawrence**, and rebuilt the Watch around him.
 
-First, Cincinnati, because this was the afternoon a whole winter's spending
-justified itself in about twenty minutes.
-
-This house has not had a Watch worth the name in years. It could score on anyone
-and hold nobody, and it has lost season after season that way while everyone told
-it the problem was obvious. So this spring it did something no house enjoys doing:
-it traded away a piece of its own future — a first-round claim, the thing houses
-hoard — for one enormous man named **Dexter Lawrence**, and rebuilt the rest of
-the Watch around him.
-
-On Sunday that Watch took the ball off Tampa Bay four times.
-
-Three of them came in a row, in the first half, and Cincinnati turned those three
-mistakes into three scores, which is very nearly a whole game assembled out of
-someone else's bad afternoon. **Demetrius Knight Jr.** picked one off the grass
-and ran it in himself, and from that moment on Cincinnati never trailed again.
+On Sunday that Watch took the ball off Tampa Bay four times. Three of them came
+one after another in the first half, and Cincinnati turned all three into scores —
+very nearly a whole game assembled out of somebody else's bad afternoon.
 
 ---
 
-Now the third one.
+Tampa Bay's lord, **Baker Mayfield**, lost the ball three times. It is the third
+one that will keep him awake.
 
-Mayfield had escaped. That is the part that will keep him awake — he had already
-done the hard bit, wriggled out of a collapsing situation and turned a ruined
-moment into eight yards of open ground, and he was running at the line with the
-scoring of it available to him.
+He had already escaped. That is the cruelty of it — he had done the hard part,
+wriggled free of a collapsing situation and turned a ruined moment into open
+grass, and all that was left was to run the last few strides and put the ball
+down for a score.
 
-He could have gone down. Any sensible man goes down there.
+He could have gone to ground and kept it. Any sensible man goes to ground there.
 
 He tried to make one more defender miss.
 
 The ball came out of his hands, rolled over the line and out the back of
-everything, and instead of scoring, Tampa Bay simply handed it to Cincinnati and
-walked off the field.
+everything, and instead of a score Tampa Bay had simply handed the ball to
+Cincinnati and walked off the field.
 
 ---
 
-To be fair to him, he said so. This one falls on me, he told everyone afterward,
-without being pushed.
+He did not make anybody else carry it. *This one falls on me*, he said afterwards,
+before a single person had to ask him. His steward, **Todd Bowles**, did the
+arithmetic out loud: four balls given away, and they still only lost by one score.
 
-His steward did the arithmetic out loud, the way a man does when he has already
-worked out that the arithmetic is the whole point. **Todd Bowles** said you
-cannot give the ball away like that — four turnovers, and they lost by a single
-score.
+And they nearly won it anyway. Cincinnati's own lord, **Joe Burrow**,
+threw one away in his turn, and a Tampa Bay man carried it back for a score, and
+the Jungle — this house's hall, loud all day — went very quiet for a while.
 
-Because they nearly won it anyway. **Joe Burrow** threw one away in the second
-half and a Tampa Bay man carried it all the way back, and the Jungle went very
-quiet for a while.
-
-But the ball kept ending up in Cincinnati's hands, all afternoon, for the first
-time in years. That is what a first-round pick buys, when it works.
+But the ball kept ending up in Cincinnati's hands all afternoon, for the first
+time in years, and Cincinnati won it by that one score. That is what a
+first-round claim buys, when it works.
 
 *Ships of the week:* Cincinnati's new Watch and the men who signed the cheques for it.
 *Villain of the week:* one more defender, who did not need to be made to miss.

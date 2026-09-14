@@ -1,7 +1,7 @@
 ---
 chapter: "Chapter Eight"
 title: "Loose In His Hands"
-trope: "The duel"
+trope: "Breaking the curse"
 frame: "war"
 season: 2026
 week: 1
@@ -13,11 +13,11 @@ record:
   - "Bills 36, Texans 31 — NRG Stadium"
   - "Buffalo's first win in Houston since 19 November 2006. Josh Allen had lost his previous four games there"
   - "Josh Allen: 334 passing yards, two passing touchdowns, two rushing touchdowns"
-  - "Allen's 34-yard touchdown to Joshua Palmer with 1:36 left won it. Houston led 31-30 before it"
-  - "Allen's 26th career game-winning drive — the most of any active quarterback"
+  - "Allen's 34-yard touchdown to Joshua Palmer with 1:36 left won it, thrown between two defenders. Houston led 31-30 before it"
+  - "Allen's 26th career regular-season game-winning drive — the most of any active quarterback"
   - "Buffalo had two 96-yard touchdown drives on a combined 10 plays, including the go-ahead possession"
   - "C.J. Stroud: 26 of 38, 274 yards, two touchdowns, two fumbles lost"
-  - "Greg Rousseau stripped Stroud twice. The first came on Houston's opening pass play, at the 29; Ed Oliver recovered"
+  - "Greg Rousseau strip-sacked Stroud twice. The first came on Houston's opening pass play, at the 29; Ed Oliver recovered"
   - "The second, in the closing seconds, took Stroud down at the Buffalo 28. Terrel Bernard recovered it to end the game"
   - "DeMeco Ryans afterward, on Stroud: \"C.J. was very much in control the entire game. Took what the defense gave him. Made great decisions with the football. Proud of the way he played today.\""
   - "Ryans on his defence: \"We had multiple opportunities to make plays, had chances to make plays on the football and we didn't make plays.\""
@@ -29,61 +29,63 @@ draft: false
 
 **Josh Allen** does not win in Houston.
 
-Four times he has gone down there and four times he has come home without it.
-His house has not taken anything from that building since he was a boy. Some
-halls are like that — not haunted exactly, just *unhelpful*, the way a room can
-be unhelpful when you are the only person in it who wants something.
+Four times he has gone down there and four times he has come home with nothing.
+His house has not taken a thing out of that building in nearly twenty years. Some
+halls are simply unhelpful — the way a room is unhelpful when you are the only
+person in it who wants something.
 
 He was going to lose it again. That is the honest shape of most of Sunday
 afternoon.
 
 ---
 
-Because **C.J. Stroud** was excellent, and this is the part of the story that
-Houston will be angriest about, because it is true.
+Because Houston's lord played well enough to win, which is the cruellest
+version of this afternoon for his house. **C.J. Stroud** was
+accurate all day and calm in a loud building, and with the afternoon nearly gone
+he put Houston in front and had a whole city standing up for him. That house won
+twelve games last winter and a war in January. They were not outclassed here.
+They were ahead.
 
-He was accurate all day. He was calm in a loud building. He gave his house the
-lead with the afternoon nearly gone, and had a whole city on its feet. Houston
-was one of the better houses in the realm last winter and won a war in January.
-They are not a surprise, and they were not outclassed here.
+Then Allen did the thing he has now done more often than any lord still playing.
 
-They were ahead. Then Allen did the thing he has now done more times than any
-lord alive.
+Ninety-six yards, in a handful of strokes, at speed. Then he threw it between two
+Houston men to **Joshua Palmer**, a knight who was suddenly and improbably alone,
+with a minute and a half left in the war.
 
-Ninety-six yards of ground, in a handful of strokes, in a hurry. Then he split
-two men and threw it thirty-four yards to **Joshua Palmer**, who was suddenly
-and improbably alone, with a minute and a half left in the war.
-
-Buffalo led by five. Houston still had time, and its lord had been the best man
-on the field.
+Buffalo led. Houston still had time, and its lord had been the best man on the
+field all day.
 
 ---
 
-**Greg Rousseau** had taken the ball out of Stroud's hands once already, on the
-very first throw of the afternoon, which is the sort of thing a house apologises
-for by winning afterward.
+Twice on Sunday the ball simply left C.J. Stroud's hands.
 
-He came round the corner again in the last seconds.
+**Greg Rousseau** of Buffalo's Watch had taken it the first time on the very
+first throw Houston attempted, which is the sort of beginning a house spends the
+next three hours apologising for.
 
-Stroud went down, the ball came loose, and a Buffalo man fell on it. That was
-all. No kick, no last throw, no scramble — the war ended with the ball simply
-being removed from the person holding it.
+He came round the corner again in the closing seconds.
 
-Buffalo won by five in a building it had not won in for twenty years.
+By then Houston had reached the part of the field where afternoons are won.
+Stroud went down. The ball came loose. A Buffalo man fell on it, and that was the
+war — no kick, no last throw, no scramble, just the ball being removed from the
+person holding it.
+
+Buffalo won by a score, in the one hall that had never let Allen leave with
+anything.
 
 ---
 
-Afterward **DeMeco Ryans** stood up and defended his lord, unprompted and at
-length. He said Stroud had been in control the whole way, had taken what he was
-given, had made good decisions, and that he was proud of him. Every word of it
-was accurate.
+Afterward Houston's steward, **DeMeco Ryans**, was asked about his lord and did
+not hedge. Stroud had been in control the whole way, he said. Took what he was
+given. Made good decisions with it. He was proud of the way he had played. Every
+word of that was true.
 
-Then he was asked about his own Watch and the tone went flat: they had chances to
+About his own Watch he had less to say, and none of it kind: they had chances to
 make plays on the football, he said, and they did not make plays.
 
-Stroud will not sleep on the good throws. He will sleep on the last one, which
-was not a throw at all.
+Stroud will not lie awake over the good throws. He will lie awake over the last
+one, which was not a throw at all.
 
 *Ships of the week:* Allen and Palmer, thirty-four yards apart, with ninety seconds left.
-*Villain of the week:* Rousseau, twice, at both ends of the same afternoon.
-*Next week:* Houston has to decide whether that was a bad day or a pattern.
+*Villain of the week:* Rousseau, twice, at either end of the same afternoon.
+*Next week:* Houston decides whether Sunday was a bad day or a pattern.

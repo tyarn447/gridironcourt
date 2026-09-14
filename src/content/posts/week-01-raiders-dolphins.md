@@ -27,61 +27,63 @@ draft: false
 > *Just Win, Baby.*
 > — the words of House Raiders
 
-There is nothing romantic about **Kirk Cousins** and Las Vegas knew that when
-they bought him.
+**Fernando Mendoza** was the first claim of the whole realm this spring — the most
+valuable young man available anywhere, taken by Las Vegas because Las Vegas had
+nothing else. On Sunday afternoon he stood on the sideline in a clean shirt
+and watched somebody else do his job well.
 
-He arrived from Atlanta, where it had ended unhappily, for one purpose: to be
-adequate immediately, in a house that has not been adequate in years. No future
-was promised. No story was implied. It is an arrangement.
-
-His first march in the colours went nine throws, nine caught, and finished with
-the ball in **Jack Bech**'s hands for a score. He did that again twice more before
-the afternoon was done, and somewhere in there he threw the three hundredth
-scoring ball of his career, which only fourteen men in the history of this sport
-have ever done.
-
-Nobody in the realm will write a chapter about it. That is rather the point of
-him.
+That was always the arrangement. The trouble is that on Sunday the arrangement
+worked.
 
 ---
 
-Now stand behind him for a moment and look at the young man holding the clipboard.
+**Kirk Cousins** came from Atlanta, where it had ended unhappily, to be adequate
+immediately in a house that has not been adequate in years. Nobody promised him a
+future here. He was bought to stop the bleeding.
 
-**Fernando Mendoza** was the first claim of the entire realm this spring — the
-single most valuable young player available, taken by this house precisely because
-it had nothing. He watched every throw of Sunday afternoon from the sideline.
+His first march in the colours went nine throws, nine caught, and ended with the
+ball in **Jack Bech**'s hands for a score. He did that twice more before the
+afternoon was out, and somewhere in the middle of it he threw the three hundredth
+scoring ball of his career. Fourteen men in the history of this sport have ever
+got there.
 
-And here is his difficulty: the arrangement is *working*. There is no injury to
-wait for, no collapse to inherit, no honest gap in the calendar where a house
-looks around and decides it needs to try something new. Every competent afternoon
-Cousins has is another Sunday the first pick in the realm spends standing up.
+He was not flawless; he gave it away twice. It did not matter. Nobody will write a
+chapter about him, and that is exactly why a losing house buys a man like that.
 
----
-
-Miami made it interesting for about a quarter of an hour.
-
-They are the youngest house in the league by a clear margin, after a spring in
-which they sold or released nearly everyone worth keeping — including the most
-famous knight they had, who has not been signed by anybody since. Their new
-steward, **Jeff Hafley**, was running his first day.
-
-They got it back to four points early in the third quarter and the building went
-briefly quiet.
-
-Then a young Raider caught the next kick and ran it to halfway before anyone
-touched him, and Cousins immediately found **Ashton Jeanty** again, and the door
-shut. Jeanty ran for a hundred yards on top of it. Miami's lord was put on the
-grass five separate times, and the pass-rusher they were counting on to do the same
-to Cousins was never heard from.
-
-Las Vegas won by two scores in a game that never felt as close as that.
+And that is Mendoza's difficulty, standing behind him. There is no injury to wait
+for, no collapse to inherit, no seam in the calendar where a house stops and tries
+something new. Every competent afternoon Cousins has is
+another Sunday the first pick in the realm spends on his feet, holding a
+clipboard.
 
 ---
 
-So the Raiders have what they paid for, and the problem that comes with it. A
-house at the bottom of the realm bought a competent man to stop the bleeding, and
-the more competent he is, the longer the most valuable thing they own sits and
-watches.
+Miami made it interesting for about a quarter of an hour. They are the youngest
+house in the league by a clear margin, after a spring in which they let go of
+nearly everyone worth keeping, including the most famous knight they had, whom
+nobody has signed since. Their new steward, **Jeff Hafley**, was
+running his first day.
+
+They got it back to a single score early in the third quarter, and Allegiant
+Stadium went quiet.
+
+Then a young Raider took the next kick and ran it all the way to halfway before
+anybody laid a hand on him. Cousins, given a short field and no need to be
+brave, found **Ashton Jeanty** for the second scoring catch of Jeanty's
+afternoon, and the door shut. Miami's own lord was put on the grass five times, and
+the man they were counting on to do that to Cousins was never heard from.
+
+Las Vegas won by two scores, in a game that never felt that close.
+
+---
+
+So the Raiders have exactly what they paid for, and the problem that came with it.
+There is no bye for months, no gentle Thursday or Monday ahead of them, no soft
+moment in which to hand over a throne. The succession, when it comes, will
+not be arranged. It will happen mid-afternoon, after something has gone wrong, in
+front of everyone.
+
+Until then, the most valuable thing this house owns spends its Sundays standing up.
 
 *Ships of the week:* Cousins and Jeanty, twice through the air, an arrangement working exactly as designed.
 *Villain of the week:* the calendar, which has nowhere to put a coronation.

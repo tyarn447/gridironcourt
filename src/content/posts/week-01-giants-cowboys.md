@@ -7,8 +7,8 @@ season: 2026
 week: 1
 date: 2026-09-13
 houses: ["giants", "cowboys"]
-line: "John Harbaugh's first night in New York was a win over Dallas, and it was never close."
-excerpt: "Baltimore threw Harbaugh out after eighteen years over a single January evening. He opened in New York by beating Dallas in front of the whole realm."
+line: "Eighteen years at Baltimore, and they let him go — so John Harbaugh went to New York and beat Dallas in front of the whole realm."
+excerpt: "Baltimore let John Harbaugh go after eighteen seasons. New York, which won four games last year, hired him — and his first night in the colours was a Sunday-night win over Dallas."
 record:
   - "Giants 28, Cowboys 20 — MetLife Stadium, Sunday night"
   - "John Harbaugh's first game running the Giants. He spent 18 seasons at Baltimore, won Super Bowl XLVII there, and was fired two days after a Week 18 loss to Pittsburgh that cost the Ravens the division and the last playoff place. New York hired him on 20 January 2026"
@@ -26,64 +26,67 @@ draft: false
 > *Twice We Slew The Perfect.*
 > — the words of House Giants
 
-**John Harbaugh** gave eighteen years to one house.
+Baltimore kept **John Harbaugh** for eighteen years and then took the house away
+from him.
 
-He won it the largest war there is. He took it to the postseason a dozen times.
-Then, last January, Baltimore lost a Sunday night in Pittsburgh with the division
-and the final place in the bracket on the table, and two days later they took the
-house away from him. Eighteen years, undone inside forty-eight hours.
+Eighteen years is most of a working life. He won them a throne along the way. They
+let him go anyway, last winter, two days after a January defeat that ended
+Baltimore's season — which is how long loyalty lasts once the arithmetic stops
+working.
 
-New York hired him within a fortnight, because New York had run out of ideas and
-he had run out of a job, and both of them knew exactly what the other was for.
+New York hired him. New York had run out of ideas and he had run out of a job,
+and both of them knew exactly what the other was for.
 
-His first night in the new colours was against Dallas, on a Sunday evening, with
-the entire realm watching and nothing else on.
+They gave him Dallas for his first night. A grudge as old as television, a Sunday
+evening, the whole realm watching and nothing else on.
 
 He won it going away.
 
 ---
 
-The reason he won it is twenty-three years old and was drafted to be shouted at.
+The man who won it for him is in his second season, on a house that won four
+games all of last year, which is the kind of sentence that normally ends with a
+young lord being ruined in public.
 
-**Jaxson Dart** is in his second season on a house that won four games last
-year, which is a sentence that usually ends with a young man being ruined in
-public. Instead he was nearly perfect: twenty-nine attempts, twenty-three of them
-completed, three of them scored, and not once all night did he hand Dallas
-anything.
-
-Twice he found **Isaiah Likely**, the knight New York paid forty million for in
-the spring specifically so this would be possible. Dart ran it himself eleven
-times as well, which is not what an expensive young lord is supposed to do, and
-he did it like a man who had decided the night was going to be physical whether
-Dallas agreed or not.
+**Jaxson Dart** was very nearly perfect instead. He scored three times through
+the air, and not once in the whole evening did he hand Dallas anything back.
+Twice he found **Isaiah Likely**, the knight New York bought for forty million in
+the spring precisely so that would be possible. Eleven times he ran with the ball
+himself, which is not what a house with one valuable man is supposed to let him do
+— and he did it like a man who had decided the evening was going to be physical
+whether Dallas agreed or not.
 
 ---
 
-It turned with under a minute left in the half, level, in the most ordinary way.
+It turned under a minute before the interval, with the houses level, in the most
+ordinary way there is.
 
-**Dak Prescott** threw one he should not have thrown, and **Jevon Holland** went
-to the ground sideways underneath it and came up with it in his hands. New York
-scored before the break. That was the lead.
+**Dak Prescott** threw one he should not have thrown. **Jevon Holland** went to
+the ground sideways underneath it and came up with it in his hands, and New York
+scored before the break. New York led from that moment to the end of the night.
 
-Then came the part that actually ended it, and it was not thrilling at all.
+Then came the part Dallas will actually remember, and there was nothing thrilling
+about it at all.
 
-Out of halftime New York took the ball and *kept* it — twelve consecutive
-strokes, seventy-four yards, eight full minutes off the clock, and Likely again
-at the end of it. Eight minutes in which Dallas stood on a sideline in front of a
-national audience and did nothing but watch a house it does not respect take its
-time.
+Out of the interval, New York took the ball and *kept* it.
 
-Dallas scored twice in the second half. It never mattered.
+Twelve plays. Seventy-four yards. Eight full minutes off the clock and Likely at
+the end of it again — eight minutes in which Dallas stood on a sideline in front
+of a national audience with nothing to do but watch a house it does not respect
+take its time.
 
 ---
 
-Prescott took it on himself afterward, which he always does, and said he was
-angry about it, which he does not always say.
+Prescott took the blame afterward, which he always does, and said he was angry
+about it, which he does not always say.
 
 His steward was plainer. **Brian Schottenheimer** said his house had been poor,
-that this was not their standard, and that it is a humbling business, and they
-had just been humbled.
+that this was not their standard, that it is a humbling business and they had
+just been humbled.
+
+New York has not had an evening like that in years. It belonged, in the end, to
+the man Baltimore was finished with.
 
 *Ships of the week:* Dart and Likely, twice, in front of everyone, exactly as intended.
-*Villain of the week:* Baltimore, watching their old steward win a Sunday night somewhere else.
+*Villain of the week:* Baltimore, watching the steward it dismissed win a Sunday night somewhere else.
 *Next week:* New York finds out whether that was the start of something or the best night of its year.

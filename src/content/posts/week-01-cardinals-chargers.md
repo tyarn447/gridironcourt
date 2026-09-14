@@ -7,8 +7,8 @@ season: 2026
 week: 1
 date: 2026-09-13
 houses: ["cardinals", "chargers"]
-line: "The worst house in the realm walked into Los Angeles and beat the biggest favourite of the week."
-excerpt: "Arizona threw away its own lord in the spring and replaced him with a career substitute. On Sunday it went to Los Angeles and won going away."
+line: "The biggest underdog of the week walked into Los Angeles and beat the biggest favourite."
+excerpt: "Arizona released its own lord in the spring and handed the house to the man you send for when the plan has already failed. On Sunday he took it into Los Angeles and won by two scores."
 record:
   - "Cardinals 26, Chargers 14 — SoFi Stadium"
   - "Los Angeles opened as the heaviest favourite of the week, by 9.5 points; Arizona was the biggest underdog"
@@ -29,63 +29,67 @@ draft: false
 > *The Oldest House.*
 > — the words of House Cardinals
 
-**Jacoby Brissett** is the man a house sends for when its plan has already
-failed. Indianapolis. Cleveland. New England, and back again. A whole career
-spent keeping other men's seats warm and handing them back without complaint.
+**Jacoby Brissett** is who a house sends for when the plan has already failed.
+His entire career is other men's seats, kept warm and handed back without
+complaint.
 
 Arizona did not send for him as a substitute. Arizona gave him the house.
 
 In the spring this house released the lord it had spent a decade building
-around — released him at the first minute it was legally allowed to, and it
-still owes him a fortune for the privilege of his absence. Brissett is what
-they did next. Nobody read that as a plan. Arizona was the worst house in the
-realm last winter, and the realm ranked them accordingly and thought about
+around — released him at the first minute of the first day it was legally
+allowed to, and it will be paying him not to be here for two more winters.
+Brissett is what they did next. Nobody read that as a plan. Arizona won three
+games all last season, and the realm agreed with the ranking and thought about
 something else.
 
-So, Los Angeles. A warm afternoon in the Chargers' own hall, against the house
-everyone had made the largest favourite of the week.
+So: Los Angeles, at home, the heaviest favourite in the realm this weekend,
+against the house nobody fancied at all.
 
-Arizona won it going away.
+Arizona won by two scores and never once looked hurried.
 
 ---
 
-What gets lost about an upset is how unhurried it looks while it is happening.
+Nobody tells you how unhurried an upset looks while it is happening.
 
 Brissett was not brilliant. He was *unbothered*, throwing to **Trey McBride**
-over and over at the same short reliable distance, nine times in all, like a
-man paying off a debt in instalments. A squire scored in the first hour of his
-career. **Chad Ryland** came out four separate times to kick, cold and apart
-from everyone, and made every one that mattered.
+nine separate times and never far, like a man paying off a debt in instalments.
+A squire named **Jeremiyah Love** scored the first points of his life. And
+**Chad Ryland**, the Reckoner, who stands apart from everybody by trade, went
+out four times and kicked four times — one of them after a Los Angeles man
+grabbed a face mask and gave away the ground for nothing.
 
-Across the field, **Jim Harbaugh** watched his house hold the ball for barely a
-third of the afternoon.
+Across the field, **Jim Harbaugh** watched his own house hold the ball for a
+little over a third of the afternoon. Nothing is winnable from there.
 
 ---
 
-Late in the second quarter Los Angeles got within two strides of scoring, and
-faced the oldest choice there is: take the small certain thing, or reach for all
-of it with one attempt and nothing behind it.
+Two minutes before the interval, Los Angeles came to within three strides of
+scoring and stopped.
 
-Harbaugh reached.
+Harbaugh's kicker was standing right there with the easiest work of his
+afternoon waiting for him.
+
+He sent his lord instead.
 
 **Justin Herbert** never got the throw away. Arizona came through the
-shieldwall and put him on the grass, and Los Angeles walked off with nothing at
-all.
+shieldwall and put him on the grass, and the favourite walked off its own field
+with nothing to show for the whole long march. Ryland went out and kicked
+again, and Los Angeles spent the rest of the day behind.
 
-Ryland went out and kicked again. The favourite was behind, and stayed there.
+After that it came apart in the ordinary ways. Arizona smothered a kick before
+it left the ground, then took one of Herbert's throws clean out of the air.
+Somewhere in that stretch Los Angeles lost **Ladd McConkey**, the one knight
+all afternoon who had looked capable of rescuing something, to a hurt chest.
+Harbaugh had nothing to tell anyone about him afterward.
 
-In the fourth quarter Arizona blocked a kick before it left the ground, and
-then took one of Herbert's throws away from him, and that was the end of the
-argument. Los Angeles lost its best knight to a hurt chest somewhere in there
-too. Nobody could say afterward how bad it was.
+He did not have much on the rest of it either. He called his house sloppy and
+unlike itself. Asked what had gone wrong, he said: quite a few things.
 
-Harbaugh, who does not enjoy sentences like this one, called his own house
-sloppy and said it was not the start they wanted. Asked what had gone wrong, he
-said: quite a few things.
-
-The other steward, **Mike LaFleur**, had never run a house before in his life.
-He is the first man to win his first day in Arizona in more than fifty years.
+The other steward had never run a house in his life before Sunday. **Mike
+LaFleur** is the first man to win his first day in Arizona in more than fifty
+years — for the house that threw its lord away in the spring and was pitied for
+it all summer.
 
 *Ships of the week:* Brissett and McBride, nine times, nothing fancy, all afternoon.
-*Villain of the week:* whoever set the odds.
+*Villain of the week:* whoever made Los Angeles the favourite.
 *Next week:* Los Angeles explains itself. Arizona, for now, has not lost.

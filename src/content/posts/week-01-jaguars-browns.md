@@ -7,7 +7,7 @@ season: 2026
 week: 1
 date: 2026-09-13
 houses: ["jaguars", "browns"]
-line: "Cleveland's own travelling supporters spent the second half chanting for the quarterback their coach had benched."
+line: "Cleveland's travelling supporters spent the afternoon chanting for the quarterback their new coach had benched."
 excerpt: "Todd Monken's first act was to pick Deshaun Watson over Shedeur Sanders. By early in the third quarter it was thirty-one to nothing."
 record:
   - "Jaguars 34, Browns 10 — EverBank Stadium, Jacksonville, 1:00 p.m. kickoff"
@@ -25,63 +25,59 @@ draft: false
 > *Patience Is A Vow.*
 > — the words of House Jaguars
 
-**Deshaun Watson** had the seat, the contract and the whole afternoon in front of
-him, and by the third quarter his own bannermen were chanting somebody else's
-name.
+**Todd Monken** is new in Cleveland, and the first real decision he made was the
+one this house had been arguing about since spring: four men wanted the seat, and
+he gave it to the most expensive of them.
 
-That is the story. Everything else is scenery.
+By the third quarter on Sunday, the supporters who had flown down to Jacksonville
+were chanting for one of the other three.
 
 ---
 
-Cleveland has a new steward. **Todd Monken** took a house that has been arguing
-with itself for years, and the first real decision he made was the one everybody
-had been waiting on since spring: four men wanted that seat, and he gave it to
-the most expensive one.
+The man he chose is **Deshaun Watson**, who came to Cleveland on the most
+guaranteed money ever handed to a lord in this sport and has given the house
+almost nothing on the field since. Nobody in Cleveland argues about that part. It
+is not an opinion, it is the size of the cheque, and it sits over the building like
+weather.
 
-Watson cost this house more money than any player has ever cost any house. That
-is not an opinion anyone in Cleveland disputes; it is simply the number, and it
-sits over the building like weather.
+The man they wanted instead is **Shedeur Sanders** — second year, unproven, the
+most famous name in the room, and adored by people who have run out of patience
+with everything else about this house.
 
-The other man was **Shedeur Sanders**, young, unproven, and adored by people who
-have run out of patience with everything else about this house.
-
-Monken chose the veteran. That is a defensible football decision and he will be
+Monken chose the veteran. That is a defensible football decision, and he will be
 asked about it every week for as long as he holds the job.
 
----
+It went wrong inside an hour. Watson gave the ball away twice before the interval,
+and Jacksonville — a house that won a great deal last season and then lost its one
+January afternoon at home, which it has not forgiven itself for — took both gifts
+and used them properly.
 
-It went wrong inside an hour.
+**Trevor Lawrence** spent the afternoon being the player Jacksonville was promised
+when it got the most anticipated young man of his generation. He barely missed a
+throw. Four scores.
 
-Watson gave the ball away twice before the interval, and Jacksonville — a house
-that won a great deal last year and then lost a war in January it has not
-forgiven itself for — took both gifts and used them properly. By early in the
-third quarter Cleveland had scored nothing at all and were behind by more than
-four scores.
-
-**Trevor Lawrence** was, for one afternoon, everything this house was promised
-when it took him first overall. He barely missed. Four scores. The best afternoon
-of his professional life, in the first week of a season, against a house that had
-stopped resisting.
-
-Jacksonville took its best men off the field early. That is not mercy. That is
-the most insulting compliment in the sport.
+By early in the third quarter Cleveland had not managed anything at all and was
+more than four scores down. Jacksonville, with the game long since won, began
+taking its best men off the field and resting them. That is not mercy. It is the
+most insulting compliment in the sport.
 
 ---
 
-And that is when the chanting started, up in the corner where the visiting
-supporters sit — people who had bought flights and hotel rooms to be there.
+That is when the chanting started, high in the corner where the visiting
+supporters sit — people who had bought flights and hotel rooms to be in that
+building.
 
 They were not booing the result. They were asking, in unison, in a stranger's
-building, for a different man to be sent out.
+hall, for their own lord to be taken off and a different man sent out.
 
-A house can survive losing. It cannot easily survive its own people, a long way
-from home and out of pocket for the privilege, deciding out loud and in public
-that the lord in the seat is the wrong one.
+A house can survive losing by a distance, and Cleveland lost by a distance. It is
+much harder to survive its own people, a long way from home and out of pocket for
+the privilege, deciding out loud that the man in the seat is the wrong one.
 
-Watson did not hide afterward. He does not, whatever else is true of him. But he
-also cannot answer the chant, because the only available answer is to play better
-next Sunday, and he has one week to find it.
+Watson cannot answer a chant. The only answer available is to play better next
+Sunday, and he has one week to find it. Monken cannot answer it either — except by
+changing his mind in public, having been steward here for one game.
 
-*Ships of the week:* Lawrence and a house that waited four years to look like this.
-*Villain of the week:* the contract, which has outlived everyone who signed it.
-*Next week:* Monken is asked the question again, and this time the answer is worth something.
+*Ships of the week:* Lawrence and a house that has waited a long time to look like that.
+*Villain of the week:* the contract, which everyone in Cleveland can recite and nobody can undo.
+*Next week:* Monken is asked the question again, and this time the answer costs him something.
