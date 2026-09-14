@@ -10,6 +10,8 @@ ink: "#A71930"
 gold: "#000000"
 tier: "fallen"
 record2025: "8-9"
+status: "Tua Tagovailoa missed the opener with an oblique injury; Cooper Rush started in his place"
+statusAsOf: 2026-09-14
 chronicled: true
 ---
 

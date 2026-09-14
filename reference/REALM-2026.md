@@ -34,6 +34,48 @@ house ranked twelfth. The 49ers are the second-oldest roster in the league
 and everyone had used that as a reason to file them away. Revisit the tiers
 if this holds.
 
+### Sunday 13 September — the full slate
+
+All thirteen, away house first. Chapters Three to Fifteen.
+
+| Result | Read it as |
+|---|---|
+| **Cardinals 26, Chargers 14** | The scandal of the week. Los Angeles opened as the heaviest favourite on the board (−9.5) and lost at home to the house the realm ranked last. Mike LaFleur's first day as a steward; Arizona's first road win there since 2001. |
+| **Vikings 39, Packers 22** | Succession. Kyler Murray concussed in the first quarter of his Minnesota debut; Carson Wentz relieved him and threw three. J.J. McCarthy had been moved to *third* four days earlier and did not play. Minnesota scored 29 straight. A final score never recorded before. |
+| **Jets 23, Titans 10** | Same tier, so a war, not an intrigue — but both houses went 3-14 and the subplot is enormous: Geno Smith's first Jets start since 2016, against Robert Saleh, the steward the Jets fired five games into 2024. |
+| **Lions 31, Saints 30 (OT)** | Decided by a decision. Detroit led 21-0; New Orleans outscored them 24-3 to force overtime, then Kellen Moore went for two and the win rather than the tie, and missed. |
+| **Bears 59, Panthers 37** | 96 points: the highest-scoring opener in league history, and a final score never recorded before. Chicago's most points since 1980 and a franchise-record 552 yards. Bryce Young threw for 361 and lost by three scores. Chicago's own Watch gave up 37. |
+| **Bills 36, Texans 31** | Ordinary by the table, a genuine war on the field. Buffalo's first win in Houston since 2006. Greg Rousseau stripped C.J. Stroud twice, the second to end the game. |
+| **Giants 28, Cowboys 20** | Sunday night. John Harbaugh's first game in New York after 18 seasons at Baltimore — a Diminished house beating a Contested one, with Jaxson Dart 23 of 29 and three scores. |
+| **Eagles 24, Commanders 22** | Held. Sean Mannion called plays for the first time in his life and Philadelphia's line struggled all day; Washington's tying two-point try — a shovel pass — was stuffed at the line. |
+| **Ravens 41, Colts 23** | Baltimore looking like the third-ranked house again on Jesse Minter's first day. Derrick Henry: 144 yards, three scores, and third on the all-time rushing touchdown list. |
+| **Bengals 33, Buccaneers 27** | The winter's spending justified. Cincinnati traded a first-round pick for Dexter Lawrence and its rebuilt Watch took four balls off Tampa Bay; Baker Mayfield lost three, the last through the end zone while trying to score. |
+| **Jaguars 34, Browns 10** | Cleveland at 31-0 early in the third, with its own travelling supporters chanting for Shedeur Sanders over Deshaun Watson, whom new steward Todd Monken had named the starter. Trevor Lawrence: 18 of 23, four scores. |
+| **Steelers 20, Falcons 13** | Mike McCarthy's first regular-season game running the house he and Aaron Rodgers beat in Super Bowl XLV. T.J. Watt's pick-six of Cooper Rush decided it. Atlanta's Tua Tagovailoa was out (oblique); Rush was named starter on the Friday. |
+| **Raiders 27, Dolphins 13** | Kirk Cousins, bought from Atlanta, reached 300 career touchdown passes — the 15th man to. The No. 1 overall pick, Fernando Mendoza, watched from the bench. Jeff Hafley's first day in Miami. |
+
+**Still to come in Week 1:** Broncos at Chiefs, Monday 14 September. Not yet played
+— do not write it.
+
+### What Week 1 says about the tiers
+
+- **Los Angeles (Chargers)** losing at home to the bottom-ranked house in the
+  realm is the week's one genuine scandal. Both L.A. houses lost; the Rams were
+  beaten by 20 in Melbourne on the Thursday.
+- **Baltimore** (ranked third on an 8-9 season) and **Jacksonville** both looked
+  the part immediately. **Cincinnati**'s defensive spending paid on day one.
+- **Arizona, the Jets and Las Vegas** — three of the five Fallen houses — all
+  won. If any of that holds past September, the Fallen tier needs rewriting, and
+  the upset table with it.
+- **Carolina** scored 37 and lost by 22. A Diminished house is allowed to be
+  outclassed; being outclassed while playing well is a different diagnosis.
+- **Seven** new stewards ran their first regular-season game in charge:
+  LaFleur (Arizona), Minter (Baltimore), John Harbaugh (New York Giants),
+  Saleh (Tennessee), McCarthy (Pittsburgh), Monken (Cleveland) and
+  Hafley (Miami). Week 1 2026 is, more than anything, about new management.
+  Four of the seven won: LaFleur, Minter, Harbaugh and McCarthy. Saleh, Monken
+  and Hafley lost.
+
 ## The playoff bracket, 2025–26
 
 **Wild Card** — Rams (5) 34, Panthers (4) 31 · Bears (2) 31, Packers (7) 27 ·
