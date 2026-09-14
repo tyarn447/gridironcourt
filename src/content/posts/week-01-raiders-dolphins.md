@@ -28,12 +28,11 @@ draft: false
 > — the words of House Raiders
 
 **Fernando Mendoza** was the first claim of the whole realm this spring — the most
-valuable young man available anywhere, taken by Las Vegas because Las Vegas had
-nothing else. On Sunday afternoon he stood on the sideline in a clean shirt
-and watched somebody else do his job well.
+valuable young man available, taken by Las Vegas because Las Vegas had nothing
+else. On Sunday afternoon he stood on the sideline in a clean shirt and watched
+somebody else do his job well.
 
-That was always the arrangement. The trouble is that on Sunday the arrangement
-worked.
+That was always the arrangement. The trouble is that it worked.
 
 ---
 
@@ -44,44 +43,44 @@ future here. He was bought to stop the bleeding.
 His first march in the colours went nine throws, nine caught, and ended with the
 ball in **Jack Bech**'s hands for a score. He did that twice more before the
 afternoon was out, and somewhere in the middle of it he threw the three hundredth
-scoring ball of his career. Fourteen men in the history of this sport have ever
-got there.
+scoring ball of his career. Fourteen men in the history of the sport have done that
+before him.
 
-He was not flawless; he gave it away twice. It did not matter. Nobody will write a
-chapter about him, and that is exactly why a losing house buys a man like that.
+He was not flawless; he gave it away twice. It did not matter. No song gets written
+about a man who is merely enough, which is exactly why a losing house buys one.
 
 And that is Mendoza's difficulty, standing behind him. There is no injury to wait
 for, no collapse to inherit, no seam in the calendar where a house stops and tries
-something new. Every competent afternoon Cousins has is
-another Sunday the first pick in the realm spends on his feet, holding a
-clipboard.
+something new. Every competent afternoon Cousins has is another Sunday the first
+pick in the realm spends on his feet, holding a clipboard.
 
 ---
 
 Miami made it interesting for about a quarter of an hour. They are the youngest
-house in the league by a clear margin, after a spring in which they let go of
-nearly everyone worth keeping, including the most famous knight they had, whom
-nobody has signed since. Their new steward, **Jeff Hafley**, was
-running his first day.
+house in the league, after a spring in which they let go of nearly everyone worth
+keeping, including the most famous knight they had, whom nobody has signed since. Their new steward, **Jeff Hafley**, was running his first
+day.
 
 They got it back to a single score early in the third quarter, and Allegiant
 Stadium went quiet.
 
-Then a young Raider took the next kick and ran it all the way to halfway before
-anybody laid a hand on him. Cousins, given a short field and no need to be
-brave, found **Ashton Jeanty** for the second scoring catch of Jeanty's
-afternoon, and the door shut. Miami's own lord was put on the grass five times, and
-the man they were counting on to do that to Cousins was never heard from.
+Then a Raider took the next kick and ran it all the way to halfway before anybody
+laid a hand on him. Cousins, given a short field and no need to be brave, found
+**Ashton Jeanty** — the knight this house runs everything through — for his second
+scoring catch of the afternoon, and the door shut.
+
+Miami's own lord was put on the grass five times, and the man they were counting on
+to do that to Cousins was never heard from.
 
 Las Vegas won by two scores, in a game that never felt that close.
 
 ---
 
 So the Raiders have exactly what they paid for, and the problem that came with it.
-There is no bye for months, no gentle Thursday or Monday ahead of them, no soft
-moment in which to hand over a throne. The succession, when it comes, will
-not be arranged. It will happen mid-afternoon, after something has gone wrong, in
-front of everyone.
+There is no week off for months, no gentle Thursday or Monday game ahead of them,
+no soft moment in which to hand a throne over. The succession, when it comes, will
+not be arranged. It will happen mid-afternoon, after something goes wrong, in front
+of everyone.
 
 Until then, the most valuable thing this house owns spends its Sundays standing up.
 

@@ -27,33 +27,32 @@ draft: false
 
 > *Skol, And Suffer.*
 > — the words of House Vikings
-
 The rental lasted a quarter of an afternoon.
 
 **Kyler Murray** came to Minnesota on a twelve-month lease. Not a succession,
 not a future — one year, explicitly temporary, signed the day after Arizona put
 him out. On Sunday, in the first quarter of the first game, he ran a single yard
 and two Green Bay men arrived at once. One of them was flagged for how he did
-it. Murray did not come back. It was his head, which is the injury nobody
-argues about.
+it. Murray did not come back. It was his head, which is the injury nobody argues
+about.
 
 So the seat was empty, and everyone in that building knew who should have been
 waiting behind it.
 
 **J.J. McCarthy** was this house's first-round claim two springs ago, the tenth
-name called in the realm, and promised the future here. He has spent most
-of the time since in a treatment room — a knee that cost him an entire season,
-then an ankle, then a concussion, then a hairline break in his throwing hand.
-Days before this game, Minnesota moved him quietly down to third.
+name called in the realm, and promised the future here. He has spent most of the
+time since in a treatment room — a knee that cost him an entire season, then an
+ankle, then a concussion, then a hairline break in his throwing hand. Days
+before this game, Minnesota moved him quietly down to third.
 
 Third. Not the understudy. The understudy's understudy, in his own hall, with
 nothing to do all day.
 
 ---
 
-The man who took the seat instead was **Carson Wentz**, made second in line
-only days earlier himself, and running the whole house before the first quarter
-was out.
+The man who took the seat instead was **Carson Wentz**, made second in line only
+days earlier himself, and running the whole house before the first quarter was
+out.
 
 For a while it looked as though none of that would matter. **Jordan Love** threw
 for nearly four hundred yards, and Green Bay — which made the postseason last
@@ -84,9 +83,9 @@ Jefferson was exactly where he was meant to be.
 
 Ahead. For the first time. On the arm of the second choice.
 
-Green Bay did not score again. Minnesota won it by two scores and more,
-finishing on twenty-nine points in a row — which is less a comeback than a house
-remembering what it is in front of the one neighbour it cannot stand to lose to.
+Green Bay did not score again. Minnesota won heavily, on twenty-nine points in a
+row — which is less a comeback than a house remembering what it is in front of
+the one neighbour it cannot stand to lose to.
 
 The lease still runs twelve months. The lord is concussed, the heir is third in
 line, the substitute has three scores to his name, and somebody has to walk out

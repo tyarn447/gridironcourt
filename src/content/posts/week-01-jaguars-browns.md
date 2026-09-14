@@ -40,12 +40,14 @@ almost nothing on the field since. Nobody in Cleveland argues about that part. I
 is not an opinion, it is the size of the cheque, and it sits over the building like
 weather.
 
-The man they wanted instead is **Shedeur Sanders** — second year, unproven, the
+The man the crowd wanted is **Shedeur Sanders** — second year, unproven, the
 most famous name in the room, and adored by people who have run out of patience
 with everything else about this house.
 
 Monken chose the veteran. That is a defensible football decision, and he will be
 asked about it every week for as long as he holds the job.
+
+---
 
 It went wrong inside an hour. Watson gave the ball away twice before the interval,
 and Jacksonville — a house that won a great deal last season and then lost its one

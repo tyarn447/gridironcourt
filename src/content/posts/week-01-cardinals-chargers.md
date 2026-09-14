@@ -28,19 +28,17 @@ draft: false
 
 > *The Oldest House.*
 > — the words of House Cardinals
-
-**Jacoby Brissett** is who a house sends for when the plan has already failed.
-His entire career is other men's seats, kept warm and handed back without
-complaint.
+**Jacoby Brissett** is the man a house sends for when the plan has already
+failed. His entire career is other men's seats, kept warm and handed back
+without complaint.
 
 Arizona did not send for him as a substitute. Arizona gave him the house.
 
-In the spring this house released the lord it had spent a decade building
-around — released him at the first minute of the first day it was legally
-allowed to, and it will be paying him not to be here for two more winters.
-Brissett is what they did next. Nobody read that as a plan. Arizona won three
-games all last season, and the realm agreed with the ranking and thought about
-something else.
+In the spring this house released the lord it had spent a decade building around
+— released him at the first minute of the first day it was legally allowed to,
+and it will be paying him not to be here for two more winters. Brissett is what
+they did next. Nobody read that as a plan. Arizona won three games all last
+season, and the realm agreed with the ranking and thought about something else.
 
 So: Los Angeles, at home, the heaviest favourite in the realm this weekend,
 against the house nobody fancied at all.
@@ -49,14 +47,14 @@ Arizona won by two scores and never once looked hurried.
 
 ---
 
-Nobody tells you how unhurried an upset looks while it is happening.
+Nobody tells you how ordinary an upset looks while it is happening.
 
 Brissett was not brilliant. He was *unbothered*, throwing to **Trey McBride**
 nine separate times and never far, like a man paying off a debt in instalments.
-A squire named **Jeremiyah Love** scored the first points of his life. And
-**Chad Ryland**, the Reckoner, who stands apart from everybody by trade, went
-out four times and kicked four times — one of them after a Los Angeles man
-grabbed a face mask and gave away the ground for nothing.
+A squire scored the first points of his whole life. And **Chad Ryland**, the
+Reckoner, who stands apart from everybody by trade, went out four times and
+kicked four times — one of them after a Los Angeles man grabbed a face mask and
+gave away the ground for nothing.
 
 Across the field, **Jim Harbaugh** watched his own house hold the ball for a
 little over a third of the afternoon. Nothing is winnable from there.
@@ -66,20 +64,20 @@ little over a third of the afternoon. Nothing is winnable from there.
 Two minutes before the interval, Los Angeles came to within three strides of
 scoring and stopped.
 
-Harbaugh's kicker was standing right there with the easiest work of his
-afternoon waiting for him.
+Harbaugh's own kicker was standing right there, with the easiest work of his
+afternoon in front of him.
 
 He sent his lord instead.
 
-**Justin Herbert** never got the throw away. Arizona came through the
-shieldwall and put him on the grass, and the favourite walked off its own field
-with nothing to show for the whole long march. Ryland went out and kicked
-again, and Los Angeles spent the rest of the day behind.
+**Justin Herbert** never got the throw away. Arizona came through the shieldwall
+and put him on the grass, and the favourite walked off its own field with
+nothing to show for the whole long march. Ryland went out and kicked again, and
+Los Angeles spent the rest of the day behind.
 
 After that it came apart in the ordinary ways. Arizona smothered a kick before
 it left the ground, then took one of Herbert's throws clean out of the air.
-Somewhere in that stretch Los Angeles lost **Ladd McConkey**, the one knight
-all afternoon who had looked capable of rescuing something, to a hurt chest.
+Somewhere in that stretch Los Angeles lost **Ladd McConkey**, the one knight all
+afternoon who had looked capable of rescuing something, to a hurt chest.
 Harbaugh had nothing to tell anyone about him afterward.
 
 He did not have much on the rest of it either. He called his house sloppy and

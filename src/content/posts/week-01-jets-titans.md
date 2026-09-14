@@ -27,14 +27,13 @@ draft: false
 
 > *We Believe Anyway.*
 > — the words of House Jets
-
 **Geno Smith** lost his place in this house over six hundred dollars.
 
 It was a plane ticket to a camp he had missed because someone close to him had
-died. A teammate wanted the money back. Smith would not pay it, and the
-teammate broke his jaw in the locker room in August and was gone from the
-building within hours. So, in every way that counted, was Smith: he lost the
-seat that month and never got it back.
+died. A teammate wanted the money back. Smith would not pay it, and the teammate
+broke his jaw in the locker room in August and was gone from the building within
+hours. So, in every way that counted, was Smith: he lost the seat that month and
+never got it back.
 
 New York traded for him again in the spring. He is thirty-six.
 

@@ -65,13 +65,13 @@ Cincinnati and walked off the field.
 
 ---
 
-He did not make anybody else carry it. *This one falls on me*, he said afterwards,
+Mayfield handed the blame to nobody. *This one falls on me*, he said afterwards,
 before a single person had to ask him. His steward, **Todd Bowles**, did the
 arithmetic out loud: four balls given away, and they still only lost by one score.
 
-And they nearly won it anyway. Cincinnati's own lord, **Joe Burrow**,
-threw one away in his turn, and a Tampa Bay man carried it back for a score, and
-the Jungle — this house's hall, loud all day — went very quiet for a while.
+And they nearly won it anyway. Cincinnati's own lord, **Joe Burrow**, threw one
+away in his turn, and a Tampa Bay man carried it back for a score, and the
+Jungle — this house's own hall, loud all day — went very quiet for a while.
 
 But the ball kept ending up in Cincinnati's hands all afternoon, for the first
 time in years, and Cincinnati won it by that one score. That is what a
