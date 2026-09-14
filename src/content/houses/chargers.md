@@ -10,6 +10,8 @@ ink: "#0080C6"
 gold: "#FFC20E"
 tier: "contested"
 record2025: "11-6"
+status: "Ladd McConkey left the opener with a chest injury; Jim Harbaugh had no update afterward"
+statusAsOf: 2026-09-14
 chronicled: true
 ---
 

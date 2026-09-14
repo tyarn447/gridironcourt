@@ -10,8 +10,8 @@ ink: "#4F2683"
 gold: "#FFC62F"
 tier: "contested"
 record2025: "9-8"
-status: "Kyler Murray starting; J.J. McCarthy on the bench"
-statusAsOf: 2026-09-10
+status: "Kyler Murray concussed in the first quarter of his debut; Carson Wentz relieved him and won it. J.J. McCarthy was third on the depth chart"
+statusAsOf: 2026-09-14
 chronicled: true
 ---
 
