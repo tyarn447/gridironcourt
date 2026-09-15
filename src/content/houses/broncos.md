@@ -10,8 +10,8 @@ ink: "#FB4F14"
 gold: "#002244"
 tier: "ascendant"
 record2025: "14-3"
-status: "Season opens at home against Kansas City"
-statusAsOf: 2026-09-10
+status: "Opened the season 31-10 down at Kansas City; Bo Nix was intercepted on the first drive and fumbled three times"
+statusAsOf: 2026-09-15
 chronicled: true
 ---
 
