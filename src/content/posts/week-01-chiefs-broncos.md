@@ -7,8 +7,8 @@ season: 2026
 week: 1
 date: 2026-09-14
 houses: ["chiefs", "broncos"]
-line: "Patrick Mahomes asked to be hit, and then Kansas City won it on the ground without him."
-excerpt: "Nine months after his knee came apart, Mahomes went back to work and ran at two men on purpose. The house the realm had buried won by three scores."
+line: "Mahomes came back from a torn-up knee, asked to be hit on purpose, and Kansas City ran Denver over anyway."
+excerpt: "Nine months after his knee came apart, Mahomes dove into two grown men on purpose. Then the house the realm had buried won going away, on the ground."
 record:
   - "Chiefs 31, Broncos 10 — GEHA Field at Arrowhead Stadium, Monday night. Attendance 73,543"
   - "By quarter: 7-7, then Kansas City 7 (14-7 at halftime), then 10-3 (24-10), then 7"
@@ -36,61 +36,58 @@ Before the game, **Patrick Mahomes** asked his steward for something strange.
 
 He wanted to be hit.
 
-Not protected. Hit, while running, by a grown man, on purpose — the one thing
-nine months of rooms and machines could not tell him.
+Not shielded. Hit, at a run, by a grown man who meant it — the one thing nine
+months of quiet rooms and machines could not tell him.
 
-Nine months ago his knee came apart. Two of the cords that hold it together, in a
-game that no longer mattered, at the end of a season already gone. This house
-lost eleven times last year and missed the winter for the first time in a decade,
-and the realm has argued ever since whether that was a fall or a knee.
+Nine months is how long it had been. His left knee came apart — two of the cords
+that hold a knee together, going at once, in the December game that ended Kansas
+City's season. It was the first winter this house spent at home since before
+Mahomes arrived, and the realm has argued ever since whether that was a fall or a
+knee.
 
-On the tenth occasion he touched the ball on Monday night he ran at the line, and
-two Denver men arrived, and instead of going down he *dove* — into both of them,
-on that leg, for the first score of his new season.
+Early on Monday night he took off with the ball himself, and when two Denver men
+closed on him he did not go down. He *dove*, into both of them, on that leg, and
+scored.
 
-**Chris Jones**, who plays on his own Watch and could do nothing but watch, said
-he held his breath until Mahomes got up.
-
----
-
-Then the evening showed what it was really about: Kansas City did not need him
-magnificent.
-
-They gave it to **Kenneth Walker III** instead, over and over, until Denver could
-not stand up. This is the man the champion had — Seattle took the throne in
-February with him in its colours — and this house, eleven games into the red,
-paid him more than any free man has ever been paid and put him behind a lord with
-a rebuilt knee. He took more ground in one night than anyone here has since
-Mahomes arrived.
-
-**Travis Kelce**, near the end of a very long story, went fifty-nine yards with
-one catch and passed a great name on a list.
+**Chris Jones**, who defends this house and so was watching from the sideline,
+said afterward that he held his breath until Mahomes got back up.
 
 ---
 
-Denver came in furious, with reason: fourteen wins last year, the best record in
-the conference, and then the conference itself lost at home, in snow, by three
-points. The realm shrugged and spent the summer elsewhere.
+He did not have to be magnificent after that, and nobody asked him to be.
 
-They were beaten here in the least dignified way available. Their lord, **Bo
-Nix**, gave the ball away on the very first march of the night, and three times
-afterward it simply left his hands.
+**Kenneth Walker III** was judged the best man on the field the day Seattle won the
+throne in February. Kansas City bought him in the spring for more money than any
+free man in this sport has been paid, and handed him to a lord with a rebuilt knee.
+On Monday they gave him the ball until Denver could not stand up to it.
+
+The house being run through was not built to allow that. Denver was the best in the
+conference last year, and its Watch was much of the reason. Then it lost the one game
+between it and the throne, at home, in the snow, and nobody talked about them all
+summer.
+
+Their lord, **Bo Nix**, gave the ball away before Denver had properly started,
+straight to a Kansas City squire, and Kansas City scored off it. Three more times
+that night the ball came loose out of his hands.
 
 ---
 
 Then came the yard.
 
-One yard to gain, one attempt to gain it, and no reason for Kansas City to do
-anything clever. Everyone in that building knew where the ball was going.
+One yard to gain, one attempt to gain it. Everybody in that building knew who
+Kansas City had bought, and so knew where the ball was going. If he did not get
+the yard, Denver took the ball back and the night was still a contest.
 
-Walker took it outside instead of into them. Nobody set the edge. Nobody brought
-him down. Sixty yards.
+Walker went outside instead of into them. Nobody set the edge. Nobody laid a hand
+on him.
 
-Kansas City won by three scores.
+He was asked for one yard. He took sixty.
 
-**Sean Payton** hid behind nobody. Not a great evening, he said — they had not
-done much well at all, and that starts with him and his staff. On the long run he
-was precise: they did not set an edge, and they missed a tackle.
+Kansas City won it easily, and Denver never came near them again.
+
+**Sean Payton**, who runs Denver, hid behind nobody. Not a great evening, he said;
+they had not done much well, and that starts with him and his staff. On the
+long run he was exact: no edge set, a tackle missed.
 
 The realm spent all summer refusing to believe this house had fallen. One night
 settles nothing. But the king asked to be hit, and was hit, and got up.
