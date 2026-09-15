@@ -54,8 +54,27 @@ All thirteen, away house first. Chapters Three to Fifteen.
 | **Steelers 20, Falcons 13** | Mike McCarthy's first regular-season game running the house he and Aaron Rodgers beat in Super Bowl XLV. T.J. Watt's pick-six of Cooper Rush decided it. Atlanta's Tua Tagovailoa was out (oblique); Rush was named starter on the Friday. |
 | **Raiders 27, Dolphins 13** | Kirk Cousins, bought from Atlanta, reached 300 career touchdown passes — the 15th man to. The No. 1 overall pick, Fernando Mendoza, watched from the bench. Jeff Hafley's first day in Miami. |
 
-**Still to come in Week 1:** Broncos at Chiefs, Monday 14 September. Not yet played
-— do not write it.
+### Monday 14 September — Chiefs 31, Broncos 10
+
+**Read this as the loudest result of the week.** Kansas City went 6-11 and the realm
+kept them eighth anyway, on the theory that the collapse was really one knee. Nine
+months after tearing the ACL and LCL in his left knee, Patrick Mahomes returned and
+Kansas City beat the conference's reigning top seed by three scores, at Arrowhead,
+on the ground — 38 carries for 220 yards, with Kenneth Walker III (the Super Bowl LX
+MVP, bought from Seattle) taking 173 of them and scoring twice. Travis Kelce passed
+Jason Witten for second on the all-time receiving-yards list among tight ends.
+
+Denver, who went 14-3 and lost the conference championship at home 10-7, were
+humiliated: Bo Nix threw an interception on the opening drive and fumbled three
+times, and the defence missed tackles all night. Sean Payton took it on himself —
+"That starts with me, that starts with our coaching staff."
+
+For the tiers: **Kansas City** looks like a house whose fall was one injury, which
+is what the realm has been insisting all summer. If that holds, they are not
+Ascendant, they are Great, and the "house in denial" framing in this file is dead.
+**Denver** is the opposite problem — the tier says Ascendant and the season opened
+with a three-score beating. Do not write them as furious-and-overlooked again
+without acknowledging this night.
 
 ### What Week 1 says about the tiers
 

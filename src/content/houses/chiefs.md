@@ -10,12 +10,14 @@ ink: "#E31837"
 gold: "#FFB81C"
 tier: "ascendant"
 record2025: "6-11"
+status: "Patrick Mahomes has returned from the torn knee and won his first game back"
+statusAsOf: 2026-09-15
 chronicled: true
 ---
 
 ## The Wound
 
-The wound is three months old and the realm still cannot process it.
+The wound arrived in December 2025, and the realm still cannot process it.
 
 For a decade this house was the fixed point. Five conference titles, three
 thrones, a lord who did things nobody had done. Then last season it went
